@@ -100,8 +100,13 @@ I'm With You	Avril Lavigne
 My Happy Ending	Avril Lavigne
 Britney Spears	Baby One More Time
 I Want It That Way	Backstreet Boys
+American Jesus	Bad Religion
+Big Bang	Bad Religion
+Walk Away	Bad Religion
+You	Bad Religion
 I Heard A Rumour	Bananarama
 Världen Utanför	Barbados
+Video Resume	Barney Stinson
 Mandy	Barry Manilow
 You're The First, The Last, My Everything	Barry White
 Boten Anna	Basshunter
@@ -155,6 +160,7 @@ Daddy Cool	Boney M
 Total Eclipse of the Heart	Bonnie Tyler
 Shine	Booty Luv
 More Than A Feeling	Boston
+Was wollen wir trinken	Bots
 1985	Bowling For Soup
 Waiting For A Star To Fall	Boy Meets Girl
 The Great Escape	Boys Like Girls
@@ -209,6 +215,7 @@ Genie in a Bottle	Christina Aguilera
 Hurt	Christina Aguilera
 Keeps Gettin' Better	Christina Aguilera
 AM to PM	Christina Milian
+Karl-Heinz	Christoph & Lollo
 Promise	Ciara
 Love & Sexy Magic	Ciara feat.Justin Timberlake
 Bibbidi Bobbidi Boo	Cinderella
@@ -260,8 +267,15 @@ Thank You	Dido
 Thank You (Karaoke)	Dido
 White Flag	Dido
 Geboren	Die Fantastischen Vier
+Das Schlimmste Ist, Wenn Das Bier Alle Ist	Die Kassierer
 Alle nur geklaut	Die Prinzen
 Du musst ein Schwein sein	Die Prinzen
+Deine Schuld	Die Ärzte
+Der Graf	Die Ärzte
+El Cattivo	Die Ärzte
+Fette Elke	Die Ärzte
+Für Uns	Die Ärzte
+Geschwisterliebe	Die Ärzte
 Manchmal haben Frauen	Die Ärzte
 Männer Sind Schweine	Die Ärzte
 Schrei nach Liebe	Die Ärzte
@@ -275,6 +289,7 @@ Not Ready To Make Nice	Dixie Chicks
 Riidankylväjä	Don Huonot
 Mamor, Stein und Eisen bricht	Drafi Deutscher
 Du wirst unbesiegbar sein	Dragonball Z
+Dirty Glass	Dropkick Murphys
 Ordinary World	Duran Duran
 Rio	Duran Duran
 Son of a Preacher Man	Dusty Springfield
@@ -354,6 +369,7 @@ I Can't dance	Genesis
 Careless Whisper	George Michael
 Careless Whisper (Karaoke)	George Michael
 Faith	George Michael
+Sag ihr auch	Gerd Christian
 Cammina nel sole	Gianluca Grignani
 Destinazione Paradiso	Gianluca Grignani
 La mia storia fra le dita	Gianluca Grignani
@@ -374,6 +390,8 @@ American Idiot	Green Day
 Basket Case	Green Day
 Boulevard of broken Dreams	Green Day
 Brain Stew	Green Day
+East Jesus Nowhere	Green Day
+Geek Stink Breath	Green Day
 Hitchin A Ride	Green Day
 Wake me up when september ends	Green Day
 When I Come Around	Green Day
@@ -394,6 +412,7 @@ I've Got Nerve	Hannah Montana
 Hard To Beat	Hard Fi
 Alone	Heart
 My Number One	Helena Paparizou
+Ich will immer wieder (Dieses Fieber spür´n)	Helene Fischer
 Country Roads	Hermes House Band
 Diggi-Loo Diggi-Ley	Herreys
 Start Of Something New	High School Musical
@@ -403,6 +422,7 @@ Join Me	Him
 Celebrity Skin	Hole
 The Reason	Hoobastank
 Hello Again	Howard Carpendale
+Schenk mir dein Herz	Höhner
 Real Wild One	Iggy Pop
 Ikuinen Virta	Indica
 Fear Of The Dark	Iron Maiden
@@ -622,6 +642,7 @@ Shake It	Metro Station
 Beat It	Michael Jackson
 Cinque giorni	Michele Zarrillo
 Kinderaugen	Michelle
+Wirst du noch da sein	Michelle
 Breathe	Michelle Branch
 The Greatest	Michelle Williams
 Der Nippel	Mike Krüger
@@ -830,6 +851,9 @@ Sexual Healing	Rockapella
 Time Warp	Rocky Horror Show
 När Vindarna Viskar Mitt Namn	Roger Pontare
 Eloisa	Roger Whittaker
+Lass mich bei Dir sein	Roger Whittaker
+Wenn Es Dich Noch Gibt	Roger Whittaker
+Manchmal möchte ich schon mit dir	Roland Kaiser
 Vorrei incontrarti fra 100 anni	Ron
 If Tomorrow Never Comes	Ronan Keating
 Father and Son	Ronan Keating feat. Yusuf Islam
@@ -855,6 +879,7 @@ Laura	Scissor Sisters
 Wind of Change	Scorpions
 San Francisco	Scott McKenzie
 Beautiful Girls	Sean Kingston
+Schwinger	Seeed
 Suerte	Shakira
 Whenever wherever	Shakira
 From this moment on	Shania Twain
@@ -896,6 +921,7 @@ Kiss Me Through The Phone	Souljia Boy Ft. Sammie
 Gold	Spandau Ballet
 Say You'll Be There	Spice Girls
 Wannabe	Spice Girls
+Ich war noch niemals in New York	Sportfreunde Stiller & Udo Jürgens
 Nothing's Gonna Stop Us Now	Starship
 We Built this City	Starship
 Born to be wild	Steppenwolf
@@ -1007,6 +1033,7 @@ Amore Impossibile	Tiromancino
 Imbranato	Tiziano Ferro
 Non me lo so spiegare	Tiziano Ferro & Laura Pausini
 Durch den Monsun	Tokio Hotel
+It's Not Unusual	Tom Jones
 En Dag	Tommy Nilsson
 Sober	Tool
 Beinhart	Torfrock
@@ -1021,6 +1048,7 @@ Vertigo	U2
 With or without you	U2
 17 Jahr	Udo Jürgens
 Aber bitte mit Sahne	Udo Jürgens
+Ich weiß, was ich will	Udo Jürgens
 Free	Ultra Nate
 balla	Umberto Balsamo
 Gloria	Umberto Tozzi
@@ -1058,6 +1086,7 @@ Von Hier An Blind	Wir Sind Helden
 Lebendig und kräftig und schärfer	Wise Guys
 Mensch, wo bist du? (Karaoke)	Wise Guys
 Stand My Ground	Within Tempation
+Schifoan	Wolfgang Ambros
 Auf den Mond schiessen	Wolfgang Petry
 Augen zu und durch	Wolfgang Petry
 Bronze, Silber Und Gold (Live)	Wolfgang Petry
@@ -1082,3 +1111,4 @@ Ganz egal	böhse onkelz
 nichts in der Welt	die ärzte
 Vorrei	lunapop
 All The Things She Said (Radio Version)	t.A.T.u.
+Ö la Palöma	Ö la Palöma Boys
