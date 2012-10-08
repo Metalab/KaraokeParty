@@ -1,4 +1,7 @@
 Cruella De Vil	101 Dalmatians
+36 Grad	2Raumwohnung
+Kommt Zusammen	2Raumwohnung
+Wir Trafen Uns In Einem Garten	2Raumwohnung
 When I'm Gone	3 Doors Down
 When I'm gone	3 Doors Down
 In Da Club	50 Cent
@@ -14,6 +17,24 @@ Honey, Honey	ABBA
 I Have A Dream	ABBA
 Mamma Mia	ABBA
 Waterloo	ABBA
+Back in Black (Live)	AC/DC
+Dirty deeds done dirt cheap (Live)	AC/DC
+Fire your Guns (Live)	AC/DC
+For those about to Rock (We salute you) (Live)	AC/DC
+Heatseeker (Live)	AC/DC
+Hell ain't a bad place to be (Live)	AC/DC
+Hells Bells (Live)	AC/DC
+High Voltage (Live)	AC/DC
+Highway to Hell (Live)	AC/DC
+Jailbreak (Live)	AC/DC
+Let there be Rock (Live)	AC/DC
+Moneytalks (Live)	AC/DC
+Shoot to Thrill (Live)	AC/DC
+T.N.T. (Live)	AC/DC
+The Jack (Live)	AC/DC
+Thunderstruck (Live)	AC/DC
+Whole lotta Rosie (Live)	AC/DC
+You shook me all night long (Live)	AC/DC
 Try Again	Aaliyah
 Money, Money, Money	Abba
 Highway To Hell	Ac/dc
@@ -30,6 +51,7 @@ Don't want to miss a Thing	Aerosmith
 La Dolce Vita	After Dark
 Beetween Love And Fire	After Forever
 Follow In The Cry	After Forever
+Wir sind Werder Bremen	Afterburner
 Non è per sempre	Afterhours
 Take on me	Aha
 Take on me (Karaoke)	Aha
@@ -40,12 +62,14 @@ Beautiful	Akon ft. Kardinal Offishal & Colby O Donis
 Felicità	Al Bano & Romina Power
 A Whole New World (Aladdin)	Aladdin
 A Whole New World (Jasmine)	Aladdin
+Ein Traum Wird Wahr	Aladdin
 Il Mondo è Mio	Aladdin'
 Chattahoochee	Alan Jackson
 Good Time	Alan Jackson
 Figli delle stelle	Alan Sorrenti
 Ironic	Alanis Morissette
 Black Velvet	Alannah Myles
+It Never Rains In Southern California	Albert Hammond
 Not A Sinner, Nor A Saint	Alcazar
 Destination Calabria	Alex Gaudino feat Crystal Waters
 Ring um die Eier	Alex Knoll
@@ -73,6 +97,7 @@ Dimmi dimmi	Anna Tatangelo
 Quando due si lasciano	Anna Tatangelo
 cosa ne sai	Anna Tatangelo
 Ragazza di periferia	Anna tatangelo
+Das Gefühl	Annett Louisan
 Das Spiel	Annett Louisan
 Sweet Dreams	Annie Lennox
 Milla	Anssi Kela
@@ -80,6 +105,9 @@ Alta Marea	Antonello Venditti
 Che c'è	Antonello Venditti
 Barbie Girl	Aqua
 Respect	Aretha Franklin
+Nur Ein Kuss	Arielle
+Unten Im Meer	Arielle
+Katzen Brauchen Furchtbar Viel Musik	Aristocats
 Högt Över Havet	Arja Saijonmaa
 L'italiano Medio	Articolo 31
 La mia ragazza mena	Articolo 31
@@ -92,12 +120,15 @@ Ufo Robot	Atlas
 Eternal Flame	Atomic Kitten
 Eternal Flame (Karaoke)	Atomic Kitten
 Cochise	Audioslave
+Almost Easy	Avenged Sevenfold
+Beast and the Harlot	Avenged Sevenfold
 Complicated	Avril Lavigne
 Complicated (Karaoke)	Avril Lavigne
 Girlfriend	Avril Lavigne
 Hot	Avril Lavigne
 I'm With You	Avril Lavigne
 My Happy Ending	Avril Lavigne
+Raindrops Keep Fallin' On My Head	B. J. Thomas
 Britney Spears	Baby One More Time
 I Want It That Way	Backstreet Boys
 American Jesus	Bad Religion
@@ -114,6 +145,7 @@ Charlie fa surf	Baustelle
 Beauty And The Beast	Beauty And The Beast
 E-Pro	Beck
 Girl	Beck
+1. 2. 3. ...	Bela B.
 Heaven Is A Place On Earth	Belinda Carlisle
 Crazy In Love	Beyonce
 Halo	Beyonce
@@ -122,11 +154,18 @@ Irreplaceable	Beyonce
 Listen	Beyonce
 Single ladies (Put a ring on it)	Beyonce
 Beautiful Liar	Beyonce feat. Shakira
+Beautiful Liar (Duett)	Beyoncé feat. Shakira
 Coccinella	Biagio Antonacci
 Convivendo	Biagio Antonacci
 Save a Horse	Big And Rich
 Ain't No Sunshine	Bill Withers
 Uptown Girl	Billy Joel
+Devil In A Midnight Mass	Billy Talent
+Fallen Leaves	Billy Talent
+Nothing To Lose	Billy Talent
+Red Flag	Billy Talent
+Surrender	Billy Talent
+Try Honesty	Billy Talent
 Shut Up	Black Eyed Peas
 Paranoid	Black Sabbath
 Home	Blake Shelton
@@ -152,6 +191,7 @@ One Love (Karaoke)	Blue
 Everybody Needs Somebody To Love	Blues Brothers
 Parklife	Blur
 Song 2	Blur
+Lay Lady Lay	Bob Dylan
 Could you be loved	Bob Marley
 Redemption Song	Bob Marley & The Wailers
 Love Generation	Bob Sinclar
@@ -175,6 +215,7 @@ Lucky	Britney Spears
 Toxic	Britney Spears
 Womanizer	Britney Spears
 Do You	Bro'sis
+Ruby Light & Dark	Broilers
 Boot Scootin' Boogie	Brooks & Dunn
 If You See Him If You See Her	Brooks & Dunn
 Tears Of The Dragon	Bruce Dickinson
@@ -185,8 +226,22 @@ Video Killed The Radio Star	Buggles
 All These Things I Hate (revolve Around Me)	Bullet For My Valentine
 Crashed the Wedding	Busted
 Crashed the Wedding (Karaoke)	Busted
+Auf gute Freunde	Böhse Onkelz
+Bin ich nur glücklich...	Böhse Onkelz
+Bomberpilot	Böhse Onkelz
+Die Firma	Böhse Onkelz
+Dr. Martens Beat	Böhse Onkelz
+Dunkler Ort	Böhse Onkelz
+Ganz egal	Böhse Onkelz
+Ich bin in Dir	Böhse Onkelz
 Mexico	Böhse Onkelz
+Nichts Ist Für Die Ewigkeit	Böhse Onkelz
+Nur die Besten Sterben Jung	Böhse Onkelz
+Schöne neue Welt	Böhse Onkelz
 Stunde des Siegers	Böhse Onkelz
+Terpentin	Böhse Onkelz
+Wir sind immer für euch da	Böhse Onkelz
+Zeit zu gehn	Böhse Onkelz
 Zuviel	Böhse Onkelz
 Young Hearts Run Free	Candi Staton
 Erase and Rewind	Cardigans
@@ -215,14 +270,21 @@ Genie in a Bottle	Christina Aguilera
 Hurt	Christina Aguilera
 Keeps Gettin' Better	Christina Aguilera
 AM to PM	Christina Milian
+Ich Lebe	Christina Stürmer
+Immer An Euch Geglaubt	Christina Stürmer
+Scherbenmeer	Christina Stürmer
 Karl-Heinz	Christoph & Lollo
 Promise	Ciara
 Love & Sexy Magic	Ciara feat.Justin Timberlake
+Bibbidi Babbidi Bu	Cinderella
 Bibbidi Bobbidi Boo	Cinderella
 The Work Song	Cinderella
 Avrai	Claudio Baglioni
 Mille giorni di te e di me	Claudio Baglioni
+Chicago	Clueso
 Gewinner	Clueso
+Kein Bock Zu Geh'n	Clueso
+Vergessen ist so leicht	Clueso
 Bubbly	Colbie Caillat
 Speed Of Sound	Coldplay
 Viva La Vida	Coldplay
@@ -246,6 +308,8 @@ If You're Not the One (Karaoke)	Daniel Bedingfield
 Bad Day	Daniel Powter
 Gino e l'Alfetta	Daniele Silvestri
 NyaNyaNyaNyaNyaNyaNya	DaniwellP feat. Hatsune Miku
+Ich Wäre Gern Wie Du	Das Dschungelbuch
+Probiers Mal Mit Gemütlichkeit	Das Dschungelbuch
 Changes	David Bowie
 Life On Mars?	David Bowie
 Rimmel	De Gregori
@@ -257,6 +321,7 @@ Smoke On The Water	Deep Purple
 This Is Me	Demi Lavato & Joe Jonas
 Enjoy The Silence	Depeche Mode
 Photographic	Depeche Mode
+Hakuna Matata	Der König Der Löwen
 Bootylicious	Destiny's Child
 Say My Name	Destiny's Child
 Survivor	Destiny's Child
@@ -267,32 +332,115 @@ Thank You	Dido
 Thank You (Karaoke)	Dido
 White Flag	Dido
 Geboren	Die Fantastischen Vier
+Sie Ist Weg	Die Fantastischen Vier
 Das Schlimmste Ist, Wenn Das Bier Alle Ist	Die Kassierer
-Alle nur geklaut	Die Prinzen
+Alles Nur Geklaut	Die Prinzen
 Du musst ein Schwein sein	Die Prinzen
+Mein Fahrrad	Die Prinzen
+Die Schöne Und Das Biest	Die Schöne Und Das Biest
+1000 Gute Gründe	Die Toten Hosen
+All Die Ganzen Jahre	Die Toten Hosen
+Alles Aus Liebe	Die Toten Hosen
+Alles Wird Vorübergehen	Die Toten Hosen
+Auld Lang Syne	Die Toten Hosen
+Bayern	Die Toten Hosen
+Bis zum bitteren Ende	Die Toten Hosen
+Bonnie And Clyde	Die Toten Hosen
+Eisgekühlter Bommerlunder	Die Toten Hosen
+Freunde	Die Toten Hosen
+Friss Oder Stirb	Die Toten Hosen
+Hier Kommt Alex	Die Toten Hosen
+Hier Kommt Alex (Unplugged)	Die Toten Hosen
+Ich bin die Sehnsucht in dir	Die Toten Hosen
+Kein Alkohol	Die Toten Hosen
+Nur Zu Besuch	Die Toten Hosen
+Paradies	Die Toten Hosen
+Pushed Again	Die Toten Hosen
+Schön Sein	Die Toten Hosen
+Schönen Gruß, auf Wiederseh'n	Die Toten Hosen
+Steh Auf, Wenn Du Am Boden Bist	Die Toten Hosen
+Still, Still, Still	Die Toten Hosen
+Tage wie diese	Die Toten Hosen
+Unsterblich	Die Toten Hosen
+Walkampf	Die Toten Hosen
+Was Zählt	Die Toten Hosen
+Wünsch Dir Was	Die Toten Hosen
+Zehn Kleine Jägermeister	Die Toten Hosen
+1-2 Lovesong	Die Ärzte
+3 Tage Bart	Die Ärzte
+Bitte Bitte...	Die Ärzte
 Deine Schuld	Die Ärzte
 Der Graf	Die Ärzte
+Ein Song namens Schunder	Die Ärzte
 El Cattivo	Die Ärzte
 Fette Elke	Die Ärzte
 Für Uns	Die Ärzte
 Geschwisterliebe	Die Ärzte
+Grace Kelly	Die Ärzte
+Hurra	Die Ärzte
+Ich weiß nicht ob es Liebe ist	Die Ärzte
+Junge	Die Ärzte
+Living Hell	Die Ärzte
+Mach Die Augen Zu	Die Ärzte
 Manchmal haben Frauen	Die Ärzte
+Meine Freunde	Die Ärzte
+Mysteryland	Die Ärzte
 Männer Sind Schweine	Die Ärzte
+Nichts in der Welt	Die Ärzte
+Nie Wieder Krieg, Nie Mehr Las Vegas	Die Ärzte
+Nie gesagt	Die Ärzte
+Nur einen Kuss	Die Ärzte
+Ohne dich	Die Ärzte
+Omaboy	Die Ärzte
+Popstar	Die Ärzte
+Radio brennt	Die Ärzte
+Radio brennt (Deja Vu-Version)	Die Ärzte
+Rebell	Die Ärzte
+Rock Rendezvous	Die Ärzte
+Schlaflied	Die Ärzte
 Schrei nach Liebe	Die Ärzte
+Schundersong	Die Ärzte
 Super Drei	Die Ärzte
+Sweet Sweet Gwendoline	Die Ärzte
+Teenagerliebe	Die Ärzte
+Unrockbar	Die Ärzte
+Westerland	Die Ärzte
+Wie am ersten Tag	Die Ärzte
+Wie ein Kind	Die Ärzte
+Wie es geht	Die Ärzte
 Zu Spät	Die Ärzte
+Zu spät (Satanische-Pferde-Live-Version)	Die Ärzte
 Und es war Sommer	Dieter Thomas Kuhn
+Wenn das Feuer in dir brennt	Digimon
+Chip & Chap Theme	Disney
+Darkwing Duck Theme	Disney
 Gummibären	Disney
+Theme	Disney's Duck Tales
+Wir Sind Eins	Disneys König der Löwen 2
 We Are One	Disneys The Lion King
+Spiegelbild	DisneyÂ´s Mulan
+Another Way To Die	Disturbed
 Not Ready To Make Nice	Dixie Chicks
 9 To 5	Dolly Parton
+I will always love you	Dolly Parton
 Riidankylväjä	Don Huonot
+Traum-Walzer	Dornroschen
+Warum Nur	Dornroschen
 Mamor, Stein und Eisen bricht	Drafi Deutscher
 Du wirst unbesiegbar sein	Dragonball Z
 Dirty Glass	Dropkick Murphys
+DschinghisKahn	Dschinghis Kahn
 Ordinary World	Duran Duran
 Rio	Duran Duran
 Son of a Preacher Man	Dusty Springfield
+Ding Dong	EAV
+Drei ausgeflippte Pinguine	EAV
+Drei weiße Tauben	EAV
+Drei zersiebte Pinguine	EAV
+Wie Eine Fatamorgana	EAV
+The Killing Moon	Echo & The Bunnymen
+Du Trägst Keine Liebe In Dir	Echt
+Weinst Du	Echt
 King Of Fools	Edguy
 Superheroes	Edguy
 Il gatto e la volpe	Edoardo Bennato
@@ -342,6 +490,12 @@ Easy	Faith No More
 This Ain't A Scene	Fall Out Boy
 Thnks Fr Th Mmrs	Fall Out Boy
 Give Me Your Love	Fame
+MFG	Fantastischen 4
+Dusche	Farin Urlaub
+Porzellan	Farin Urlaub
+Sonne	Farin Urlaub
+Unter Wasser	Farin Urlaub
+Wo ist das Problem	Farin Urlaub
 Big Girls Don't Cry	Fergie
 Paralyzer	Finger Eleven
 Diventerai Una Star	Finley
@@ -363,6 +517,7 @@ Abyss Of The Void	Gamma Ray
 Abyss Of The Void (karaoke)	Gamma Ray
 I Think I'm Paranoid	Garbage
 Push It	Garbage
+Bruttosozialprodukt	Geier Sturzflug
 Holly E Benji	GemBoy
 Dammi solo un minuto	Gemelli Diversi
 I Can't dance	Genesis
@@ -393,6 +548,7 @@ Brain Stew	Green Day
 East Jesus Nowhere	Green Day
 Geek Stink Breath	Green Day
 Hitchin A Ride	Green Day
+The Static Age	Green Day
 Wake me up when september ends	Green Day
 When I Come Around	Green Day
 Redneck Woman	Gretchen Wilson
@@ -405,6 +561,7 @@ Hollaback Girl	Gwen Stefani
 What You Waiting For?	Gwen Stefani
 The Sweet Escape	Gwen Stefani Feat Akon
 Right Here In My Arms	HIM
+Crimson Thunder	HammerFall
 Blood Bound	Hammerfall
 Hearts On Fire	Hammerfall
 Renegade	Hammerfall
@@ -413,8 +570,13 @@ Hard To Beat	Hard Fi
 Alone	Heart
 My Number One	Helena Paparizou
 Ich will immer wieder (Dieses Fieber spür´n)	Helene Fischer
+Der Weg	Herbert Grönemeyer
+Halt Mich	Herbert Grönemeyer
+Mensch	Herbert Grönemeyer
+Männer	Herbert Grönemeyer
 Country Roads	Hermes House Band
 Diggi-Loo Diggi-Ley	Herreys
+Breaking Free (Duett)	High School Musical
 Start Of Something New	High School Musical
 Come clean	Hilary Duff
 Wake Up	Hilary Duff
@@ -423,13 +585,21 @@ Celebrity Skin	Hole
 The Reason	Hoobastank
 Hello Again	Howard Carpendale
 Schenk mir dein Herz	Höhner
+So soll es bleiben	Ich + Ich
+Umarme Mich	Ich + Ich
+Vom selben Stern	Ich + Ich
+Du erinnerst mich an Liebe	Ich&Ich
 Real Wild One	Iggy Pop
+Küss Mich	In Extremo
 Ikuinen Virta	Indica
+Be Quick or Be Dead	Iron Maiden
 Fear Of The Dark	Iron Maiden
 Hallowed Be Thy Name	Iron Maiden
 The Trooper	Iron Maiden
 Il Re leone	Ivana Spagna
 Doris	J Karjalainen Ja Mustat Lasit
+Der Spatz in der Hand	J.B.O.
+Ein guter Tag zum Sterben (terminale Version)	J.B.O.
 Reet Petite	Jackie Wilson
 Fiumi di parole	Jalisse
 Superstar	Jamelia
@@ -444,6 +614,7 @@ Växeln Hallå	Janne Lucas
 I'm Yours	Jason Mraz
 Real Things	Javine
 Jenny From The Block	Jennifer Lopez
+Beautiful Lie (Duett)	Jennifer Paige & Nick Carter
 Leavin	Jesse McCartney
 Right Where You Want Me	Jesse McCartney
 Come On Over	Jessica Simpson
@@ -493,13 +664,21 @@ Bella	Jovanotti
 Gente della notte	Jovanotti
 Serenata rap	Jovanotti
 You've Got Another Thing Comin'	Judas Priest
+Angel Of The Morning	Juice Newton
+Geile Zeit	Juli
+Perfekte Welle	Juli
+Regen Und Meer	Juli
+Warum	Juli
+Wir Beide	Juli
 Rock Your Body	Justin Timberlake
 Summer Love	Justin Timberlake
 What goes around	Justin Timberlake
 Black Horse And The Cherry Tree	KT Tunstall
+Die Biene Maja	Karel Gott
 Club Foot	Kasabian
 Run The Show (ft. Shaka Dee)	Kat Deluna
 Whine Up (ft. Elephant Man)	Kat Deluna
+Don't Give Up (Duett)	Kate Bush & Peter Gabriel
 Walking On Sunshine	Katrina And The Waves
 Hot `n´ Cold	Katy Perry
 I Kissed A Girl	Katy Perry
@@ -519,13 +698,19 @@ Vem È Dé Du Vill Ha	Kikki, Bettan och Lotta
 Kids In America	Kim Wilde
 The Bucket	Kings Of Leon
 Nothin' To Lose	Kiss
+An der Nordseeküste (Duett)	Klaus & Klaus
+1000 Und 1 Nacht	Klaus Lage
 1000 und eine Nacht	Klaus Lage
 Anti Country Song	Kleines Arschloch
+Alter Mann	Knorkator
 Freak on a Leash	KoRn
 Did My Time	Korn
 Can't Get You Out Of My Head	Kylie Minogue
 I Should Be So Lucky	Kylie Minogue
 In Your Eyes	Kylie Minogue
+Demon Cleaner	Kyuss
+Der ewige Kreis	Köenig der Löwen
+Ich will jetzt gleich König Sein	König der Löwen
 Blurry Eyes	L'Arc~en~Ciel
 Blurry Eyes (karaoke)	L'Arc~en~Ciel
 Enjoy The Silence	Lacuna Coil
@@ -546,8 +731,10 @@ Incancellabile	Laura Pausini
 Io Canto	Laura Pausini
 Spaccacuore	Laura Pausini
 Dare to live (Vivere)	Laura Pausini & Andrea Bocelli
+Zombie on your Lawn	Laura Shigihara
 Can't Fight The Moonlight	LeAnn Rimes
 Stairway to Heaven	Led Zeppelin
+Unknown Stuntman	Lee Majors
 50-50	Lemar
 50-50 (Karaoke)	Lemar
 Dansa I Neon	Lena Philipsson
@@ -555,6 +742,7 @@ Are You Gonna Go My Way	Lenny Kravitz
 Better in Time	Leona Lewis
 Bleeding Love	Leona Lewis
 Forgive me	Leona Lewis
+I dreamed a dream	Les miserables 10th anniversary
 Just a Little	Liberty X
 Just a Little (Karaoke)	Liberty X
 First Time	Lifehouse
@@ -572,6 +760,7 @@ Viva!	Ligabue
 Three Lions	Lightning Seeds
 Littlest Things	Lily Allen
 The Fear	Lily Allen
+The Never Ending Story (Duett)	Limahl
 Behind blue eyes	Limp Bizkit
 Jag Ljuger Så Bra	Linda Bengtzing
 Breaking The Habit	Linkin Park
@@ -593,6 +782,9 @@ Attenti Al Lupo	Lucio Dalla
 Se ci sarai	Lunapop
 Lupin	Lupin
 Sweet Home Alabama	Lynyrd Skynyrd
+Tanz Der Moleküle	MIA.
+Zirkus	MIA.
+Freaky Like Me (Duett)	Madcon feat. Ameerah
 Give It To Me	Madonna
 Hollywood	Madonna
 Hung up	Madonna
@@ -603,6 +795,7 @@ Material Girl	Madonna
 Papa Don't Preach	Madonna
 Take A Bow	Madonna
 4 Minutes	Madonna feat. Justin Timberlake
+Du schreibst Geschichte	Madsen
 För Kung Och Fosterland	Magnus Uggla
 Do Wah Diddy Diddy	Manfred Mann
 Warriors Of The World	Manowar
@@ -632,6 +825,8 @@ Mezzo pieno o Mezzo vuoto	Max Pezzali
 Apply Some Pressure	Maxïmo Park
 I'd Do Anything for Love (But I Won't Do That)	Meatloaf
 Like The Way I Do	Melissa Etheridge
+Battery	Metallica
+Damage Inc.	Metallica
 Enter Sandman	Metallica
 Nothing Else Matters	Metallica
 Sad But True	Metallica
@@ -640,6 +835,7 @@ The Unforgiven Ii	Metallica
 Nothing Else Matters	Metallica & Symphony
 Shake It	Metro Station
 Beat It	Michael Jackson
+Hold My Hand (Duett)	Michael Jackson ft. Akon
 Cinque giorni	Michele Zarrillo
 Kinderaugen	Michelle
 Wirst du noch da sein	Michelle
@@ -647,6 +843,7 @@ Breathe	Michelle Branch
 The Greatest	Michelle Williams
 Der Nippel	Mike Krüger
 Nobody's perfect	Miley Cyrus
+No Cigar	Millencolin
 Acqua e Sale	Mina e Celentano
 Brivido felino	Mina e Celentano
 Kerosene	Miranda Lambert
@@ -684,10 +881,14 @@ All Good Things	Nelly Furtado
 Maneater	Nelly Furtado
 Promiscuous	Nelly Furtado
 Say It Right	Nelly Furtado
+99 Luftballons	Nena
 Irgendwie Irgendwo Irgendwann	Nena
+Liebe ist	Nena
+Anyplace, Anywhere, Anytime (Duett)	Nena ft. Kim Wilde
 We Are All The Winners	Nick Borgen
 How You Remind Me	Nickelback
 Savin' Me	Nickelback
+Angels fall first	Nightwish
 Dead Gardens	Nightwish
 Fantasmic	Nightwish
 Phantom Of The Opera	Nightwish
@@ -722,8 +923,10 @@ Wonderwall	Oasis
 Gone Away	Offspring
 The Kids Aren't Alright	Offspring
 Why Don't You Get a Job	Offspring
+Brennende Liebe	Oomph! ft. L'ame Immortelle
 Live Is Life	Opus
 Otto-Arschgesicht	Otto
+Wir haben Grund zum Feiern	Otto Waalkes
 Roses	Outcast
 Hey Ya	Outkast
 Pikkuveli	PMMP
@@ -748,7 +951,9 @@ Die süßesten Früchte	Peter Alexander & Leila Negra
 Young Folks	Peter Bjorn And John Featuring Victoria Bergsman
 Du entschuldige i kenn di	Peter Cornelius
 Let It Be	Peter Gabriel & Kate Bush
+Flieg Ins Glück	Peter Pan
 Following The Leader	Peter Pan
+Geh'n Wir Auf Den Kriegspfad	Peter Pan
 You Can Fly	Peter Pan
 Downtown	Petula Clark
 Downtown (Karaoke)	Petula Clark
@@ -759,10 +964,12 @@ Please Don't Leave Me	Pink
 Sober	Pink
 Who Knew	Pink
 Another Brick In The Wall	Pink Floid
+Hey Pippi Langstrumpf	Pippi Langstrumpf
 Every You Every Me	Placebo
 1, 2, 3, 4	Plain White T's
 Hey There Delilah	Plain White T's
 Every Rose Has Its Thorn	Poison
+Theme	Pokemon
 Uomini Soli	Pooh
 Kuuma Kesä	Popeda
 Space Invaders	Pornophonique
@@ -778,6 +985,7 @@ Another One Bites The Dust	Queen
 Bicycle Race (Backing)	Queen
 Bicycle Race (Freddie)	Queen
 Bohemian Rhapsody (BACKING M)	Queen
+Bohemian Rhapsody (Duett)	Queen
 Bohemian Rhapsody (Freddie)	Queen
 Breakthru	Queen
 Crazy Little Thing Called Love	Queen
@@ -809,10 +1017,16 @@ Creep	Radiohead
 Il battito animale	Raf
 Sei la più bella del mondo	Raf
 Bananaphone	Raffi
+Amerika	Rammstein
+Bück dich	Rammstein
+Du Hast	Rammstein
 Engel	Rammstein
 Engel (english Version)	Rammstein
+Feuer Frei	Rammstein
 Mutter	Rammstein
 Nebel	Rammstein
+Ohne Dich	Rammstein
+Rosenrot	Rammstein
 Blitzkrieg Bop	Ramones
 Bless The Broken Road	Rascal Flats
 Så Länge Vi Har Varann	Ratata & Frida
@@ -822,11 +1036,14 @@ Soul To Squeeze	Red Hot Chili Peppers
 Under The Bridge	Red Hot Chili Peppers
 Cotton Eye Joe	Rednex
 Amico	Renato Zero
+Die Welt Steht Still	Revolverheld
+Freunde Bleiben	Revolverheld
 Dawn Of Victory	Rhapsody
 The Magic Of The Wizard's Dreams	Rhapsody
 Margherita	Riccardo Cocciante
 Sará pérche ti amo	Ricchi e Poveri
 Right Here Waiting	Richard Marx
+Supa Richie	Richie
 Never gonna give you up	Rick Astley
 Never gonna give you up (Karaoke)	Rick Astley
 Livin' La Vida Loca	Ricky Martin
@@ -841,6 +1058,7 @@ We Ride	Rihanna
 Rehab	Rihanna feat. Justin Timberlake
 Aida	Rino Gaetano
 Gianna	Rino Gaetano
+König Von Deutschland	Rio Reiser
 Cuore	Rita Pavone
 Dragula (Hot Rod Herman Remix)	Rob Zombie
 Advertising Space	Robbie Williams
@@ -856,7 +1074,11 @@ Wenn Es Dich Noch Gibt	Roger Whittaker
 Manchmal möchte ich schon mit dir	Roland Kaiser
 Vorrei incontrarti fra 100 anni	Ron
 If Tomorrow Never Comes	Ronan Keating
+Life Is A Rollercoaster	Ronan Keating
 Father and Son	Ronan Keating feat. Yusuf Islam
+Es hängt ein Pferdehalfter an der Wand	Ronny
+Es Könnt' Ein Anfang Sein	Rosenstolz
+Liebe Ist Alles	Rosenstolz
 Willkommen	Rosenstolz
 It Must Have Been Love	Roxette
 Listen to your heart	Roxette
@@ -870,16 +1092,20 @@ Butterfly	SMiLE.dk
 Wonderful World	Sam Cooke
 Giudizi Universali	Samuele Bersani
 Tuhat Yt	Samuli Edelmann
+(I'll Never Be) Maria Magdalena (Duett)	Sandra
 Into The Night	Santana feat. Chad Kroger
 Love Song	Sara Bareilles
 Born To Fly	Sara Evans
 Living to love you	Sarah Connor
 I Remember Love	Sarah Dawn Finer
+Willst du	Schandmaul
 Laura	Scissor Sisters
 Wind of Change	Scorpions
 San Francisco	Scott McKenzie
 Beautiful Girls	Sean Kingston
+Ding	Seeed
 Schwinger	Seeed
+God Save The Queen	Sex Pistols
 Suerte	Shakira
 Whenever wherever	Shakira
 From this moment on	Shania Twain
@@ -896,6 +1122,8 @@ Stay with me	Shearer
 Stay with me (Kar)	Shearer
 Min Kärlek	Shirley Clamp
 T-Shirt	Shontelle
+Durch die Nacht	Silbermond
+Symphonie	Silbermond
 Don't You Forget About Me	Simple Minds
 Your Love Is A Lie	Simple Plan
 Baby Got Back	Sir Mix-a-Lot
@@ -913,14 +1141,17 @@ Bullet With Butterfly Wings	Smashing Pumpkins
 Cherub Rock	Smashing Pumpkins
 Today	Smashing Pumpkins
 Run	Snow Patrol
+Shut Your Eyes	Snow Patrol
 Tainted Love	Soft Cell
 För Att Du Finns	Sonya Aldén
 Murder on the Dancefloor	Sophie Ellis Bextor
 Murder on the Dancefloor (Karaoke)	Sophie Ellis Bextor
 Kiss Me Through The Phone	Souljia Boy Ft. Sammie
+Timmy and the Lords of the Underworld	South Park
 Gold	Spandau Ballet
 Say You'll Be There	Spice Girls
 Wannabe	Spice Girls
+Skandal Im Sperrbezirk	Spider Murphy Gang
 Ich war noch niemals in New York	Sportfreunde Stiller & Udo Jürgens
 Nothing's Gonna Stop Us Now	Starship
 We Built this City	Starship
@@ -935,13 +1166,17 @@ Santeria	Sublime
 Discolabirinto	Subsonica
 Incantevole	Subsonica
 Nuvole Rapide	Subsonica
-Kleid Aus Rosen	Subway To Sally
-Kleid Aus Rosen (akustik-version)	Subway To Sally
+Erdbeermund	Subway To Sally
+Kleid aus Rosen	Subway To Sally
+Kleid aus Rosen (Akustik-Version)	Subway To Sally
+Die Schlacht	Subway to Sally
 Round Round	Sugababes
 Round Round (Karaoke)	Sugababes
 Too Lost In You	Sugababes
 Fat Lip	Sum 41
+Screaming Bloody Murder	Sum 41
 Eye Of The Tiger	Survivor
+I´m Always Here (Baywatch Theme)	Survivor
 Elokuun 11.	Suurlähettiläät
 Aerials	System Of A Down
 Byob Uncut!	System Of A Down
@@ -953,6 +1188,8 @@ China In Your Hand	T'Pau
 Back for Good	Take That
 Relight My Fire	Take That feat. Lulu
 Burning Down The House	Talking Heads
+Totale Finsternis	Tanz der Vampire
+So Ein Mann	Tarzan
 Son Of Man	Tarzan
 Love Story	Taylor Swift
 Our Song	Taylor Swift
@@ -962,7 +1199,9 @@ Gives You Hell	The All-American Rejects
 Ev'rybody Wants To Be A Cat (Scat Cat)	The Aristocats
 Ev'rybody Wants To Be A Cat (Tom)	The Aristocats
 The Worrying Kind	The Ark
+Yellow Submarine	The Beatles
 Yesterday	The Beatles
+Rawhide	The Blues Brothers
 An Honest Mistake	The Bravey
 Wherever You Will Go	The Calling
 My Favourite Game	The Cardigans
@@ -996,11 +1235,15 @@ I Just Can't Wait To Be King	The Lion King
 Kiss The Girl (Backing)	The Little Mermaid
 Kiss The Girl (Sebastian)	The Little Mermaid
 Under The Sea	The Little Mermaid
+California Dreamin' (Duett)	The Mamas and the Papas
+California Dreaming	The Mamas and the Papas
 Hare Hare Yukai	The Melancholy of Haruhi Suzumiya
 Hare Hare Yukai (Gundam Ver)	The Melancholy of Haruhi Suzumiya
+I miss you like crazy	The Moffatts
 Daydream Believer	The Monkees
 Pretty Fly	The Offspring
 Self Esteem	The Offspring
+You're Gonna Go Far Kid	The Offspring
 Your Love	The Outfield
 Only You	The Platters
 Every Breath You Take	The Police
@@ -1027,6 +1270,7 @@ I Hate Everything About You	Three Days Grace
 The Way I Are (feat. Keri Hilson)	Timbaland
 Apologize	Timbaland feat. One Republic
 Chains	Tina Arena
+Golden Eye	Tina Turner
 The Best	Tina Turner
 What's Love Got To Do With It	Tina Turner
 Amore Impossibile	Tiromancino
@@ -1035,9 +1279,11 @@ Non me lo so spiegare	Tiziano Ferro & Laura Pausini
 Durch den Monsun	Tokio Hotel
 It's Not Unusual	Tom Jones
 En Dag	Tommy Nilsson
+Amarillo	Tony Christie
 Sober	Tool
 Beinhart	Torfrock
 Africa	Toto
+Du Hast 'N Freund In Mir	Toy Story
 You Got A Friend In Me	Toy Story
 Honky Tonk Badonkadonk	Trace Adkins
 You're Gonna Miss This	Trace Adkins
@@ -1048,6 +1294,7 @@ Vertigo	U2
 With or without you	U2
 17 Jahr	Udo Jürgens
 Aber bitte mit Sahne	Udo Jürgens
+Griechischer Wein	Udo Jürgens
 Ich weiß, was ich will	Udo Jürgens
 Free	Ultra Nate
 balla	Umberto Balsamo
@@ -1067,6 +1314,7 @@ Vita Spericolata	Vasco Rossi
 Vivere	Vasco Rossi
 Y.M.C.A.	Village People
 Weezer - Say It Ain't So	Weezer
+Achy Breaky Song	Weird Al Yankovic
 On Ebay	Weird Al Yankovic
 World of Our Own	Westlife
 World of Our Own (Karaoke)	Westlife
@@ -1079,13 +1327,15 @@ One moment in time	Whitney Houston
 Pancho And Lefty	Willie Nelson
 Winnie The Pooh	Winnie The Pooh
 Aurelie	Wir Sind Helden
-Denkmal [VIDEO]	Wir Sind Helden
+Denkmal	Wir Sind Helden
 Nur Ein Wort	Wir Sind Helden
 Soundso	Wir Sind Helden
-Von Hier An Blind	Wir Sind Helden
+Von hier an blind	Wir Sind Helden
+Wenn es passiert	Wir Sind Helden
 Lebendig und kräftig und schärfer	Wise Guys
 Mensch, wo bist du? (Karaoke)	Wise Guys
 Stand My Ground	Within Tempation
+Die Flut (Duett)	Witt ft. Heppner
 Schifoan	Wolfgang Ambros
 Auf den Mond schiessen	Wolfgang Petry
 Augen zu und durch	Wolfgang Petry
