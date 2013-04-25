@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Wed Apr 24 23:17:21 CEST 2013
+# KaraokeParty Songlist: Thu Apr 25 20:04:12 CEST 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -200,6 +200,7 @@ Got The Time	Anthrax
 Alta Marea	Antonello Venditti
 Che c'è	Antonello Venditti
 Barbie Girl	Aqua
+ALONES	Aqua Timez
 I Bet you Look Good on the Dance Floor	Arctic Monkeys
 Respect	Aretha Franklin
 Nur Ein Kuss	Arielle
@@ -218,7 +219,10 @@ Solid (Simpson)	Ashford & Simpson
 Boyfriend	Ashlee Simpson
 Pieces Of Me	Ashlee Simpson
 Heat Of The Moment	Asia
-Haruka Kanata	Asian Kung-fu Generation
+After dark	Asian Kung-fu Generation
+Haruka kanata	Asian Kung-fu Generation
+Haruka kanata (TV)	Asian Kung-fu Generation
+Rewrite	Asian Kung-fu Generation
 Eye Of The Tiger	At Vance
 Money, Money, Money	At Vance
 Ufo Robot	Atlas
@@ -527,6 +531,7 @@ Bubbly	Colbie Caillat
 Charlie Brown	Coldplay
 Clocks	Coldplay
 Speed Of Sound	Coldplay
+Speed of Sound	Coldplay
 Talk	Coldplay
 The Hardest Part	Coldplay
 Viva La Vida	Coldplay
@@ -537,6 +542,7 @@ Anita	Costa Cordalis
 Walking Away	Craig David
 Zombie	Cranberries
 God Shuffled His Feet	Crash Test Dummies
+MMM MMM MMM	Crash Test Dummies
 MMM MMM MMM MMM	Crash Test Dummies
 MMM MMM MMM MMM MMM	Crash Test Dummies
 Johana Shut Up	Crazy Loop
@@ -951,6 +957,7 @@ Best Of You	Foo Fighters
 Everlong	Foo Fighters
 My Hero	Foo Fighters
 The Pretender	Foo Fighters
+Lemon Tree	Fool's Garden
 Lemon Tree	Fools Garden
 I Want To Know What Love Is	Foreigner
 Ein bißchen Goethe, ein bißchen Bonaparte	France Gall
@@ -1060,7 +1067,9 @@ Cool	Gwen Stefani
 Hollaback Girl	Gwen Stefani
 What You Waiting For?	Gwen Stefani
 The Sweet Escape	Gwen Stefani Feat Akon
+Ichirin no hana	HIGH and MIGHTY COLOR
 The Funeral Of Hearts	HIM
+SEASON'S CALL	HYDE
 Die Ersten	Halogenpoeten
 At The End Of The Rainbow	HammerFall
 Crimson Thunder	HammerFall
@@ -1117,6 +1126,7 @@ Vom Selben Stern	Ich Und Ich
 Du erinnerst mich an Liebe	Ich&Ich
 I Love It	Icona Pop
 Real Wild One	Iggy Pop
+Blue bird	Ikimono gakari
 Küss Mich	In Extremo
 Ikuinen Virta	Indica
 Be Quick or Be Dead	Iron Maiden
@@ -1141,6 +1151,7 @@ Beware of the Dog	Jamelia
 Stop	Jamelia
 Superstar	Jamelia
 Superstar (Karaoke)	Jamelia
+Superstar (demo)	Jamelia
 Wise Men (Karaoke)	James Blunt
 You're Beautiful	James Blunt
 You Give Me Something	James Morrison
@@ -1294,6 +1305,7 @@ An Der Nordseeküste	Klaus & Klaus
 An der Nordseeküste (Duett)	Klaus & Klaus
 Da steht ein Pferd auf'm Flur	Klaus & Klaus
 1000 Und 1 Nacht	Klaus Lage
+1000 und eine Nacht	Klaus Lage
 Faust auf Faust	Klaus Lage
 It's Not Over Yet	Klaxons
 Anti Country Song	Kleines Arschloch
@@ -1315,6 +1327,7 @@ Der ewige Kreis	Köenig der Löwen
 Ich will jetzt gleich König Sein	König der Löwen
 Blurry Eyes	L'Arc~en~Ciel
 Blurry Eyes (karaoke)	L'Arc~en~Ciel
+Ready Steady Go	L'arc en Ciel
 Jetzt Erst Recht	LaFee
 Phantom Of The Opera	Lacrimosa
 Enjoy The Silence	Lacuna Coil
@@ -1371,6 +1384,7 @@ Stairway to Heaven	Led Zeppelin
 Unknown Stuntman	Lee Majors
 50-50	Lemar
 50-50 (Karaoke)	Lemar
+50/50	Lemar
 It's Not That Easy	Lemar
 Dansa I Neon	Lena Philipsson
 Everything At Once	Lenka
@@ -1382,6 +1396,7 @@ Forgive me	Leona Lewis
 Ich hab geträumt vor langer Zeit	Les Misérables
 I dreamed a dream	Les miserables 10th anniversary
 Der Ganze Bus Muss Pipi	Libero 5
+Just A Little	Liberty X
 Just a Little	Liberty X
 Just a Little (Karaoke)	Liberty X
 First Time	Lifehouse
@@ -1413,6 +1428,7 @@ Castle Of Glass	Linkin Park
 Crawling	Linkin Park
 Don't Stay	Linkin Park
 In The End	Linkin Park
+Numb	Linkin Park
 One Step Closer	Linkin Park
 Powerless	Linkin Park
 Shadow Of The Day	Linkin Park
@@ -1426,6 +1442,8 @@ Vivere il mio tempo	Litfiba
 Tutti Frutti	Little Richard
 Skid Row (Downtown)	Little Shop Of Horrors
 Bada bambina	Little Tony
+Kanashimi wo yasashisa ni	Little by little
+Kimi monogatari	Little by little
 Get It Shawty	Lloyd
 Seemann, Deine Heimat Ist Das Meer	Lolita
 Wenn Du Denkst Du Denkst	Lollies
@@ -1741,6 +1759,8 @@ I bin a bayrisches Cowgirl	Nicki
 Va Va Voom	Nicki Minaj
 Schmidtchen Schleicher	Nico Haak
 Ein Bisschen Frieden	Nicole
+Alumina	Nightmare
+The world	Nightmare
 Angels fall first	Nightwish
 Bye Bye Beautiful	Nightwish
 Dead Gardens	Nightwish
@@ -1809,6 +1829,7 @@ Otto-Arschgesicht	Otto
 Im Wagen vor mir	Otto Waalkes
 Wir haben Grund zum Feiern	Otto Waalkes
 Roses	OutKast
+Roses	Outcast
 Hey Ya	Outkast
 Pikkuveli	PMMP
 Eine Frau Die Mich Nach Hause Trägt	PS Alex
@@ -1866,6 +1887,7 @@ Froh dabei zu sein	Philipp Poisel
 Another Day In Paradise	Phill Collins
 Dear Mr. President	Pink
 Get The Party Started	Pink
+Get This Party Started	Pink
 Just Like A Pill	Pink
 Lets get this party started	Pink
 Lets get this party started (Karaoke)	Pink
@@ -1938,6 +1960,7 @@ Losing My Religion	R.E.M.
 Stand	R.E.M.
 Turn This Club Around	R.I.O. ft. U-Jean
 R.E.S.P.E.C.T.	RLP & Barbara Tucker
+Harmonia	RYTHEM
 Ich Kenne Nichts	RZA
 Ich Kenne Nichts...	RZA
 Creep	Radiohead
@@ -2029,6 +2052,7 @@ Dragula (Hot Rod Herman Remix)	Rob Zombie
 Advertising Space	Robbie Williams
 Angels	Robbie Williams
 Let Me Entertain You	Robbie Williams
+Kids	Robbie Williams & Kylie Minogue
 Kids	Robbie Williams and Kylie Minogue
 Kids (Kylie)	Robbie Williams and Kylie Minogue
 Kids (Robbie)	Robbie Williams and Kylie Minogue
@@ -2065,6 +2089,7 @@ It Must Have Been Love	Roxette
 Listen To Your Heart	Roxette
 Love Is The Drug	Roxy Music
 Schon Ist Es Auf Der Welt Zu Sein	Roy Black & Anita
+Oh Pretty Woman	Roy Orbison
 Pretty Woman	Roy Orbison
 Pretty Woman (Karaoke)	Roy Orbison
 Hallelujah	Rufus Wainwright
@@ -2101,6 +2126,7 @@ Laura	Scissor Sisters
 Break It Up	Scooter
 One (Always Hardcore)	Scooter
 Send Me An Angel	Scorpions
+Wind of Change	Scorpions
 San Francisco	Scott McKenzie
 Kiss From A Rose	Seal
 Beautiful Girls	Sean Kingston
@@ -2193,6 +2219,7 @@ Fast wie von selbst	Sportfreunde Stiller
 Ich roque	Sportfreunde Stiller
 Ich war noch niemals in New York	Sportfreunde Stiller & Udo Jürgens
 Tempted	Squeeze
+No boy, no cry	Stance Punks
 The Doctor - La donna é mobile	Star Trek Voyager
 Nothing's Gonna Stop Us Now	Starship
 We Built this City	Starship
@@ -2251,6 +2278,7 @@ China In Your Hand	T'Pau
 All About Us	T.A.T.U.
 Dynamite	Taio Cruz
 Back For Good	Take That
+Back for Good	Take That
 Relight My Fire	Take That feat. Lulu
 Burning Down The House	Talking Heads
 Gott ist tot	Tanz der Vampire
@@ -2315,6 +2343,7 @@ Ooh I Like It	The Creeps
 Friday I'm In Love	The Cure
 Just Like Heaven	The Cure
 Bohemian Like You	The Dandy Warhols
+I Believe In A Thing Called Love	The Darkness
 I Believe in a Thing Called Love	The Darkness
 I Believe in a Thing Called Love (Karaoke)	The Darkness
 House Of The Rising Sun	The Doors
@@ -2467,6 +2496,7 @@ I Still Haven't Found What I'm Looking For	U2
 Vertigo	U2
 With or without you	U2
 Mama	US5
+D-tecnoLife	UVERworld
 17 Jahr	Udo Jürgens
 Aber bitte mit Sahne	Udo Jürgens
 Griechischer Wein	Udo Jürgens
@@ -2484,6 +2514,7 @@ Geboren um zu leben	Unheilig
 More (Redone Jimmy Joker Remix)	Usher
 Yeah	Usher Ft Lil Jon & Ludacris
 DJ Got Us Falling In Love Again	Usher ft. Pitbull
+Colors of Hearts (BLOOD+)	Uverworld
 Das Lied der Schlümpfe	Vader Abraham
 Tre Parole	Valeria Rossi
 Ice Ice Baby	Vanilla Ice
@@ -2518,6 +2549,7 @@ Love Is All Around	Wet Wet Wet
 Club Tropicana	Wham
 Wake Me Up Before You Go-Go	Wham
 Last Christmas	Wham!
+Wake Me Up Before You Go-Go	Wham!
 Here I go again	Whitesnake
 Greatest Love Of All	Whitney Houston
 I Wanna Dance With Somebody	Whitney Houston
@@ -2535,6 +2567,7 @@ Nur Ein Wort	Wir Sind Helden
 Soundso	Wir Sind Helden
 Von hier an blind	Wir Sind Helden
 Wenn es passiert	Wir Sind Helden
+Denkmal	Wir sind Helden
 Lebendig und kräftig und schärfer	Wise Guys
 Mensch, wo bist du?	Wise Guys
 Mensch, wo bist du? (Karaoke)	Wise Guys
@@ -2558,6 +2591,7 @@ Abschied nehmen	Xavier Naidoo
 Dieser Weg	Xavier Naidoo
 Wo Willst Du Hin	Xavier Naidoo
 Zeilen Aus Gold	Xavier Naidoo
+Again	YUI
 New Soul	Yael Naim & David Donatien
 The Only Way Is Up	Yazz
 Gold Lion	Yeah Yeah Yeahs
@@ -2581,6 +2615,7 @@ Donne	Zucchero
 Il grande baboomba	Zucchero
 Hunting High And Low	a-ha
 Ganz egal	böhse onkelz
+nichts in der Welt	die ärzte
 Vorrei	lunapop
 All The Things She Said (Radio Version)	t.A.T.u.
 Ö la Palöma	Ö la Palöma Boys
