@@ -1,0 +1,23 @@
+#!/bin/sh
+perl -C -i -Mutf8 -Mcharnames=:full -lpe'
+    s/ï»¿#TITLE://;
+    s/Â?´/\N{APOSTROPHE}/g;
+    s//\N{APOSTROPHE}/g;
+    s/Ã©/é/g;
+    s/Ã¶/ö/g;
+    s/Ã¼/ü/g;
+    s//ö/g;
+    s//ä/g;
+    s/³/ł/g;
+    s/¿/ż/g;
+    s//č/g;
+    s/\.\.\./…/;
+    s/^Weezer - //;
+    s/Beyonc$/Beyoncé/;
+    s[Ac/dc][AC/DC];
+    s/\.mp3//;
+    s/bißchen/bisschen/;
+    s/Laßt/Lasst/;
+    s/Schoner/Schöner/;
+    s/gehoert/gehört/;
+' songliste.txt
