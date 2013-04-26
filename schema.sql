@@ -1,7 +1,7 @@
 create table songs(
     id bigserial primary key,
     title text not null,
-    artist text not null,
+    artist text not null
 );
 
 create table queue(

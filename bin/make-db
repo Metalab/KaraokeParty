@@ -1,4 +1,23 @@
 #!/bin/sh
-mkdir -p var/db
+source config.ini
+export KARAOKEPARTY_DB_NAME
+export KARAOKEPARTY_DB_PORT
+mkdir -p var/db var/log
 pg_ctl init -D var/db
-pg_ctl -D var/db -l var/pg.log -o '-p 55555' start
+pg_ctl -D var/db -l var/log/pg.log -o "-p $KARAOKEPARTY_DB_PORT" start
+sleep 3
+createdb -e -E UTF-8 -l C -p $KARAOKEPARTY_DB_PORT -T template0 $KARAOKEPARTY_DB_NAME
+psql -p $KARAOKEPARTY_DB_PORT $KARAOKEPARTY_DB_NAME < schema.sql
+perl -mDBIx::Class::Schema::Loader -mIO::File -e'
+    DBIx::Class::Schema::Loader->naming({preserve => "ALL"});
+    my $s = DBIx::Class::Schema::Loader->connect(
+        "dbi:Pg:dbname=$ENV{KARAOKEPARTY_DB_NAME};port=$ENV{KARAOKEPARTY_DB_PORT}",
+
+    );
+    my $h = IO::File->new;
+    $h->open("songliste.txt", "r");
+    $s->resultset("Songs")->populate([
+        [qw(title artist)],
+        map { [split /\t/] } grep { !/^#|^$/ } map { chomp; $_ } $h->getlines
+    ]);
+'

@@ -1,0 +1,3 @@
+#!/bin/sh
+pg_ctl -D var/db stop
+rm -rf var/db

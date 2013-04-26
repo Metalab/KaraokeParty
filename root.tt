@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Karaokeparty queue</title>
+        <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+        <script src="http://www.datatables.net/release-datatables/media/js/jquery.dataTables.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#nickname').change(function() {
+                    $('#nickname').css({'border': 'none'});
+                });
+                $('form').submit(function() {
+                    if (! $('#nickname').val()) {
+                        $('#nickname').css({'border': '2px solid red'});
+                        $('#nickname').focus();
+                        return false;
+                    }
+                });
+                $('form input[type="radio"]').click(function(e) {
+                    $('form input[type="radio"]').prop('checked', false);
+                    $(e.currentTarget).prop('checked', true);
+                });
+                $('table').dataTable({
+                    "aLengthMenu": [[10, 500, 4000], [10, 500, "all"]]
+                });
+            });
+        </script>
+        <style>
+            @import "http://www.datatables.net/release-datatables/media/css/demo_page.css";
+            @import "http://www.datatables.net/release-datatables/media/css/demo_table.css";
+            table { padding-right: 2em; border-right: 5px solid black; }
+            th { border: 2px outset #D3D6FF; }
+            th.hide { display: none; }
+            tr { width: 30em; }
+            .dataTables_filter, .dataTables_paginate { text-align: inherit; }
+            .dataTables_filter, .dataTables_length, .dataTables_info, .dataTables_paginate, .paginate_disabled_previous, .paginate_enabled_previous, .paginate_disabled_next, .paginate_enabled_next { float: inherit; }
+            form, ol { display: table-cell; }
+            small { border-bottom: 1px dotted black; }
+            .eta { color: #833; }
+        </style>
+    </head>
+    <body>
+        <h1>Karaokeparty queue</h1>
+        <form action="/add" method="POST">
+        <table>
+            <thead>
+                <tr><th>☑</th><th>title</th><th>artist</th></tr>
+            </thead>
+            <tbody>
+                [% FOREACH s IN songs %]
+                <tr>
+                    <td><input type="radio" name="id[% s.id | html %]" /></td>
+                    <td>[% s.title | html %]</td>
+                    <td>[% s.artist | html %]</td>
+                </tr>
+                [% END %]
+            </tbody>
+        </table>
+        <label for="nickname">your nickname</label> <input id="nickname" name="nickname" />
+        <input type="submit" value="add selected song to queue" />
+        </form>
+        <ol>
+<span>average waiting time currently ~[% waiting_time %] per song, reload page to recalculate</span>
+            [% FOREACH q IN queue %]
+            <li><small title="submitted">[% q.submitted.hms.substr(0,5) | html %]</small>
+<b>[% q.nickname | html %]</b> → ([% q.song.artist | html %] - [% q.song.title | html %])
+<span class="eta">{ETA ~[% q.eta.hms.substr(0,5) | html %]}</span>
+</li>
+            [% END %]
+        </ol>
+    </body>
+</html>

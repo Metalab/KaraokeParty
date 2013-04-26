@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Karaokeparty queue moderation</title>
+        <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+        <style>
+            h1 { font-size: 125%; }
+            li { padding-bottom: 1.2em; }
+        </style>
+    </head>
+    <body>
+        <h1>Karaokeparty queue moderation</h1>
+        <p>
+            <a href="/moderation?all">all queue items</a> |
+            <a href="/moderation">visible queue items only</a>
+        </p>
+            <ol>
+                [% FOREACH q IN queue %]
+                <li>
+                    <form action="/moderate" method="POST">
+                        <input name="id" type="hidden" value="[% q.id | html%]" />
+                        submitted: <input name="submitted" type="datetime-local"
+                            value="[% q.submitted.strftime('%FT%R') %]" />
+                        nickname: <input name="nickname" type="text" style="width:25em"
+                            value="[% q.nickname | html %]" /><br/>
+                        visible:<input type="checkbox" name="visible"
+                            [% IF q.visible %]checked="checked"[% END %]/>
+                        <input type="submit" />
+                        song:(<u>[% q.song.artist %]</u> - <b>[% q.song.title %]</b>)
+                    </form>
+                </li>
+                [% END %]
+            </ol>
+    </body>
+</html>
