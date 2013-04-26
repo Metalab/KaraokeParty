@@ -1,0 +1,4 @@
+#!/bin/sh
+mkdir -p var/db
+pg_ctl init -D var/db
+pg_ctl -D var/db -l var/pg.log -o '-p 55555' start
