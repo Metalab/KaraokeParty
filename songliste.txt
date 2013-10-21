@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Tue Oct 22 00:06:43 CEST 2013
+# KaraokeParty Songlist: Tue Oct 22 00:41:18 CEST 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -798,8 +798,10 @@ Girls Just Wanna Have Fun	Cyndi Lauper
 She Bop	Cyndi Lauper
 Time After Time	Cyndi Lauper
 Time After Time [VIDEO]	Cyndi Lauper
-Chihuahua 2002	DJ Bobo
+Chihuahua 2002 [VIDEO]	DJ Bobo
+What A Feeling	DJ Bobo Feat. Irene Cara
 Summertime	DJ Jazzy Jeff & The Fresh Prince
+Summertime [VIDEO]	DJ Jazzy Jeff &amp
 Hey Baby	DJ Otzi
 Live Is Life (BACKING M)	DJ Otzi
 Live Is Life (LEAD M)	DJ Otzi
@@ -807,7 +809,10 @@ Anton Aus Tirol	DJ Ötzi
 Anton aus Tirol	DJ Ötzi
 Ein Stern (Der Deinen Namen Trägt)	DJ Ötzi & Nik P.
 Party Palmen Weiber Und n Bier	DJ-Abschleppdienst
+Tom's Diner (DNA Remix)	DNA Feat. Suzanne Vega
+Digital Love [VIDEO]	Daft Punk
 Get Lucky	Daft Punk
+One More Time	Daft Punk
 Technologic [VIDEO]	Daft Punk
 Daitarn III	Daitarn III
 Run For The Roses	Dan Fogelberg
@@ -817,6 +822,7 @@ If You're Not the One	Daniel Bedingfield
 If You're Not the One (Karaoke)	Daniel Bedingfield
 Coming True	Daniel Lindström
 Bad Day	Daniel Powter
+Bad Day [VIDEO]	Daniel Powter
 Anything But Love	Daniel Schumacher
 Nothing's Gonna Stop Me Now	Daniela Katzenberger
 Gino e l'Alfetta	Daniele Silvestri
@@ -834,6 +840,7 @@ Absolute beginners	David Bowie
 Ashes To Ashes	David Bowie
 Changes	David Bowie
 Let's Dance	David Bowie
+Life On Mars  [VIDEO]	David Bowie
 Life On Mars?	David Bowie
 Space Oddity	David Bowie
 Dancing In The Street	David Bowie & Mick Jagger
@@ -863,7 +870,7 @@ You Spin Me Round (Like A Record)	Dead or Alive
 Buona sera	Dean Martin
 Groove is in the Heart	Deee-lite
 Groove is in the Heart (Karaoke)	Deee-lite
-Breakfast At Tiffany's	Deep Blue Something
+Breakfast At Tiffany's [VIDEO]	Deep Blue Something
 Fireball	Deep Purple
 Smoke On The Water	Deep Purple
 Diamond Eyes	Deftones
@@ -877,26 +884,28 @@ Photographic	Depeche Mode
 Policy Of Truth	Depeche Mode
 Hakuna Matata	Der König Der Löwen
 Voyage Voyage	Desireless
-Bootylicious	Destiny's Child
+Bootylicious [VIDEO]	Destiny's Child
 Say My Name	Destiny's Child
 Survivor	Destiny's Child
 Das W auf dem Trikot	Deutschmacher
 Come On Eileen	Dexy's Midnight Runners
+Come On Eileen [VIDEO]	Dexy's Midnight Runners
 Vem Ska Jag Tro På?	Di Leva
 I'm Coming Out	Diana Ross
 My endless Love	Diana Ross & Lionel Richie
 Reflections	Diana Ross & The Supremes
-Baby Love	Diana Ross And The Supremes
+Baby Love [VIDEO]	Diana Ross And The Supremes
 Mamma Maria	Diana Sorbello
 Coming Home	Diddy Dirty Money ft. Skylar Grey
 Hunter	Dido
-Life for rent	Dido
+Life for rent [VIDEO]	Dido
 Sand in my shoes	Dido
 Thank You	Dido
 Thank You (Karaoke)	Dido
 Thank You [VIDEO]	Dido
 White Flag	Dido
-White Flag (Karaoke)	Dido
+White Flag (Karaoke) [VIDEO]	Dido
+White Flag [VIDEO]	Dido
 Die Boten	Die Apokalyptischen Reiter
 Die Sonne Scheint	Die Apokalyptischen Reiter
 Friede sei mit dir	Die Apokalyptischen Reiter
@@ -1031,18 +1040,21 @@ Wenn das Feuer in dir brennt	Digimon
 The Wanderer	Dion
 That's what friends are for	Dionne Warwick
 Brothers In Arms	Dire Straits
-Sultans of Swing	Dire Straits
+Sultans of Swing [VIDEO]	Dire Straits
 I'Ve Had The Time Of My Life	Dirty Dancing
 Bang Bang You're Dead	Dirty Pretty Things
+Bang Bang You're Dead [VIDEO]	Dirty Pretty Things
 Chip & Chap Theme	Disney
 Darkwing Duck Theme	Disney
 Gummibären	Disney
 Gummibärenbande Theme	Disney
+Gummi Bears	Disney The Brown Derbies
 Küss Sie Doch [VIDEO]	Disney's Arielle
 Unter dem Meer	Disney's Arielle
 Darkwing Duck Theme	Disney's Darkwing Duck
 Die Schöne und das Biest	Disney's Die Schöne und das Biest
 Theme	Disney's Duck Tales
+I'll Make A Man Out Of You	Disney's Mulan
 I Wanna Be Like You (Duett)	Disney's The Jungle Book
 Wir Sind Eins	Disneys König der Löwen 2
 Farbenspiel des Winds	Disneys Pocahontas
@@ -1051,6 +1063,7 @@ Spiegelbild	DisneyÂ´s Mulan
 Another Way To Die	Disturbed
 Asylum	Disturbed
 Believe	Disturbed
+Darkness	Disturbed
 Down With The Sickness	Disturbed
 Indestructible	Disturbed
 Inside The Fire	Disturbed
@@ -1077,6 +1090,7 @@ Riidankylväjä	Don Huonot
 Danza Kuduro	Don Omar ft. Lucenzo
 Some Broken Hearts Never Mend	Don Williams
 She Works Hard For The Money	Donna Summer
+She Works Hard For The Money [VIDEO]	Donna Summer
 Whatever Will Be Wil Be	Doris Day
 Traum-Walzer	Dornroschen
 Warum Nur	Dornroschen
