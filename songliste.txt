@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Apr 26 05:43:18 CEST 2013
+# KaraokeParty Songlist: Mon Oct 21 20:45:29 CEST 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -35,6 +35,7 @@ Mamma Mia	A-Teens
 Super Trooper	A-Teens
 Crying in the Rain	A-ha
 Foot Of The Mountain	A-ha
+Zai Jian [VIDEO]	A-yue Chang
 Dancing Queen	ABBA
 Gimme Gimme Gimme	ABBA
 Honey, Honey	ABBA
@@ -97,7 +98,7 @@ Because I Got High	Afroman
 La Dolce Vita	After Dark
 Beetween Love And Fire	After Forever
 Follow In The Cry	After Forever
-Wir sind Werder Bremen	Afterburner
+Wir sind Werder Bremen [VIDEO]	Afterburner
 Release Me	Agnes
 Take on me	Aha
 Take on me (Karaoke)	Aha
@@ -136,6 +137,7 @@ Destination Calabria	Alex Gaudino feat Crystal Waters
 Ring um die Eier	Alex Knoll
 Sin miedo a nada	Alex Ubago
 Take Me Tonight	Alexander
+Kiss Goodbye [VIDEO]	Alexander Wang
 All Night Long	Alexandra Burke Feat Pitbull
 Mr. Saxobeat	Alexandra Stan
 Da Grande	Alexia
@@ -183,6 +185,7 @@ Nur In Meinem Kopf	Andreas Bourani
 Fred vom Jupiter	Andreas Dorau und die Marinas
 Ich Fang Dir Den Mond	Andreas Martin
 Stille Nacht	Andy Borg
+C Da Diao [VIDEO]	Angela Zhang
 2 Times	Ann Lee
 ABC (Schwedisch)	Anna Book
 Moje Jedyne Marzenie	Anna Jantar
@@ -194,8 +197,10 @@ Quando due si lasciano	Anna Tatangelo
 cosa ne sai	Anna Tatangelo
 Ragazza di periferia	Anna tatangelo
 Wer Ist Dieser DJ	Anna-Maria Zimmermann
-Das Gefühl	Annett Louisan
+Das Gefühl [VIDEO]	Annett Louisan
 Das Spiel	Annett Louisan
+Das Spiel [VIDEO]	Annett Louisan
+Barbapapas	Annette Tison
 Heartbeat	Annie
 Into the West	Annie Lennox
 Sweet Dreams	Annie Lennox
@@ -229,6 +234,7 @@ Haruka kanata (TV)	Asian Kung-fu Generation
 Rewrite	Asian Kung-fu Generation
 Du käre lille snickerbo	Astrid Lindgren
 Idas sommarvisa	Astrid Lindgren
+Pippi Langstrumpf	Astrid Lindgren
 Pilutta-visan	Astrid Lindgren (Madicken)
 Eye Of The Tiger	At Vance
 Money, Money, Money	At Vance
@@ -425,7 +431,7 @@ Everybody needs somebody to love	Blues Brothers
 Girls & Boys	Blur
 Parklife	Blur
 Song 2	Blur
-Kleiner Satelit	Blümchen
+Kleiner Satellit [VIDEO]	Blümchen
 Lay Lady Lay	Bob Dylan
 Mr Tambourine Man	Bob Dylan
 Could you be loved	Bob Marley
@@ -593,6 +599,7 @@ The One And Only	Chesney Hawkes
 If you leave me now	Chicago
 Wishful Thinking	China Crisis
 Yasashisa no Riyuu	ChouCho
+Pretty Belinda (Deutsch)	Chris Andrews
 Pretty Belinda (English)	Chris Andrews
 Yo (Excuse Me Miss)	Chris Brown
 With You (Official Remix)	Chris Brown feat. Karina Pasian
@@ -604,6 +611,7 @@ Die Hände zum Himmel	Chris Rabatz ft. The Kingz
 Driving Home For Christmas	Chris Rea
 Du Kannst Nicht Immer 17 Sein	Chris Roberts
 Amazing Grace (My Chains Are Gone)	Chris Tomlin
+lou xia na ge nv ren [VIDEO]	Chris Yu
 A Womans Heart	Chris de Burgh
 The Lady in Red	Chris de Burgh
 Det Hon Vill Ha	Christer Sandelin
@@ -620,6 +628,7 @@ Your Body	Christina Aguilera
 AM to PM	Christina Milian
 Ich Lebe	Christina Stuermer
 Ich Lebe 2005	Christina Stuermer
+Engel Fliegen Einsam [VIDEO]	Christina Stürmer
 Ich Lebe	Christina Stürmer
 Ich Lebe 2005	Christina Stürmer
 Immer An Euch Geglaubt	Christina Stürmer
@@ -773,6 +782,7 @@ Fireball	Deep Purple
 Smoke On The Water	Deep Purple
 Diamond Eyes	Deftones
 Luftbahn	Deichkind
+Remmi Demmi (Yippie Yippie Yeah) [VIDEO]	Deichkind
 Du Wichser	Deliah
 This Is Me	Demi Lavato & Joe Jonas
 Enjoy The Silence	Depeche Mode
@@ -816,7 +826,7 @@ Die Lollipops-Alle meine Entchen	Die Lollipops
 Alles Nur Geklaut	Die Prinzen
 Du musst ein Schwein sein	Die Prinzen
 Mein Fahrrad	Die Prinzen
-Auld Lang Syne	Die Roten Rosen
+Auld Lang Syne [VIDEO]	Die Roten Rosen
 Happy X-Mas	Die Roten Rosen
 Leise rieselt der Schnee	Die Roten Rosen
 Stille Nacht	Die Roten Rosen
@@ -826,17 +836,20 @@ Die Schöne Und Das Biest	Die Schöne Und Das Biest
 1000 Gute GrÃ¼nde	Die Toten Hosen
 1000 Gute Gründe	Die Toten Hosen
 All Die Ganzen Jahre	Die Toten Hosen
+All die ganzen Jahre	Die Toten Hosen
 Alles Aus Liebe	Die Toten Hosen
 Alles Wird Vorübergehen	Die Toten Hosen
 Auld Lang Syne	Die Toten Hosen
 Bayern	Die Toten Hosen
 Bis zum bitteren Ende	Die Toten Hosen
+Bonnie & Clyde	Die Toten Hosen
 Bonnie And Clyde	Die Toten Hosen
 Eisgekühlter Bommerlunder	Die Toten Hosen
 Freunde	Die Toten Hosen
 Friss Oder Stirb	Die Toten Hosen
 Hier Kommt Alex	Die Toten Hosen
 Hier Kommt Alex (Unplugged)	Die Toten Hosen
+Hier kommt Alex [VIDEO]	Die Toten Hosen
 Ich bin die Sehnsucht in dir	Die Toten Hosen
 Kein Alkohol	Die Toten Hosen
 Nur Zu Besuch	Die Toten Hosen
@@ -850,16 +863,20 @@ Strom	Die Toten Hosen
 Tage wie diese	Die Toten Hosen
 Unsterblich	Die Toten Hosen
 Walkampf	Die Toten Hosen
+Warum Werde Ich Nicht Satt [VIDEO]	Die Toten Hosen
 Was Zählt	Die Toten Hosen
 Wünsch Dir Was	Die Toten Hosen
 Zehn Kleine Jägermeister	Die Toten Hosen
 1-2 Lovesong	Die Ärzte
 3 Tage Bart	Die Ärzte
+Anders als beim letzten Mal	Die Ärzte
 Bitte Bitte...	Die Ärzte
+Claudia hat 'nen Schäferhund	Die Ärzte
 Deine Schuld	Die Ärzte
 Der Graf	Die Ärzte
 Die Welt ist schlecht	Die Ärzte
 Die Ärzte - Die Ärzte - Rebell	Die Ärzte
+Ein Sommer nur für mich	Die Ärzte
 Ein Song namens Schunder	Die Ärzte
 El Cattivo	Die Ärzte
 Elke	Die Ärzte
@@ -870,15 +887,20 @@ Geschwisterliebe	Die Ärzte
 Grace Kelly	Die Ärzte
 Hurra	Die Ärzte
 Ich weiß nicht ob es Liebe ist	Die Ärzte
+Ignorama	Die Ärzte
 Ist das noch Punkrock	Die Ärzte
 Junge	Die Ärzte
 Komm zurück	Die Ärzte
+Lasse redn [VIDEO]	Die Ärzte
+Lied vom Scheitern [VIDEO]	Die Ärzte
 Living Hell	Die Ärzte
 Mach die Augen zu	Die Ärzte
 Manchmal haben Frauen	Die Ärzte
 Meine Freunde	Die Ärzte
 Mysteryland	Die Ärzte
 Männer Sind Schweine	Die Ärzte
+N 48.3	Die Ärzte
+Nicht Allein	Die Ärzte
 Nichts in der Welt	Die Ärzte
 Nie Wieder Krieg, Nie Mehr Las Vegas	Die Ärzte
 Nie gesagt	Die Ärzte
@@ -886,6 +908,7 @@ Nur einen Kuss	Die Ärzte
 Ohne dich	Die Ärzte
 Omaboy	Die Ärzte
 Popstar	Die Ärzte
+Quark	Die Ärzte
 Radio brennt	Die Ärzte
 Radio brennt (Deja Vu-Version)	Die Ärzte
 Revolution - Kopfüber in die Hölle	Die Ärzte
@@ -897,11 +920,12 @@ Schundersong	Die Ärzte
 Super Drei	Die Ärzte
 Sweet Sweet Gwendoline	Die Ärzte
 Teenagerliebe	Die Ärzte
-Unrockbar	Die Ärzte
-Westerland	Die Ärzte
+Unrockbar [VIDEO]	Die Ärzte
+Westerland [VIDEO]	Die Ärzte
 Wie am ersten Tag	Die Ärzte
 Wie ein Kind	Die Ärzte
 Wie es geht	Die Ärzte
+Yoko Ono [VIDEO]	Die Ärzte
 Zu Spät	Die Ärzte
 Zu spät (Satanische-Pferde-Live-Version)	Die Ärzte
 Erna Kommt	Dieter De
@@ -921,8 +945,10 @@ Chip & Chap Theme	Disney
 Darkwing Duck Theme	Disney
 Gummibären	Disney
 Gummibärenbande Theme	Disney
+Küss Sie Doch [VIDEO]	Disney's Arielle
 Unter dem Meer	Disney's Arielle
 Darkwing Duck Theme	Disney's Darkwing Duck
+Die Schöne und das Biest	Disney's Die Schöne und das Biest
 Theme	Disney's Duck Tales
 I Wanna Be Like You (Duett)	Disney's The Jungle Book
 Wir Sind Eins	Disneys König der Löwen 2
@@ -981,6 +1007,7 @@ Dirty Glass	Dropkick Murphys
 I'm Shipping Up To Boston	Dropkick Murphys
 Johnny I Hardly Knew Ya	Dropkick Murphys
 DschinghisKahn	Dschinghis Kahn
+Moskau	Dschinghis Khan
 Flow	Dub Fx
 Theme	Duck Tales
 Mercy	Duffy
@@ -1014,6 +1041,7 @@ September '99 (Phats & Small Remix)	Earth Wind & Fire
 The Killing Moon	Echo & The Bunnymen
 Du Trägst Keine Liebe In Dir	Echt
 Fort Von Mir	Echt
+Junimond	Echt
 Weinst Du	Echt
 Gimme Hope Jo´anna	Eddy Grant
 King Of Fools	Edguy
@@ -1111,6 +1139,7 @@ I Shot The Sheriff	Eric Clapton
 My Father's Eyes	Eric Clapton
 Tears in Heaven	Eric Clapton
 Tears in Heaven (Unplugged)	Eric Clapton
+Wer hat an der Uhr gedreht	Eric Frantzen Orchester
 Se Bastasse Una Bella Canzone	Eros Ramazotti
 Cosa della vita	Eros Ramazzotti
 Un emozione per sempre	Eros Ramazzotti
@@ -1132,11 +1161,14 @@ Light Surrounding You	Evermore
 Your Song	Ewan McGregor
 Wann spielt ihr endlich wieder Grindcore?	Excrementory Grindfuckers
 More Than Words	Extreme
+Lydia	F.I.R
+Wo men de ai [VIDEO]	F.I.R
 Words	F.R. David
 Blau und Weiss	FC Schalke 04
 In Italia ft Gianna Nannini	Fabri Fibra & Gianna Nannini
 Il pescatore	Fabrizio De André
 Efter Plugget	Factory
+Zhi dui ni you gan jue	Fahrenheit & Hebe Tian
 Perfect	Fairground Attraction
 Red Umbrella	Faith Hill
 Digging The Grave	Faith No More
@@ -1161,7 +1193,10 @@ Retorciendo Palabras	Fangoria
 MFG	Fantastischen 4
 Alle dasselbe	Farin Urlaub
 Dusche	Farin Urlaub
+Glücklich [VIDEO]	Farin Urlaub
 Immer noch	Farin Urlaub
+Petze	Farin Urlaub
+Phaenomenal Egal [VIDEO]	Farin Urlaub
 Porzellan	Farin Urlaub
 Sonne	Farin Urlaub
 Unter Wasser	Farin Urlaub
@@ -1175,6 +1210,7 @@ Bettina zieh dir bitte etwas an	Fettes Brot mit Modeselektor
 She Drives Me Crazy	Fine Young Cannibals
 Paralyzer	Finger Eleven
 Diventerai Una Star	Finley
+C'est la vie	Fish Leong
 System Addict	Five Star
 Go Your Own Way	Fleetwood Mac
 Little Lies	Fleetwood Mac
@@ -1269,6 +1305,7 @@ Call The Shots	Girls Aloud
 No Good Advice	Girls Aloud
 Ich will nen Cowboy als Mann	Gitte
 So Schön Kann Doch Kein Mann Sein	Gitte
+Heidi	Gitti & Erica
 Non ti scordar mai di me	Giusy Ferreri
 Haltet Die Welt An	Glashaus
 Gangnam Style	Glee
@@ -1342,6 +1379,7 @@ Sweet Child O' Mine	Guns N' Roses
 Welcome to the jungle	Guns N' Roses
 Infinity 2008	Guru Josh Project
 Da Sprach Der Alte Hauptling Der Indianer	Gus Backus
+Sauerkraut-Polka	Gus Backus
 Cool	Gwen Stefani
 Hollaback Girl	Gwen Stefani
 What You Waiting For?	Gwen Stefani
@@ -1376,9 +1414,9 @@ I'm Alive	Helloween
 Unsung	Helmet
 Im Wagen Von Mir	Henry Valentino Und Uschi
 Demo (letzter Tag)	Herbert Grönemeyer
-Der Weg	Herbert Grönemeyer
+Der Weg [VIDEO]	Herbert Grönemeyer
 Halt Mich	Herbert Grönemeyer
-Mensch	Herbert Grönemeyer
+Mensch [VIDEO]	Herbert Grönemeyer
 Männer	Herbert Grönemeyer
 Country Roads	Hermes House Band
 I Will Survive	Hermes House Band
@@ -1403,19 +1441,22 @@ Sternenhimmel	Hubert Kah
 Brenna Tuats Guat	Hubert Von Goisern
 PoP! Goes My Heart	Hugh Grant
 Jungen Mädchen	Hund Am Strand
+Hey Kölle!	Höhner
 Schenk Mir Dein Herz	Höhner
 Schenk mir dein Herz	Höhner
 Viva Colonia	Höhner
+Viva Colonia (Da Simmer Dabei, Dat Is Prima!)	Höhner
 Wenn Nicht Jetzt, Wann Dann (Weltmeister Version)	Höhner
 Der Knutschfleck	IXI
 Umarme Mich	Ich
+Du Erinnerst Mich An Liebe [VIDEO]	Ich & Ich
 So soll es bleiben	Ich + Ich
+Stark [VIDEO]	Ich + Ich
 Umarme Mich	Ich + Ich
-Vom selben Stern	Ich + Ich
 Geranium	Ich Troje
 Wypijmy Za To	Ich Troje
 Vom Selben Stern	Ich Und Ich
-Du erinnerst mich an Liebe	Ich&Ich
+Vom Selben Stern [VIDEO]	Ich&Ich
 I Love It	Icona Pop
 Real Wild Child (Wild One)	Iggy Pop
 Real Wild One	Iggy Pop
@@ -1446,6 +1487,7 @@ No Matter	Jack Radics
 Reet Petite	Jackie Wilson
 ABC (Jackson 5)	Jackson 5
 ABC (Michael)	Jackson 5
+Wen Bie [VIDEO]	Jacky Cheung
 Fiumi di parole	Jalisse
 Beware of the Dog	Jamelia
 Stop	Jamelia
@@ -1474,6 +1516,16 @@ Whatcha Say	Jason DeRulo
 In My Head	Jason Derulo
 I'm Yours	Jason Mraz
 Real Things	Javine
+Bu Neng Shuo De Mi Mi [VIDEO]	Jay Chou
+Cai Hong	Jay Chou
+Ju hua tai [VIDEO]	Jay Chou
+Niu zai hen mang [VIDEO]	Jay Chou
+Pu Gong Ying De Yue Ding [VIDEO]	Jay Chou
+Qing Hua Ci	Jay Chou
+Qing Tian [VIDEO]	Jay Chou
+Ting Ma Ma De Hua [VIDEO]	Jay Chou
+San Hu Hai ( [VIDEO])	Jay Chou & Lara
+San Hu Hai (Jay Chou)	Jay Chou & Lara
 Empire state of mind	Jay-Z feat. Alicia Keys
 Empire State Of Mind	Jay-Z ft. Alicia Keys
 Young Forever	Jay-Z ft. Mr. Hudson
@@ -1515,6 +1567,11 @@ A Boy Named Sue	Johnny Cash
 Ghost Rider in the Sky	Johnny Cash
 I Walk The Line	Johnny Cash
 Ring Of Fire	Johnny Cash
+Hai Dao (Pirate) [VIDEO]	Jolin
+Ai Qing 36 Ji [VIDEO]	Jolin Tsai
+Kuai You Ai [VIDEO]	Jolin Tsai
+Rewind [VIDEO]	Jolin Tsai
+This is Love [VIDEO]	Jolin Tsai
 Just Another Day	Jon Secada
 Just Another Day (Without You)	Jon Secada
 S.O.S.	Jonas Brothers
@@ -1811,7 +1868,6 @@ From the inside	Linkin Park
 Given Up	Linkin Park
 In The End	Linkin Park
 New Divide	Linkin Park
-Numb	Linkin Park
 One Step Closer	Linkin Park
 Powerless	Linkin Park
 Shadow Of The Day	Linkin Park
@@ -2104,6 +2160,7 @@ Hold My Hand (Duett)	Michael Jackson ft. Akon
 Blinded by the light	Michael Mind feat. Manfred Mann's Earth Band
 Nina	Michael Wendler
 Sie Liebt Den DJ	Michael Wendler
+Tong Hua [VIDEO]	Michael Wong
 Ai Se Eu Te Pego	Michel Teló
 Cinque giorni	Michele Zarrillo
 Kinderaugen	Michelle
@@ -2260,6 +2317,8 @@ Step By Step	New Kids On The Block
 51st State	New Model Army
 So Sick	Neyo
 Ich Will Dich Fur Immer	Nic
+Dan Ni Gu Dan Ni Hui Xiang Qi Shui	Nicholas Teo
+Wang Zi [VIDEO]	Nicholas Teo
 We Are All The Winners	Nick Borgen
 Where The Wild Roses Grow	Nick Cave & The Bad Seeds and Kylie Minogue
 Where The Wild Roses Grow	Nick Cave And Kylie Minogue
@@ -2499,6 +2558,7 @@ Jai Ho (You Are My Destiny)	Pussycat Dolls
 Stick Wit U	Pussycat Dolls
 Stickwitu	Pussycat Dolls
 Beep	Pussycat Dolls (Feat. Will.i.am)
+Bu Rang Wo De Yan Lei Pei Wo Guo Ye [VIDEO]	Qi Qin
 Another One Bites The Dust	Queen
 Bicycle Race (Backing)	Queen
 Bicycle Race (Freddie)	Queen
@@ -2563,6 +2623,7 @@ Bananaphone	Raffi
 Clouds across the moon	Rah Band
 Macho Macho	Rainhard Fendrich
 Oben Ohne	Rainhard Fendrich
+Weilst a Herz hast	Rainhard Fendrich
 Streets of London	Ralph McTell
 Amerika	Rammstein
 Bück dich	Rammstein
@@ -2601,6 +2662,7 @@ Soul To Squeeze	Red Hot Chili Peppers
 The Adventures Of Raindance Maggie	Red Hot Chili Peppers
 Under The Bridge	Red Hot Chili Peppers
 Cotton Eye Joe	Rednex
+Macho Macho	Reinhard Fendrich
 Über den Wolken	Reinhard Mey
 I'll be there for you	Rembrandts
 Amico	Renato Zero
@@ -2627,6 +2689,7 @@ Hazard	Richard Marx
 Right Here Waiting	Richard Marx
 Reality	Richard Sanderson
 Supa Richie	Richie
+Dui Mian De Nu Hai Kan Guo Lai [VIDEO]	Richie Ren
 Labamba	Richie Valens
 Never Gonna Give You Up	Rick Astley
 Never gonna give you up	Rick Astley
@@ -2742,6 +2805,11 @@ Ein Freund, Ein Guter Freund	Rühmann's (Sch)erben
 Don't Stop Movin'	S Club 7
 Don't Stop Movin' (Karaoke)	S Club 7
 Never had a dream come true	S Club 7
+An jing le [VIDEO]	S.H.E
+IOIO [VIDEO]	S.H.E
+Re Dai Yu Lin [VIDEO]	S.H.E
+Shi mian mai fu [VIDEO]	S.H.E
+Super Star [VIDEO]	S.H.E
 Anfang Anzufangen	SDP
 Butterfly	SMiLE.dk
 Gö du bleibst heit nacht bei mir	STS
@@ -2829,6 +2897,7 @@ Stay with me	Shearer
 Stay with me (Kar)	Shearer
 Strong Enough	Sheryl Crow
 The First cut is the deepest	Sheryl Crow
+One Night In Beijing [VIDEO]	Shin
 Min Kärlek	Shirley Clamp
 T-Shirt	Shontelle
 Augen Auf	Sido
@@ -2936,6 +3005,7 @@ Maschen-Draht-Zaun	Stefan Raab
 Einer Ist Immer Der Loser	Stefan Remmler
 Zu nah am Feuer	Stefan Waggershausen und Alice
 My Man Is A Mean Man	Stefanie Heinzmann
+Tian Hei Hei [VIDEO]	Stefanie Sun
 Born To Be Wild	Steppenwolf
 Born to be wild	Steppenwolf
 Magic Carpet Ride	Steppenwolf
@@ -3032,8 +3102,10 @@ Batman Theme	Television
 Fuck Her Gently	Tenacious D
 Tribute	Tenacious D
 Sign you Name	Terence Trent D'Arby
+yue liang dai biao wo de xin [VIDEO]	Teresa Teng
 Girls Lie Too	Terri Clark
 Seasons in the sun	Terry Jacks
+Meng na li sha de yan lei [VIDEO]	Terry Lin
 Summer Son	Texas
 No No Never	Texas Lightning
 Dumb	The 411
@@ -3405,6 +3477,7 @@ All That She Wants	WIZO
 Poupée De Cire	WIZO
 Roy Black ist tot	WIZO
 Lets Have A Party	Wanda Jackson
+Lao shu ai da mi [VIDEO]	Wang Qi Wen
 Indigo Girl	Watershed
 Buddy Holly	Weezer
 Keep Fishin'	Weezer
@@ -3500,6 +3573,7 @@ Seit Mehr Als 1000 Jahren	Zascha
 Cha³upy Welcome To	Zbigniew Wodecki
 Playmate Of The Year	Zebrahead
 svegliarsi la mattina	Zero Assoluto
+Zuo zai xiang kou de na dui nan nv [VIDEO]	Zi ran juan
 Ich Vermiss Dich Wie Die Hölle	Zlatko
 Großer Bruder	Zlatko & Jürgen
 Baila Morena	Zucchero
