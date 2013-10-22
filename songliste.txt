@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Tue Oct 22 00:41:18 CEST 2013
+# KaraokeParty Songlist: Tue Oct 22 02:16:29 CEST 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -1143,7 +1143,7 @@ Nie wieder Kunst (wie immer...)	EAV
 Wie Eine Fatamorgana	EAV
 Wo ist der Kaiser	EAV
 Unbelievable	EMF
-Save Tonight	Eagle Eye Cherry
+Save Tonight [VIDEO]	Eagle Eye Cherry
 September '99 (Phats & Small Remix)	Earth Wind & Fire
 The Killing Moon	Echo & The Bunnymen
 Du Trägst Keine Liebe In Dir	Echt
@@ -1155,7 +1155,7 @@ King Of Fools	Edguy
 Superheroes	Edguy
 Il gatto e la volpe	Edoardo Bennato
 Trololo	Eduard Khil
-War	Edwin Starr
+War [VIDEO]	Edwin Starr
 A Girl Like You	Edwyn Collins
 Blue	Eiffel 65
 I'm Not Scared	Eighth Wonder
@@ -1182,39 +1182,52 @@ Let's Call The Whole Thing Off	Ella Fitzgerald and Louis Armstrong
 Let's Call The Whole Thing Off (Ella)	Ella Fitzgerald and Louis Armstrong
 Let's Call The Whole Thing Off (Louis)	Ella Fitzgerald and Louis Armstrong
 Can You Feel The Love Tonight	Elton John
+Can You Feel The Love Tonight [VIDEO]	Elton John
 Candle In The Wind (Goodbye England's Rose)	Elton John
 Crocodile Rock	Elton John
 Goodbye Yellow Brick Road	Elton John
 I'm Still Standing	Elton John
-Nikita	Elton John
+I'm Still Standing [VIDEO]	Elton John
+Nikita [VIDEO]	Elton John
 Rocket Man	Elton John
+Rocket Man [VIDEO]	Elton John
+Sacrifice [VIDEO]	Elton John
+Skyline Pigeon	Elton John
+Sorry Seems To Be The Hardest Word	Elton John
 Your Song	Elton John
 Don't Let The Sun Go Down On Me	Elton John & George Michael
 Don't Go Breaking My Heart	Elton John & Kiki Dee
-Crying In The Chapel	Elvis
-The Girl Of My Best Friend	Elvis
+Don't Go Breaking My Heart [VIDEO]	Elton John & Kiki Dee
 A Little Less Conversation (JXL Remix)	Elvis Presley
 Are You Lonesome Tonight	Elvis Presley
 Blue Suede Shoes	Elvis Presley
+Blue Suede Shoes [VIDEO]	Elvis Presley
+Can't Help Falling In Love	Elvis Presley
 Crying In The Chapel	Elvis Presley
+Don't Be Cruel	Elvis Presley
 Don't Cry Daddy	Elvis Presley
 Fever	Elvis Presley
+Flaming Star	Elvis Presley
 His Latest Flame	Elvis Presley
 In The Ghetto	Elvis Presley
 Its now or never	Elvis Presley
 Kiss Me Quick	Elvis Presley
 Love Me Tender	Elvis Presley
 O Danny Boy	Elvis Presley
-Return the sender	Elvis Presley
 Return to sender	Elvis Presley
-Suspicious Minds	Elvis Presley
+Snowbird	Elvis Presley
 Suspicious minds	Elvis Presley
 Suspicious minds (Karaoke)	Elvis Presley
+Suspicious minds (Karaoke) [VIDEO]	Elvis Presley
+Suspicious minds [VIDEO]	Elvis Presley
 Teddybear	Elvis Presley
 The Girl Of My Best Friend	Elvis Presley
 The Wonder Of You	Elvis Presley
 Viva las Vegas	Elvis Presley
 Way Down	Elvis Presley
+Way Down [VIDEO]	Elvis Presley
+Welcome To My World	Elvis Presley
+Wooden Heart	Elvis Presley
 You were always on my mind	Elvis Presley
 Wooden Heart	Elvis Presly
 Big Big World	Emilia
@@ -1243,9 +1256,9 @@ Always	Erasure
 Paid In Full	Eric B And Rakim
 Cocaine	Eric Clapton
 I Shot The Sheriff	Eric Clapton
+Layla (Unplugged) [VIDEO]	Eric Clapton
 My Father's Eyes	Eric Clapton
-Tears in Heaven	Eric Clapton
-Tears in Heaven (Unplugged)	Eric Clapton
+Tears in Heaven (unplugged) [VIDEO]	Eric Clapton
 Wer hat an der Uhr gedreht	Eric Frantzen Orchester
 Se Bastasse Una Bella Canzone	Eros Ramazotti
 Cosa della vita	Eros Ramazzotti
@@ -1258,17 +1271,24 @@ I Saved The World Today	Eurythmics
 Sweet Dreams	Eurythmics
 Sweet Dreams (Steve Angello Remix)	Eurythmics
 Silly Boy	Eva Simons
-Bring me to life	Evanecense
 Bring Me To Life	Evanescence
-Call Me When Your Sober	Evanescence
-Going Under	Evanescence
-My Immortal	Evanescence
-My Last Breath	Evanescence
+Bring me to life [VIDEO]	Evanescence
+Call Me When Your Sober [VIDEO]	Evanescence
+Everybody's Fool [VIDEO]	Evanescence
+Going under [VIDEO]	Evanescence
+Hello	Evanescence
+I Must be dreaming	Evanescence
+Lithium [VIDEO]	Evanescence
+My Immortal [VIDEO]	Evanescence
+My Last Breath [VIDEO]	Evanescence
+October	Evanescence
+So Close	Evanescence
+Tourniquet	Evanescence
 Light Surrounding You	Evermore
 Your Song	Ewan McGregor
 Wann spielt ihr endlich wieder Grindcore?	Excrementory Grindfuckers
 Flieger, Grüss Mir Die Sonne	Extrabreit
-More Than Words	Extreme
+More Than Words [VIDEO]	Extreme
 Lydia	F.I.R
 Wo men de ai [VIDEO]	F.I.R
 Words	F.R. David
@@ -1292,6 +1312,7 @@ Out of the Dark	Falco
 Rock Me Amadeus	Falco
 Vienna Calling	Falco
 Dance Dance	Fall Out Boy
+Dance Dance [VIDEO]	Fall Out Boy
 This Ain't A Scene	Fall Out Boy
 Thnks Fr Th Mmrs	Fall Out Boy
 Beat it	Fall Out Boy ft. John Mayer
@@ -1309,8 +1330,11 @@ Porzellan	Farin Urlaub
 Sonne	Farin Urlaub
 Unter Wasser	Farin Urlaub
 Wo ist das Problem	Farin Urlaub
+Praise you	Fatboy Slim
 Eyes on Me	Faye Wong
 Big Girls Don't Cry	Fergie
+Big girls don't cry [VIDEO]	Fergie
+Clumsy [VIDEO]	Fergie
 Ein Geheimnis	Fertig, Los!
 Emanuela	Fettes Brot
 Schwule Mädchen (Duett)	Fettes Brot
@@ -1320,6 +1344,7 @@ Paralyzer	Finger Eleven
 Diventerai Una Star	Finley
 C'est la vie	Fish Leong
 System Addict	Five Star
+System Addict [VIDEO]	Five Star
 Go Your Own Way	Fleetwood Mac
 Little Lies	Fleetwood Mac
 Good Feeling	Flo Rida
@@ -1337,7 +1362,6 @@ Everlong	Foo Fighters
 My Hero	Foo Fighters
 The Pretender	Foo Fighters
 Lemon Tree	Fool's Garden
-Lemon Tree	Fools Garden
 I Want To Know What Love Is	Foreigner
 Pumped Up Kicks	Foster The People
 Stacy's Mom	Fountains Of Wayne
@@ -1355,7 +1379,9 @@ Hier kommt Kurt	Frank Zander
 Oh Susi	Frank Zander
 Ferry Cross The Mersey	Frankie Goes To Hollywood
 The Power Of Love	Frankie Goes To Hollywood
+The Power Of Love [VIDEO]	Frankie Goes To Hollywood
 Do You Want To	Franz Ferdinand
+Do You Want To [VIDEO]	Franz Ferdinand
 Take Me Out	Franz Ferdinand
 Ulysses	Franz Ferdinand
 Schau Mir Ins Gesicht	Franziska
@@ -1363,6 +1389,7 @@ Das Geht Ab	Frauenarzt & Manny Marc
 Disco Pogo	Frauenarzt & Manny Marc
 Florida Lady	Frauenarzt & Manny Marc Feat Andreas Martin
 I sing in the Rain	Fred Astaire
+Living On My Own [VIDEO]	Freddie Mercury
 The Great Pretender	Freddie Mercury
 All Right Now	Free
 Alright Now	Free
@@ -1376,6 +1403,7 @@ Killing me softly	Fugees
 Saufen, Fressen und F.....	Funny van Dannen
 Dead + Gone	Fury In The Slaughterhouse
 Dein Herz Schlägt Schneller	Fünf Sterne deluxe
+Sweet About Me [VIDEO]	Gabriella Cilmi
 Freed From Desire	Gala
 Abyss Of The Void	Gamma Ray
 Abyss Of The Void (karaoke)	Gamma Ray
@@ -1390,14 +1418,19 @@ Bruttosozialprodukt	Geier Sturzflug
 Holly E Benji	GemBoy
 Dammi solo un minuto	Gemelli Diversi
 Follow You, Follow Me	Genesis
-I Can't dance	Genesis
 I can't dance	Genesis
 Jesus he knows me	Genesis
 Mama	Genesis
 Careless Whisper	George Michael
 Careless Whisper (Karaoke)	George Michael
+Careless Whisper (Karaoke) [VIDEO]	George Michael
+Careless Whisper [VIDEO]	George Michael
 Faith	George Michael
+Faith (Karaoke) [VIDEO]	George Michael
+Faith [VIDEO]	George Michael
+One More Try	George Michael
 Sag ihr auch	Gerd Christian
+It's raining men [VIDEO]	Geri Halliwell
 Baker Street	Gerry Rafferty
 Cammina nel sole	Gianluca Grignani
 Destinazione Paradiso	Gianluca Grignani
@@ -1430,7 +1463,7 @@ Hoy	Gloria Estefan
 I Am What I Am	Gloria Gaynor
 I Will Survive	Gloria Gaynor
 Dancing Queen	Glow
-Crazy	Gnarls Barkley
+Crazy [VIDEO]	Gnarls Barkley
 Radar Love	Golden Earring
 Ooh La La	Goldfrapp
 Goo Goo Dolls - Iris	Goo Goo Dolls
@@ -1440,8 +1473,9 @@ Girls And Boys (Karaoke)	Good Charlotte
 I Just Wanna Live	Good Charlotte
 Predictable	Good Charlotte
 The Anthem [VIDEO]	Good Charlotte
-Clint Eastwood	Gorillaz
-Feel Good Inc.	Gorillaz
+The River	Good Charlotte feat. M. Shadows
+Clint Eastwood [VIDEO]	Gorillaz
+Feel Good INC [VIDEO]	Gorillaz
 Pozwol Zyc	Gosia Andrzejewicz
 S³owa	Gosia Andrzejewicz
 Heavy Cross	Gossip
@@ -1450,6 +1484,9 @@ Perfect World	Gossip
 Somebody That I Used To Know	Gotye feat. Kimbra
 O Du Fröhliche	Graham Bonney
 Heavy Metal breakdown	Grave Digger
+Sandy	Grease
+Summer Nights	Grease
+You're the One that I Want [VIDEO]	Grease
 Your the One that I Want	Grease
 American Idiot [VIDEO]	Green Day
 Are We the Waiting	Green Day
@@ -1464,16 +1501,18 @@ Having A Blast	Green Day
 Hitchin A Ride	Green Day
 Holiday	Green Day
 Jesus Of Suburbia	Green Day
+King for a day	Green Day
 Minority	Green Day
 Oh Love	Green Day
 Peacemaker	Green Day
 The Static Age	Green Day
 Wake me up when september ends	Green Day
 When I Come Around	Green Day
-When I come around	Green Day
 Redneck Woman	Gretchen Wilson
 Last Unicorn	Groove Coverage
 Moonlight Shadow	Groove Coverage
+Poison [VIDEO]	Groove Coverage
+Runaway [VIDEO]	Groove Coverage
 She	Groove Coverage
 Big in Japan	Guano Apes
 You Can't Stop Me	Guano Apes
@@ -1482,16 +1521,24 @@ canzone per una amica	Guccini e i Nomadi
 Guildo Hat Euch Lieb	Guildo Horn & Die Orthopädischen Strümpfe
 3rd Opening Theme	Gundam Seed Destiny
 Civil war	Guns N Roses
+Cats in the Cradle	Guns N' Roses
+Don´t Cry	Guns N' Roses
+It´s so easy	Guns N' Roses
 Knocking On Heavens Door	Guns N' Roses
+Live and let die	Guns N' Roses
+Mr. Brownstone	Guns N' Roses
 November Rain	Guns N' Roses
+November Rain [VIDEO]	Guns N' Roses
 Paradise City	Guns N' Roses
-Sweet Child O' Mine	Guns N' Roses
+Paradise City [VIDEO]	Guns N' Roses
+Sweet child o´Mine [VIDEO]	Guns N' Roses
 Welcome to the jungle	Guns N' Roses
 Infinity 2008	Guru Josh Project
 Da Sprach Der Alte Hauptling Der Indianer	Gus Backus
 Sauerkraut-Polka	Gus Backus
 Cool	Gwen Stefani
-Hollaback Girl	Gwen Stefani
+Hollaback Girl [VIDEO]	Gwen Stefani
+The Sweet Escape [VIDEO]	Gwen Stefani
 What You Waiting For?	Gwen Stefani
 The Sweet Escape	Gwen Stefani Feat Akon
 Countdown To Insanity	H-Blockx
