@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Thu Oct 31 22:47:34 CET 2013
+# KaraokeParty Songlist: Thu Oct 31 23:32:21 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -2498,6 +2498,9 @@ You Gotta Share	My Little Pony
 Teenagers	MyChemicalRomance
 Ohne Dich	Münchener Freiheit
 Loko	Mürfila
+Bye Bye Bye [VIDEO]	N'Sync
+It's Gonna Be Me	N'Sync
+Tearin' Up My Heart	N'Sync
 This I Promise You	N'Sync
 Laura non c'e	NEK
 La chica de ayer	Nacha Pop
@@ -2510,6 +2513,7 @@ Torn	Natalie Imbruglia
 Single	Natasha Bedingfield
 Soulmate	Natasha Bedingfield
 These Words	Natasha Bedingfield
+These Words [VIDEO]	Natasha Bedingfield
 Je N'ai Que Mon Ame	Natasha St-Pier
 Nos Rendez-vous	Natasha St-Pier
 Un Ange Frappe A Ma Porte	Natasha St-pier
@@ -2519,7 +2523,7 @@ Beautiful Monster	Ne-Yo
 Closer	Ne-Yo
 Forever Now	Ne-Yo
 Miss Independent	Ne-Yo
-Sexy Love	Ne-Yo
+Sexy Love [VIDEO]	Ne-Yo
 ï»¿#TITLE:Because Of You	Ne-Yo
 Estate	Negramaro
 Solo3min	Negramaro
@@ -2534,18 +2538,22 @@ Laura Non C'e	Nek
 Se io non avessi te	Nek
 Juppihippipunkkari	Neljä Ruusua
 Just A Dream	Nelly
-All Good Things	Nelly Furtado
 All Good Things (come to an end)	Nelly Furtado
-I'm Like A Bird	Nelly Furtado
+All Good Things [VIDEO]	Nelly Furtado
+Forca [VIDEO]	Nelly Furtado
+I'm Like A Bird [VIDEO]	Nelly Furtado
 Maneater	Nelly Furtado
-Powerless	Nelly Furtado
+Powerless [VIDEO]	Nelly Furtado
 Promiscuous	Nelly Furtado
-Promiscuous Girl	Nelly Furtado
-Say It Right	Nelly Furtado
-Try	Nelly Furtado
+Promiscuous [VIDEO]	Nelly Furtado
+Say It Right (Karaoke) [VIDEO]	Nelly Furtado
+Say It Right [VIDEO]	Nelly Furtado
+Try [VIDEO]	Nelly Furtado
+Turn off the light [VIDEO]	Nelly Furtado
 99 Luftballons	Nena
 99 Luftballons [VIDEO]	Nena
 99 Red Balloons	Nena
+99 Red Balloons [VIDEO]	Nena
 Irgendwie, Irgendwo, Irgendwann	Nena
 Leuchtturm (New Version)	Nena
 Liebe ist	Nena
@@ -2554,6 +2562,7 @@ Ich Kann Nix Dafür	Nena, Olli & Remmler
 Amore per Sempre	Nevio Passaro
 Dressed To Kill	New Found Glory
 Step By Step	New Kids On The Block
+Step By Step [VIDEO]	New Kids On The Block
 51st State	New Model Army
 So Sick	Neyo
 Ich Will Dich Fur Immer	Nic
@@ -2563,6 +2572,7 @@ We Are All The Winners	Nick Borgen
 Where The Wild Roses Grow	Nick Cave & The Bad Seeds and Kylie Minogue
 Where The Wild Roses Grow	Nick Cave And Kylie Minogue
 Where The Wild Roses Grow	Nick Cave and Kylie Minogue
+Far Away	Nickelback
 How You Remind Me	Nickelback
 Rockstar	Nickelback
 Savin' Me	Nickelback
@@ -2593,6 +2603,7 @@ The Riddle	Nik Kershaw
 Der Mann Im Mond	Nik P
 Nils Holgersson	Nils
 Without You	Nilsson
+Without You [VIDEO]	Nilsson
 Leise rieselt der Schnee	Nina & Mike
 Closer	Nine Inch Nails
 Every Day Is Exactly The Same	Nine Inch Nails
@@ -2607,6 +2618,7 @@ Come As You Are	Nirvana
 Dumb	Nirvana
 Heart-Shaped Box	Nirvana
 In Bloom	Nirvana
+Jesus don't want me for a sunbeam	Nirvana
 Lake of Fire (unplugged)	Nirvana
 Lithium	Nirvana
 Pennyroyal Tea (unplugged)	Nirvana
@@ -2620,27 +2632,30 @@ Someday	No Angels
 There must be an Angel	No Angels
 Don't speak	No Doubt
 Ex-Girlfriend	No Doubt
-It´s my life	No Doubt
+It´s my life [VIDEO]	No Doubt
 Just A Girl	No Doubt
 Spiderwebs	No Doubt
 Sunday Morning	No Doubt
 Underneath it All [VIDEO]	No Doubt
-Where Do You Go	No Mercy
+Where Do You Go [VIDEO]	No Mercy
 Liberi Fatali	Nobou Uemsatu
 Ring Of Steel	Nocturnal Rites
 Io Vagabondo	Nomadi
 Un Giorno Insieme	Nomadi
 Don't Know Why	Norah Jones
-Sunrise	Norah Jones
+Sunrise [VIDEO]	Norah Jones
 Spirit In The Sky	Norman Greenbaum
 Belle	Notre Dame de Paris
 Dragostea Din Tei	O-Zone
 Love and Memories	O.A.R
 Love And Memories	O.A.R.
 How Bizarre	OMC
+Heaven Is A Halfpipe [VIDEO]	OPM
+All Around The World	Oasis
 Champagne Supernova	Oasis
 Don't Look Back in Anger	Oasis
-Stop Crying Your Heart Out	Oasis
+Go let it out	Oasis
+Stop Crying Your Heart Out [VIDEO]	Oasis
 Wonderwall	Oasis
 Gone Away	Offspring
 Self Esteem	Offspring
@@ -2655,6 +2670,7 @@ Was Kostet Die Welt	Olesoul
 Flugzeuge Im Bauch	Oli P.
 Schwarz Und Weiss	Oliver Pocher
 Apologize	One Republic
+Stop And Stare [VIDEO]	One Republic
 In München steht ein Hofbräuhaus	Onkel Tom Angelripper
 Johnny Walker	Onkel Tom Angelripper
 Brennende Liebe	Oomph! ft. L'ame Immortelle
@@ -2670,6 +2686,7 @@ Im Wagen vor mir	Otto Waalkes
 Wir haben Grund zum Feiern	Otto Waalkes
 Roses	OutKast
 Roses	Outcast
+Roses [VIDEO]	Outcast
 Hey Ya	Outkast
 Idlewild Blues (Don't Chu Worry 'Bout Me)	Outkast
 Dreamer	Ozzy Osbourne
@@ -2691,7 +2708,7 @@ Let Her Go	Passenger
 Love Letters In The Sand	Pat Boone
 Born To Be Alive	Patrick Hernandez
 5 Days	Patrick Nuo
-She´s Like The Wind	Patrick Swayze
+She´s Like The Wind [VIDEO]	Patrick Swayze
 Crazy	Patsy Cline
 Dimmi che non vuoi morire	Patty Pravo
 Hey Paula	Paul And Paula
@@ -2702,13 +2719,14 @@ Mull of Kintyre	Paul McCartney
 Say Say Say (Duett)	Paul McCartney & Michael Jackson
 J'ai des choses a te dire	Pearl
 Alive	Pearl Jam
-Alive (Live)	Pearl Jam
+Alive [VIDEO]	Pearl Jam
 Black	Pearl Jam
 Even Flow	Pearl Jam
 Jeremy	Pearl Jam
 Moottoritie On Kuuma	Pelle Miljoona Oy
 Autobiografia	Perfekt
 Always On My Mind	Pet Shop Boys
+Always On My Mind [VIDEO]	Pet Shop Boys
 Go West	Pet Shop Boys
 It's A Sin	Pet Shop Boys
 What Have I Done To Deserve This (Duett)	Pet Shop Boys With Dusty Springfield
@@ -2742,24 +2760,35 @@ Vollgas	Peter Wackel
 Puff the magic dragon	Peter, Paul & Mary
 Downtown	Petula Clark
 Downtown (Karaoke)	Petula Clark
+Downtown (Karaoke) [VIDEO]	Petula Clark
+Downtown [VIDEO]	Petula Clark
 California	Phantom Planet
+Another Day In Paradise [VIDEO]	Phil Collins
 Can't Stop Loving You	Phil Collins
 Sommerflørt	Philip & Sandra
 Froh dabei zu sein	Philipp Poisel
 Another Day In Paradise	Phill Collins
 Bohemian Rhapsody (Live In Australia)	Pink
 Dear Mr. President	Pink
-Get The Party Started	Pink
+Don´t let me get me	Pink
+Family Portrait [VIDEO]	Pink
 Get This Party Started	Pink
 Just Like A Pill	Pink
 Lets get this party started	Pink
 Lets get this party started (Karaoke)	Pink
+Lets get this party started (Karaoke) [VIDEO]	Pink
+Lets get this party started [VIDEO]	Pink
+Nobody Knows [VIDEO]	Pink
 Please Don't Leave Me	Pink
 So What	Pink
 Sober	Pink
+Stupid Girls	Pink
+There You Go [VIDEO]	Pink
+U & Ur Hand [VIDEO]	Pink
 Who Knew	Pink
-Another Brick In The Wall	Pink Floid
-Another Brick In The Wall	Pink Floyd
+Who Knew (Karaoke) [VIDEO]	Pink
+Who Knew [VIDEO]	Pink
+Another Brick In The Wall [VIDEO]	Pink Floyd
 Hey You	Pink Floyd
 Wish You Were Here	Pink Floyd
 Der Pinky und der Brain	Pinky und Brain
@@ -2767,9 +2796,9 @@ Här kommer Pippi Langstrump	Pippi Langstrump
 Hey Pippi Langstrumpf	Pippi Langstrumpf
 Give Me Everything	Pitbull feat. Ne-Yo
 Every Me And Every You	Placebo
-Every You Every Me	Placebo
 1, 2, 3, 4	Plain White T's
 Hey There Delilah	Plain White T's
+Hey There Delilah [VIDEO]	Plain White T's
 1, 2, 3, 4	Plain White T´s
 LocoRoco Title Theme	PlayStationPortable
 Wenn Jetzt Sommer Wär	Pohlmann
