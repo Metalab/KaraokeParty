@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Thu Oct 31 21:31:35 CET 2013
+# KaraokeParty Songlist: Thu Oct 31 22:47:34 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -1972,6 +1972,7 @@ Leb Den Tag	Laith Al Deen
 Alles An Dir	Laith Al-Deen
 Bilder Von Dir	Laith Al-Deen
 Video Games	Lana Del Rey
+Scooby Doo, Where Are You [VIDEO]	Larry Marks
 The ketchup song	Las Ketchup
 Eres un enfermo	Las Supremas de Móstoles
 É Dé Det Här Du Kallar Kärlek	Lasse Holm och Monica Törnell
@@ -1988,6 +1989,7 @@ Zombie on your Lawn	Laura Shigihara
 No stress	Laurent Wolf
 American National Anthem	LeAnn Rhimes
 Can't Fight The Moonlight	LeAnn Rimes
+Can't Fight The Moonlight [VIDEO]	LeAnn Rimes
 She Ain't Got	LeToya
 I'd give my Life for You	Lea Salonga
 Stairway to Heaven	Led Zeppelin
@@ -2004,8 +2006,9 @@ It's Not That Easy	Lemar
 Satellite	Lena Meyer-Landrut
 Dansa I Neon	Lena Philipsson
 Everything At Once	Lenka
-Are You Gonna Go My Way	Lenny Kravitz
-Fly Away	Lenny Kravitz
+Are You Gonna Go My Way [VIDEO]	Lenny Kravitz
+Fly Away [VIDEO]	Lenny Kravitz
+I'll Be Waiting [VIDEO]	Lenny Kravitz
 All by myself	Leona Lewis
 Better in Time	Leona Lewis
 Bleeding Love	Leona Lewis
@@ -2031,38 +2034,53 @@ Urlando contro il celo	Ligabue
 Viva!	Ligabue
 Three Lions	Lightning Seeds
 Fuck You	Lily Allen
+LDN [VIDEO]	Lily Allen
 Littlest Things	Lily Allen
-Smile	Lily Allen
+Smile [VIDEO]	Lily Allen
 The Fear	Lily Allen
 The Never Ending Story	Limahl
 The Never Ending Story (Duett)	Limahl
 The NeverEnding Story	Limahl
 Behind blue eyes	Limp Bizkit
 Build a Bridge	Limp Bizkit
+Faith	Limp Bizkit
 Re-arranged	Limp Bizkit
+Take A Look Around	Limp Bizkit
 The One	Limp Bizkit
 Jag Ljuger Så Bra	Linda Bengtzing
 Blue Bayou	Linda Ronstadt
+A Place For My Head	Linkin Park
+Bleed It Out	Linkin Park
 Breaking The Habit	Linkin Park
+Breaking The Habit [VIDEO]	Linkin Park
 Castle Of Glass	Linkin Park
 Crawling	Linkin Park
-Don't Stay	Linkin Park
+Crawling [VIDEO]	Linkin Park
+Don't Stay [VIDEO]	Linkin Park
+Faint [VIDEO]	Linkin Park
 From the inside	Linkin Park
 Given Up	Linkin Park
-In The End	Linkin Park
+In The End [VIDEO]	Linkin Park
+Leave Out All The Rest [VIDEO]	Linkin Park
+Little Boxes (Weeds Theme) [VIDEO]	Linkin Park
+My December	Linkin Park
 New Divide	Linkin Park
-One Step Closer	Linkin Park
+No Roads Left	Linkin Park
+Numb [VIDEO]	Linkin Park
+One Step Closer [VIDEO]	Linkin Park
+Points of Authority	Linkin Park
 Powerless	Linkin Park
 Shadow Of The Day	Linkin Park
 Somwhere I Belong	Linkin Park
 The Catalyst	Linkin Park
+The Little Things Give You Away	Linkin Park
 What I've done	Linkin Park
 I just can't wait	Lion King
 All Night Long	Lionel Richie
 My Destiny	Lionel Richie
 Say You, Say Me	Lionel Richie
 Funky Town	Lipps Inc
-Narcotic	Liquido
+Narcotic [VIDEO]	Liquido
 Stay	Lisa Loeb
 Stay (I Missed You)	Lisa Loeb
 All Around The World	Lisa Stansfield
@@ -2070,6 +2088,7 @@ Tex	Litfiba
 Vivere il mio tempo	Litfiba
 The Loco-Motion	Little Eva
 Tutti Frutti	Little Richard
+Tutti Frutti [VIDEO]	Little Richard
 Skid Row (Downtown)	Little Shop Of Horrors
 Bada bambina	Little Tony
 Kanashimi wo yasashisa ni	Little by little
@@ -2090,9 +2109,9 @@ Last Summer	Lost Prophets
 Wake Up (Make A Move)	Lostprophets
 Fyra Bugg Och en Coca Cola	Lotta Engberg
 Hamburg meine Perle	Lotto King Karl
-Mambo No 5	Lou Bega
 Mambo No. 5	Lou Bega
-What A Wonderfull World	Louis Armstrong
+Mambo No. 5 [VIDEO]	Lou Bega
+What A Wonderful World	Louis Armstrong
 Mädchen	Lucilectric
 7 e 40	Lucio Battisti
 La Canzone del Sole	Lucio Battisti
@@ -2112,7 +2131,6 @@ Movin' On Up	M-People
 Don't Say You Love Me	M2M
 Mirror, Mirror	M2M
 U Can't Touch This	MC Hammer
-You Can't Touch This	MC Hammer
 Kids	MGMT
 Zirkus	MIA.
 Kocham Ciê, Kochanie Moje	Maanam
@@ -2144,6 +2162,7 @@ Papa Don't Preach	Madonna
 Sorry	Madonna
 Take A Bow	Madonna
 4 Minutes	Madonna feat. Justin Timberlake
+4 Minutes [VIDEO]	Madonna feat. Justin Timberlake
 Du Schreibst Geschichte	Madsen
 Du schreibst Geschichte	Madsen
 Vielleicht	Madsen
@@ -2152,6 +2171,7 @@ För Kung Och Fosterland	Magnus Uggla
 A ja wolê moj¹ mamê	Majka Je¿owska
 Down In The Past	Mando Diao
 I Wanna Be With You	Mandy Moore
+Only Hope	Mandy Moore
 Do Wah Diddy Diddy	Manfred Mann
 If You Tolerate This Your Children Will Be Next	Manic Street Preachers
 Carry on	Manowar
@@ -2165,6 +2185,7 @@ Walking In Memphis	Marc Cohn
 Nell'aria	Marcella Bella
 Herzfest	Marco Bandero
 Vaffanculo	Marco Masini
+Just hold me	Maria Mena
 Lullaby	Maria Mena
 All I Want For Christmas is You	Mariah Carey
 Hero	Mariah Carey
@@ -2194,7 +2215,7 @@ Tears Don't Lie	Mark 'Oh
 Sailing to Philadelphia	Mark Knopfler
 You can get it	Mark Medlock & Dieter Bohlen
 Stop Me	Mark Ronson
-Valerie	Mark Ronson feat. Amy Winehouse
+Valerie [VIDEO]	Mark Ronson feat. Amy Winehouse
 Värsta Schlagern	Markoolio Och Linda Bengtzing
 Ich will Spaß	Markus
 Das rote Pferd	Markus Becker
@@ -2202,7 +2223,12 @@ Die Bunte Kuh	Markus Becker
 Ich bin von Kopf bis Fuß auf Liebe eingestellt	Marlene Dietrich
 New Age	Marlon Roudette
 Makes Me Wonder	Maroon 5
+Makes Me Wonder [VIDEO]	Maroon 5
+She Will Be Loved [VIDEO]	Maroon 5
 Sunday Morning	Maroon 5
+This Love [VIDEO]	Maroon 5
+Wake Up Call	Maroon 5
+Won´t go home without you	Maroon 5
 Moves Like Jagger	Maroon 5 feat. Christina Aguilera
 Moves Like Jagger	Maroon 5 ft. Christina Aguilera
 This Love	Maroon5
@@ -2217,17 +2243,18 @@ Las Vegas	Martin Stenmarck
 A Broken Wing	Martina McBride
 Over The Rainbow	Marusha
 I Heard It Through The Grapevine	Marvin Gaye
+I Heard It Through The Grapevine [VIDEO]	Marvin Gaye
 Let's Get It On	Marvin Gaye
 Sexual Healing	Marvin Gaye
 What's Going On	Marvin Gaye
 It Takes Two (Kim)	Marvin Gaye & Kim Weston
 It Takes Two (Marvin )	Marvin Gaye & Kim Weston
-Ain't No Mountain High Enough	Marvin Gaye And Tammi Terrell
+Ain't No Mountain High Enough [VIDEO]	Marvin Gaye And Tammii Tarrelle
 Pinocchio	Mary Roos
 My Guy	Mary Wells
 Rush the floor	Massari feat. Belly
 How Far We've Come	Matchbox Twenty
-Big City Life	Mattafix - Big City Life
+Big City Life [VIDEO]	Mattafix
 Ich hab' geträumt von dir (Remastered)	Matthias Reim
 Verdammt Ich Lieb' Dich	Matthias Reim
 Alter Weg	Max Herre
@@ -2249,6 +2276,7 @@ Ain't No Sunshine	Me First And The Gimme Gimmes
 Mandy	Me First And The Gimme Gimmes
 Uptown Girl	Me First And The Gimme Gimmes
 I'd Do Anything For Love (But I Won't Do That)	Meat Loaf
+I'd Do Anything for Love (But I Won't Do That) [VIDEO]	Meat Loaf
 Objects In The Rear View Mirror May Appear Closer Than They Are	Meat Loaf
 Rock And Roll Dreams Come Through	Meat Loaf
 Two Out Of Three Ain't Bad	Meat Loaf
@@ -2311,12 +2339,16 @@ Shake It	Metro Station
 Tanz Der Moleküle	Mia
 Tanz Der Moleküle [VIDEO]	Mia
 Mad World	Michael Andrews Feat. Gary Jules
+Mad World [VIDEO]	Michael Andrews Feat. Gary Jules
+Home [VIDEO]	Michael Bublé
 Baby, du bist nicht alleine	Michael Holm
 Lucille	Michael Holm
 Mendocino	Michael Holm
 Tranen Lugen Nicht	Michael Holm
 Bad	Michael Jackson
+Bad [VIDEO]	Michael Jackson
 Beat It	Michael Jackson
+Beat It [VIDEO]	Michael Jackson
 Ben	Michael Jackson
 Billie Jean	Michael Jackson
 Billie Jean [VIDEO]	Michael Jackson
@@ -2326,6 +2358,7 @@ Dirty Diana	Michael Jackson
 Don't Stop Till You Get Enough	Michael Jackson
 Don't stop till you get enough	Michael Jackson
 Earth Song	Michael Jackson
+Earth Song [VIDEO]	Michael Jackson
 Give in to me	Michael Jackson
 Heal The World	Michael Jackson
 Heal the World	Michael Jackson
@@ -2334,12 +2367,15 @@ Human Nature	Michael Jackson
 Is It Scary	Michael Jackson
 Liberian Girl	Michael Jackson
 Man in the Mirror	Michael Jackson
+Man in the mirror [VIDEO]	Michael Jackson
 Smooth Criminal	Michael Jackson
 Stranger In Moscow	Michael Jackson
 The Way You Make Me Feel	Michael Jackson
+The Way You Make Me Feel [VIDEO]	Michael Jackson
 This Is It	Michael Jackson
 Thriller	Michael Jackson
 Wanna Be Starting Something	Michael Jackson
+You Are Not Alone [VIDEO]	Michael Jackson
 You are not alone	Michael Jackson
 We are the world	Michael Jackson & Friends
 Scream	Michael Jackson & Janet Jackson
@@ -2355,6 +2391,7 @@ Wer Liebe lebt	Michelle
 Wirst du noch da sein	Michelle
 Breathe	Michelle Branch
 The Greatest	Michelle Williams
+Thriller	Mickael Jackson
 Finger Im Po Mexiko	Mickie Krause
 Himbeereis	Mickie Krause
 Laudato Si	Mickie Krause
@@ -2362,16 +2399,20 @@ Nichts reimt sich auf Uschi	Mickie Krause
 Orange Tragt Nur Die Mullabfuhr	Mickie Krause
 Zieh dich aus kleine Maus	Mickie Krause
 Chirpy Chirpy Cheep Cheep	Middle of the Road
-Beds Are Burning	Midnight Oil
+Beds Are Burning [VIDEO]	Midnight Oil
 Amante bandido	Miguel Bosé
 Bienvenidos	Miguel Ríos
 Big Girl You Are Beautiful	Mika
-Grace Kelly	Mika
+Big Girl You Are Beautiful [VIDEO]	Mika
+Grace Kelly [VIDEO]	Mika
+Happy Ending	Mika
+Lollipop	Mika
+Relax, Take It Easy	Mika
 Over My Shoulder	Mike And The Mechanics
 Eskimo	Mike Der Bademeister
 Der Nippel	Mike Krüger
 Shadow On The Wall	Mike Oldfield & Roger Chapman
-Moonlight Shadow	Mike Oldfield feat. Maggie Reilly
+Moonlight Shadow [VIDEO]	Mike Oldfield feat. Maggie Reilly
 TV Theme	Mila Superstar
 7 Things	Miley Cyrus
 Nobody's perfect	Miley Cyrus
@@ -2387,7 +2428,13 @@ Brivido felino	Mina e Celentano
 Kerosene	Miranda Lambert
 Scandalous	Mis-Teeq
 Scandalous (Karaoke)	Mis-Teeq
+Scandalous (Karaoke) [VIDEO]	Misteeq
+Scandalous [VIDEO]	Misteeq
 Eins, zwei, Polizei	Mo-Do
+Beautiful	Moby
+Lift me up	Moby
+Porcelain	Moby
+We Are All Made Of Stars	Moby
 Brother Louie	Modern Talking
 Cheri Cheri Lady	Modern Talking
 You're My Heart, You're My Soul	Modern Talking
@@ -2395,6 +2442,7 @@ Lady (Hear Me Tonight)	Modjo
 The Time Is Now	Moloko
 Daydream Believer	Monkees
 I'm A Believer	Monkees
+Hot Summer	Monrose
 Shame	Monrose
 My Town	Montgomery Gentry
 What Do Ya Think About That	Montgomery Gentry
@@ -2406,6 +2454,8 @@ Ace of Spades	Motörhead
 Come What May (CD-Version)	Moulin Rouge
 Lady Marmalade (Christina ft. Mya, Pink & Lil Kim)	Moulin Rouge
 The Show Must Go On (CD-Version)	Moulin Rouge
+The Show Must Go On (Movie-Version)	Moulin Rouge
+Your Song	Moulin Rouge
 Herr Rossi Sucht Das Glück	Moulinettes
 To Be With You	Mr Big
 Broken Wings	Mr Mister
