@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Nov  1 01:05:04 CET 2013
+# KaraokeParty Songlist: Fri Nov  1 02:05:49 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -3093,7 +3093,9 @@ Das Fegerlied	Räuber
 Ein Freund, Ein Guter Freund	Rühmann's (Sch)erben
 Don't Stop Movin'	S Club 7
 Don't Stop Movin' (Karaoke)	S Club 7
-Never had a dream come true	S Club 7
+Don't Stop Movin' (Karaoke) [VIDEO]	S Club 7
+Don't Stop Movin' [VIDEO]	S Club 7
+Never Had a Dream Come True [VIDEO]	S Club 7
 An jing le [VIDEO]	S.H.E
 IOIO [VIDEO]	S.H.E
 Re Dai Yu Lin [VIDEO]	S.H.E
@@ -3104,6 +3106,7 @@ Butterfly	SMiLE.dk
 Gö du bleibst heit nacht bei mir	STS
 Theme	Saber Rider
 Push It	Salt 'N' Pepa
+Push It [VIDEO]	Salt N' Pepa
 Wonderful World	Sam Cooke
 Wonderful world	Sam Cooke
 Halte die Zeit	Samajona
@@ -3119,8 +3122,10 @@ I Wish I Was A Punk Rocker	Sandi Thom
 (I'll Never Be) Maria Magdalena (Sandra)	Sandra
 Into The Night	Santana feat. Chad Kroger
 Smooth	Santana feat. Rob Thomas
+María María	Santana feat. Wyclef Jean
 Love Song	Sara Bareilles
 Born To Fly	Sara Evans
+Phantom of The Opera	Sarah Brightman & Michael Crawford
 From Sarah With Love	Sarah Connor
 Living to love you	Sarah Connor
 Skin On Skin	Sarah Connor
@@ -3129,10 +3134,12 @@ I Remember Love	Sarah Dawn Finer
 Angel	Sarah McLachlan
 If you believe	Sasha
 I Want You	Savage Garden
+I Want You [VIDEO]	Savage Garden
 To the Moon and Back	Savage Garden
 Truly Madly Deeply	Savage Garden
 Muscle Museum (live)	Scala & Kolacny Brothers
 Seid bereit	Scar
+Scatman's World	Scatman John
 Das Schaferlied	Schafer Heinrich
 Der Wandersmann	Schandmaul
 Teufelsweib	Schandmaul
@@ -3142,10 +3149,12 @@ Laura	Scissor Sisters
 Take your mama	Scissor Sisters
 Break It Up	Scooter
 One (Always Hardcore)	Scooter
+Maria (I like it loud) [VIDEO]	Scooter vs. Marc Acardipane & Dick Rules
 Send Me An Angel	Scorpions
 Wind of Change	Scorpions
 San Francisco	Scott McKenzie
 Kiss From A Rose	Seal
+Kiss From A Rose [VIDEO]	Seal
 Beautiful Girls	Sean Kingston
 Fire Burning	Sean Kingston
 She Doesn't Mind	Sean Paul
@@ -3172,7 +3181,8 @@ She wolf	Shakira
 Suerte	Shakira
 Underneath Your Clothes	Shakira
 Waka Waka (This Time for Africa)	Shakira
-Whenever wherever	Shakira
+Whenever Wherever [VIDEO]	Shakira
+Hips don´t lie [VIDEO]	Shakira ft. Wyclef
 From this moment on	Shania Twain
 It only hurts when i´m breathing	Shania Twain
 She´s not just a pretty face	Shania Twain
@@ -3207,12 +3217,13 @@ Don't You Forget About Me	Simple Minds
 Untitled	Simple Plan
 Welcome To My Life	Simple Plan
 Your Love Is A Lie	Simple Plan
-Nothing Compares 2 U	Sinead O'Connor
+Nothing Compares 2 U [VIDEO]	Sinead O'Connor
 Baby Got Back	Sir Mix A Lot
 Baby Got Back	Sir Mix-a-Lot
 We Are Family	Sister Sledge
+We Are Family [VIDEO]	Sister Sledge
 Liebeskummer Lohnt Sich Nicht	Siw Malmkvist
-Kiss Me	Sixpence None The Richer
+Kiss Me [VIDEO]	Sixpence None The Richer
 Obud We Mnie Wenus	Sixteen
 Twoja Lawa	Sixteen
 Cannabis	Ska-P
@@ -3241,7 +3252,7 @@ Cherub Rock	Smashing Pumpkins
 Today	Smashing Pumpkins
 Being With You	Smokey Robinson
 The Tracks Of My Tears	Smokey Robinson & The Miracles
-Living next door to Alice	Smokie
+Living Next Door To Alice [VIDEO]	Smokie
 Needles And Pins	Smokie
 Who The Fuck Is Alice?	Smokie
 Driver's Seat	Sniff'n the Tears
@@ -3250,6 +3261,7 @@ Run	Snow Patrol
 Shut Your Eyes	Snow Patrol
 Aber bitte mit Sahne	Sodom
 Tainted Love	Soft Cell
+Tainted Love [VIDEO]	Soft Cell
 I Want You to Want Me	Solid Harmonie
 The Cage	Sonata Arctica
 Victoria's Secret	Sonata Arctica
@@ -3257,25 +3269,29 @@ I Got You Babe (Cher)	Sonny & Cher
 I Got You Babe (Sonny)	Sonny & Cher
 I Got You Babe	Sonny and Cher
 För Att Du Finns	Sonya Aldén
-Murder On The Dancefloor	Sophie Ellis Bextor
 Murder on the Dancefloor	Sophie Ellis Bextor
 Murder on the Dancefloor (Karaoke)	Sophie Ellis Bextor
+Murder on the Dancefloor (Karaoke) [VIDEO]	Sophie Ellis Bextor
+Murder on the Dancefloor [VIDEO]	Sophie Ellis Bextor
 Runaway Train	Soul Asylum
 Kiss Me Through The Phone	Souljia Boy Ft. Sammie
 Black Hole Sun	Soundgarden
 Timmy and the Lords of the Underworld	South Park
 In the Meantime	Spacehog
 Gold	Spandau Ballet
-2 Become 1	Spice Girls
+2 Become 1 [VIDEO]	Spice Girls
 Let Love Lead The Way	Spice Girls
 Say You'll Be There	Spice Girls
 Viva Forever	Spice Girls
 Wannabe	Spice Girls
+Wannabe [VIDEO]	Spice Girls
 Who Do You Think You Are	Spice Girls
 Skandal Im Sperrbezirk	Spider Murphy Gang
 Two Princes	Spin Doctors
+Two Princes [VIDEO]	Spin Doctors
 Carbonara	Spliff
 Theme (Deutsch)	Spongebob Schwammkopf
+Theme	Spongebob Squarepants
 54´74´90´2006	Sportfreunde Stiller
 54´74´90´2010	Sportfreunde Stiller
 Fast wie von selbst	Sportfreunde Stiller
@@ -3285,13 +3301,14 @@ Lukk Opp Din Hjertedør	Sputnik
 Tempted	Squeeze
 Gdy Zaplaczesz	Stachursky
 Zostañmy Razem	Stachursky
+Stuck [VIDEO]	Stacie Orrico
 It's Been A While	Staind
 No boy, no cry	Stance Punks
 The Doctor - La donna é mobile	Star Trek Voyager
 Nothing's Gonna Stop Us Now	Starship
+Nothing's Gonna Stop Us Now [VIDEO]	Starship
 We Built this City	Starship
-In The Army Now	Status Quo
-In the Army now	Status Quo
+In the Army now [VIDEO]	Status Quo
 Rockin all over the world	Status Quo
 Schwarze Natascha	Stefan Peters
 Maschen-Draht-Zaun	Stefan Raab
@@ -3302,18 +3319,20 @@ Tian Hei Hei [VIDEO]	Stefanie Sun
 Born To Be Wild	Steppenwolf
 Born to be wild	Steppenwolf
 Magic Carpet Ride	Steppenwolf
-Deeper Shade Of Blue	Steps
+Deeper Shade Of Blue [VIDEO]	Steps
 Liebe Zu Dritt	Stereo Total
 Dakota	Stereophonics
+Dakota [VIDEO]	Stereophonics
 Walkie Talkie Man	Steriogram
 Abracadabra	Steve Miller Band
 Northern Star	Steven Dunston
 For Once In My Life	Stevie Wonder
-I just called to say I love you	Stevie Wonder
+I just called to say I love you [VIDEO]	Stevie Wonder
 Ebony And Ivory	Stevie Wonder Paul McCartney
-Englishman in New York	Sting
+English man in New York [VIDEO]	Sting
 Fields of Gold	Sting
 Fragile	Sting
+Roxanne	Sting & The Police
 Bother	Stone Sour
 Plush	Stone Temple Pilots
 Vasoline	Stone Temple Pilots
@@ -3330,11 +3349,15 @@ Die Schlacht	Subway to Sally
 Sag Dem Teufel	Subway to Sally
 Overload	Sugababes
 Push The Button	Sugababes
+Push the button [VIDEO]	Sugababes
 Red Dress	Sugababes
 Round Round	Sugababes
 Round Round (Karaoke)	Sugababes
+Round Round (Karaoke) [VIDEO]	Sugababes
+Round Round [VIDEO]	Sugababes
 Too Lost In You	Sugababes
-Ugly	Sugababes
+Too Lost In You [VIDEO]	Sugababes
+Ugly [VIDEO]	Sugababes
 Someday	Sugar Ray
 Fat Lip	Sum 41
 In Too Deep	Sum 41
@@ -3345,15 +3368,18 @@ The Hell Song	Sum 41
 Dla Ciebie	Sumptuastic
 Fairytale Gone Bad	Sunrise Ave
 Fairytale Gone Bad	Sunrise Avenue
+Fairytale Gone Bad [VIDEO]	Sunrise Avenue
 Forever Yours	Sunrise Avenue
+Heal me	Sunrise Avenue
 Hollywood Hills	Sunrise Avenue
 Dreamer	Supertramp
 Logical Song	Supertramp
 Eye Of The Tiger	Survivor
+Eye Of The Tiger [VIDEO]	Survivor
 I´m Always Here (Baywatch Theme)	Survivor
 Strolch Ist Toll	Susi Und Strolch
 Elokuun 11.	Suurlähettiläät
-Luka	Suzanne Vega
+Luka [VIDEO]	Suzanne Vega
 Don't You Worry Child	Swedish House Mafia & John Martin
 Ballroom Blitz	Sweet
 Turn The Tide	Sylver
