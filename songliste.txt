@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Nov  1 02:27:30 CET 2013
+# KaraokeParty Songlist: Fri Nov  1 02:56:53 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -3755,13 +3755,17 @@ Da Da Da [VIDEO]	Trio
 New York, Rio, Tokyo	Trio Rio
 We're Not Gonna Take It	Twisted Sister
 Beautiful Day	U2
+Beautiful Day [VIDEO]	U2
 Elevation	U2
 I Still Haven't Found What I'm Looking For	U2
 One	U2
 Pride	U2
+Sunday Bloody Sunday	U2
 Sweetest Thing	U2
 The Sweetest Thing	U2
 Vertigo	U2
+Vertigo [VIDEO]	U2
+Where the Streets Have No Name [VIDEO]	U2
 With or without you	U2
 The Saints Are Coming	U2 & Green Day
 Mama	US5
@@ -3781,7 +3785,7 @@ Dancing With Tears In My Eyes	Ultravox
 balla	Umberto Balsamo
 Gloria	Umberto Tozzi
 Si Può Dare Di Più	Umberto Tozzi & Gianni Morandi & Enrico Ruggeri
-Follow Me	Uncle Kracker
+Follow Me [VIDEO]	Uncle Kracker
 Geboren um zu leben	Unheilig
 Lady In Black	Uriah Heep
 More (Redone Jimmy Joker Remix)	Usher
@@ -3791,10 +3795,11 @@ Colors of Hearts (BLOOD+)	Uverworld
 Bananowy Song	VOX
 Das Lied der Schlümpfe	Vader Abraham
 Tre Parole	Valeria Rossi
-Jump	Van Halen
+Jump [VIDEO]	Van Halen
 Have I told you lately	Van Morrison
-Thousand Miles	Vanessa Carlton
+A Thousand Miles [VIDEO]	Vanessa Carlton
 Ice Ice Baby	Vanilla Ice
+Ice Ice Baby [VIDEO]	Vanilla Ice
 Albachiara	Vasco Rossi
 C'è Chi Dice No	Vasco Rossi
 Come Stai	Vasco Rossi
@@ -3807,11 +3812,12 @@ Vita Spericolata	Vasco Rossi
 Vivere	Vasco Rossi
 Das Lied Der Schlümpfe	Vater Abraham
 What's A Woman	Vaya Con Dios
-Boom boom boom boom	Vengaboys
+Neh nah nah	Vaya con dios
+Boom boom boom boom [VIDEO]	Vengaboys
 Shalalalala	Vengaboys
 We're going to Ibiza!	Vengaboys
 Y.M.C.A.	Village People
-Summer Wine	Ville Valo & Natalia Avelon
+Summer Wine [VIDEO]	Ville Valo & Natalia Avelon
 Szansa	Virgin
 Znak Pokoju	Virgin
 Mehr Als Das	Virginia Jetzt
@@ -3829,31 +3835,40 @@ Keep Fishin'	Weezer
 Weezer - Say It Ain't So	Weezer
 Achy Breaky Song	Weird Al Yankovic
 Amish Paradise	Weird Al Yankovic
-Bohemian Polka	Weird Al Yankovic
+Bohemian Polka [VIDEO]	Weird Al Yankovic
 Jurassic Park	Weird Al Yankovic
-On Ebay	Weird Al Yankovic
+Jurassic Park [VIDEO]	Weird Al Yankovic
+Midnight Star	Weird Al Yankovic
+On Ebay [VIDEO]	Weird Al Yankovic
 Smells Like Nirvana	Weird Al Yankovic
+The Saga Begins [VIDEO]	Weird Al Yankovic
 White & Nerdy	Weird Al Yankovic
+You're Pitiful	Weird Al Yankovic
 Er Hat Ein Knallrotes Gummiboot	Wencke Myrhe
 Johnny Walker (Live)	Westernhagen
 Willenlos	Westernhagen
 If I Let You Go	Westlife
 My love	Westlife
+Uptown Girl	Westlife
 World of Our Own	Westlife
 World of Our Own (Karaoke)	Westlife
+World of Our Own (Karaoke) [VIDEO]	Westlife
+World of Our Own [VIDEO]	Westlife
 You raise me up	Westlife
 Love Is All Around	Wet Wet Wet
 Club Tropicana	Wham
 Wake Me Up Before You Go-Go	Wham
+Wake Me Up Before You Go-Go [VIDEO]	Wham
 Last Christmas	Wham!
-Wake Me Up Before You Go-Go	Wham!
-Teenage Dirtbag	Wheatus
+Teenage Dirtbag [VIDEO]	Wheatus
 Saturday Night	Whigfield
 Here I go again	Whitesnake
 Greatest Love Of All	Whitney Houston
+Greatest Love Of All [VIDEO]	Whitney Houston
 I Wanna Dance With Somebody	Whitney Houston
+I Wanna Dance With Somebody [VIDEO]	Whitney Houston
 I Will Always Love You	Whitney Houston
-My Love Is Your Love	Whitney Houston
+My Love Is Your Love [VIDEO]	Whitney Houston
 One moment in time	Whitney Houston
 Do they know it's Christmas	Wichtel Aid
 I'm not that Girl	Wicked
@@ -3912,6 +3927,7 @@ Für Dich	Yvonne Catterfeld
 Sag Mir, Was Meinst Du?	Yvonne Catterfeld
 Joutsenlaulu	Yö
 Gimme All Your Lovin	ZZ Top
+Gimme All Your Lovin [VIDEO]	ZZ Top
 Breaking free	Zac Efron and Vanessa Anne Hudgens (High School Musical)
 In The Year 2525	Zager & Evans
 Seit Mehr Als 1000 Jahren	Zascha
