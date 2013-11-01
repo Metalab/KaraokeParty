@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Thu Oct 31 23:32:21 CET 2013
+# KaraokeParty Songlist: Fri Nov  1 01:05:04 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -2831,6 +2831,7 @@ Stick Wit U	Pussycat Dolls
 Stickwitu	Pussycat Dolls
 Beep	Pussycat Dolls (Feat. Will.i.am)
 Bu Rang Wo De Yan Lei Pei Wo Guo Ye [VIDEO]	Qi Qin
+'39 [VIDEO]	Queen
 Another One Bites The Dust	Queen
 Bicycle Race (Backing)	Queen
 Bicycle Race (Freddie)	Queen
@@ -2842,9 +2843,11 @@ Crazy Little Thing Called Love	Queen
 Don't Stop Me Now	Queen
 Fat Bottomed Girls (BACKING M)	Queen
 Fat Bottomed Girls (Freddie)	Queen
+Good Old-Fashioned Lover Boy [VIDEO]	Queen
 Hammer To Fall	Queen
 I Want It All	Queen
 I Want To Break Free	Queen
+I Was Born To Love You [VIDEO]	Queen
 In Only Seven Days	Queen
 Innuendo	Queen
 Killer Queen	Queen
@@ -2852,10 +2855,11 @@ Love of my life	Queen
 One Vision	Queen
 Play The Game (BACKING M)	Queen
 Play The Game (Freddie)	Queen
-Radio Ga Ga	Queen
+Radio Ga Ga [VIDEO]	Queen
 Somebody To Love	Queen
 Thank God It's Christmas	Queen
 The Show Must Go On	Queen
+The Show Must Go On [VIDEO]	Queen
 These Are The Days Of Our Lives	Queen
 Tie Your Mother Down	Queen
 Too Much Love Will Kill You	Queen
@@ -2924,17 +2928,17 @@ Wire To Wire	Razorlight
 Supergirl	Reamonn
 Through The Eyes Of A Child	Reamonn
 Tonight	Reamonn
+By the Way	Red Hot Chili Peppers
 Californication	Red Hot Chili Peppers
 Can't Stop	Red Hot Chili Peppers
 Dani California	Red Hot Chili Peppers
 Desecration Smile	Red Hot Chili Peppers
 Otherside	Red Hot Chili Peppers
-Snow (Hey Oh)	Red Hot Chili Peppers
 Snow (Hey oh)	Red Hot Chili Peppers
 Soul To Squeeze	Red Hot Chili Peppers
 The Adventures Of Raindance Maggie	Red Hot Chili Peppers
 Under The Bridge	Red Hot Chili Peppers
-Cotton Eye Joe	Rednex
+Cotton Eye Joe [VIDEO]	Rednex
 Macho Macho	Reinhard Fendrich
 Über den Wolken	Reinhard Mey
 I'll be there for you	Rembrandts
@@ -2961,14 +2965,15 @@ Wir Alle Wollen Immer Nur Das Eine	Rheinländer
 Margherita	Riccardo Cocciante
 Sará pérche ti amo	Ricchi e Poveri
 Hazard	Richard Marx
-Right Here Waiting	Richard Marx
+Right Here Waiting [VIDEO]	Richard Marx
 Reality	Richard Sanderson
 Supa Richie	Richie
 Dui Mian De Nu Hai Kan Guo Lai [VIDEO]	Richie Ren
 Labamba	Richie Valens
-Never Gonna Give You Up	Rick Astley
 Never gonna give you up	Rick Astley
 Never gonna give you up (Karaoke)	Rick Astley
+Never gonna give you up (Karaoke) [VIDEO]	Rick Astley
+Never gonna give you up [VIDEO]	Rick Astley
 Super Freak	Rick James
 Can't Touch It	Ricki Lee
 Livin' La Vida Loca	Ricky Martin
@@ -2976,22 +2981,22 @@ Livin' La Vida Loca (Karaoke)	Ricky Martin
 Hello Mary Lou	Ricky Nelson
 I'm Too Sexy	Right Said Fred
 Stand Up For The Champions	Right Said Fred
-You're My Mate	Right Said Fred
+You're My Mate [VIDEO]	Right Said Fred
 Unchained Melody	Righteous Brothers
 California King Bed	Rihanna
-Disturbia	Rihanna
-Don't Stop The Music	Rihanna
-Don't stop the music	Rihanna
+Disturbia [VIDEO]	Rihanna
+Don't stop the music [VIDEO]	Rihanna
 Pon De Replay	Rihanna
 Russian Roulette [SC]	Rihanna
 SOS	Rihanna
-Shut Up And Drive	Rihanna
+SOS [VIDEO]	Rihanna
+Shut Up And Drive [VIDEO]	Rihanna
 Take A Bow	Rihanna
 Umbrella	Rihanna
-Unfaithful	Rihanna
-We Ride	Rihanna
+Unfaithful [VIDEO]	Rihanna
+We Ride [VIDEO]	Rihanna
 We Found Love	Rihanna feat. Calvin Harris
-Umbrella	Rihanna feat. Jay-Z
+Umbrella [VIDEO]	Rihanna feat. Jay-Z
 Rehab	Rihanna feat. Justin Timberlake
 Love The Way You Lie (Part II)	Rihanna ft. Eminem
 Stay	Rihanna ft. Mikky Ekko
@@ -3004,21 +3009,26 @@ Prayer of the Refugee	Rise Against
 Cuore	Rita Pavone
 Only To Be With You	Roachford
 Dragula (Hot Rod Herman Remix)	Rob Zombie
-Advertising Space	Robbie Williams
+Advertising Space [VIDEO]	Robbie Williams
 Angels	Robbie Williams
+Better Man	Robbie Williams
 Come Undone	Robbie Williams
+Come Undone [VIDEO]	Robbie Williams
 Eternity	Robbie Williams
-Feel	Robbie Williams
+Feel [VIDEO]	Robbie Williams
 Let Me Entertain You	Robbie Williams
-Rock DJ	Robbie Williams
+Let Me Entertain You [VIDEO]	Robbie Williams
+Let love be your energy [VIDEO]	Robbie Williams
+Rock DJ [VIDEO]	Robbie Williams
 She's Madonna	Robbie Williams
-She's The One	Robbie Williams
+She's The One [VIDEO]	Robbie Williams
 Tripping	Robbie Williams
 Kids	Robbie Williams & Kylie Minogue
-Something Stupid	Robbie Williams & Nicole Kidman
-Kids	Robbie Williams and Kylie Minogue
+Something Stupid [VIDEO]	Robbie Williams & Nicole Kidman
 Kids (Kylie)	Robbie Williams and Kylie Minogue
+Kids (Robbie version) [VIDEO]	Robbie Williams and Kylie Minogue
 Kids (Robbie)	Robbie Williams and Kylie Minogue
+Kids [VIDEO]	Robbie Williams and Kylie Minogue
 Niecierpliwi	Robert Chojnacki
 Ein Bisschen Spa Muss Sein	Roberto Blanco
 Show Me Love	Robyn
@@ -3041,11 +3051,10 @@ Dich Zu Lieben	Roland Kaiser
 Manchmal möchte ich schon mit dir	Roland Kaiser
 In Der Weihnachtsbäckerei	Rolf Zuckowski
 Vorrei incontrarti fra 100 anni	Ron
-If Tomorrow Never Comes	Ronan Keating
+Father And Son [VIDEO]	Ronan Keating
+If Tomorrow Never Comes [VIDEO]	Ronan Keating
 Life Is A Rollercoaster	Ronan Keating
 When You Say Nothing At All	Ronan Keating
-Father And Son	Ronan Keating feat. Yusuf
-Father and Son	Ronan Keating feat. Yusuf Islam
 Father And Son	Ronan Keating featuring Yusuf
 Es hängt ein Pferdehalfter an der Wand	Ronny
 When Did Your Heart Go Missing?	Rooney
@@ -3063,8 +3072,11 @@ Crash! Boom! Bang!	Roxette
 How Do You Do	Roxette
 It Must Have Been Love	Roxette
 Listen To Your Heart	Roxette
+Listen To Your Heart [VIDEO]	Roxette
 Spending My Time	Roxette
+The Look [VIDEO]	Roxette
 Vulnerable	Roxette
+Wish I Could Fly	Roxette
 You Don't Understand Me	Roxette
 Love Is The Drug	Roxy Music
 Schon Ist Es Auf Der Welt Zu Sein	Roy Black & Anita
