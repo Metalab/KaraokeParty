@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Nov  1 02:05:49 CET 2013
+# KaraokeParty Songlist: Fri Nov  1 02:27:30 CET 2013
 
 Cruella De Vil	101 Dalmatians
 36 Grad	2Raumwohnung
@@ -3398,8 +3398,10 @@ Geh Davon Aus	Söhne Mannheims
 Und Wenn Ein Lied	Söhne Mannheims
 Und Wenn Ein Lied [VIDEO]	Söhne Mannheims
 China In Your Hand	T'Pau
-All About Us	T.A.T.U.
+All About Us [VIDEO]	T.A.T.U.
+All The Things She Said [VIDEO]	T.A.T.U.
 Kyle Quit	TENACIOUS D
+No Scrubs [VIDEO]	TLC
 Dynamite	Taio Cruz
 Back For Good	Take That
 Back for Good	Take That
@@ -3420,7 +3422,7 @@ Pump Up The Jam	Technotronic Feat. Felly
 Pump Up The Jam	Technotronic feat. Felly
 Mario	Tele
 Batman Theme	Television
-Fuck Her Gently	Tenacious D
+Fuck Her Gently [VIDEO]	Tenacious D
 Tribute	Tenacious D
 Sign you Name	Terence Trent D'Arby
 yue liang dai biao wo de xin [VIDEO]	Teresa Teng
@@ -3428,8 +3430,9 @@ Girls Lie Too	Terri Clark
 Seasons in the sun	Terry Jacks
 Meng na li sha de yan lei [VIDEO]	Terry Lin
 Summer Son	Texas
+Summer Son [VIDEO]	Texas
 No No Never	Texas Lightning
-Dumb	The 411
+Dumb [VIDEO]	The 411
 Gives You Hell	The All-American Rejects
 Ramblin' Man	The Allman Brothers Band
 Don'T Let Me Be Misunderstood	The Animals
@@ -3486,24 +3489,30 @@ Don't Gimme That	The BossHoss
 An Honest Mistake	The Bravey
 Gummi Bears	The Brown Derbies
 Wherever You Will Go	The Calling
+Wherever You Will Go [VIDEO]	The Calling
 Erase and rewind	The Cardigans
 Lovefool	The Cardigans
+Lovefool [VIDEO]	The Cardigans
 My Favourite Game	The Cardigans
+My Favourite Game [VIDEO]	The Cardigans
 Drive	The Cars
 Lollipop	The Chordettes
 Should I Stay Or Should I Go	The Clash
+Should I Stay Or Should I Go [VIDEO]	The Clash
 Brick House	The Commodores
 Easy	The Commodores
 Nightshift	The Commodores
 74,75	The Connells
 Do You Love Me (BACKING M)	The Contours
 Do You Love Me (Billy)	The Contours
+Breathless	The Corrs
 So Young	The Corrs
 The Right Time	The Corrs
 Ode To My Family	The Cranberries
 Promises	The Cranberries
 When You're Gone	The Cranberries
 Zombie	The Cranberries
+Zombie [VIDEO]	The Cranberries
 Ooh I Like It	The Creeps
 A Letter To Elise	The Cure
 Close to me	The Cure
@@ -3511,7 +3520,7 @@ Friday I'm In Love	The Cure
 In between days	The Cure
 Just Like Heaven	The Cure
 Bohemian Like You	The Dandy Warhols
-I Believe In A Thing Called Love	The Darkness
+I Believe In A Thing Called Love [VIDEO]	The Darkness
 I Believe in a Thing Called Love	The Darkness
 I Believe in a Thing Called Love (Karaoke)	The Darkness
 For You	The Disco Boys
@@ -3529,7 +3538,9 @@ Bye bye love	The Everly Brothers
 Dream, Dream, Dream	The Everly Brothers
 Aquarius (Let The Sunshine In)	The Fifth Dimension
 Everytime	The Flames
+Everytime [VIDEO]	The Flames
 Build Me Up Buttercup	The Foundations
+Build Me Up Buttercup [VIDEO]	The Foundations
 Reach Out I'll Be There (BACKING M)	The Four Tops
 Reach Out I'll Be There (Levi)	The Four Tops
 How To Save A Life	The Fray
@@ -3568,7 +3579,6 @@ Under The Sea	The Little Mermaid
 Jizz In My Pants	The Lonely Island
 I Just Had Sex	The Lonely Island ft. Akon
 Jack Sparrow	The Lonely Island ft. Michael Bolton
-California Dreamin	The Mamas and Papas
 California Dreamin' (Duett)	The Mamas and the Papas
 California Dreaming	The Mamas and the Papas
 Hare Hare Yukai	The Melancholy of Haruhi Suzumiya
@@ -3583,12 +3593,13 @@ All I Want	The Offspring
 Hit that	The Offspring
 Leave it behind	The Offspring
 Original Prankster	The Offspring
-Pretty Fly	The Offspring
+Pretty Fly [VIDEO]	The Offspring
 Self Esteem	The Offspring
+Self Esteem [VIDEO]	The Offspring
 Spare Me the Details	The Offspring
 The Kids aren't alright	The Offspring
 The Meaning of Life	The Offspring
-Why Don't You Get A Job	The Offspring
+Why don't you get a job [VIDEO]	The Offspring
 You're Gonna Go Far Kid	The Offspring
 Your Love	The Outfield
 Only You	The Platters
@@ -3597,21 +3608,26 @@ The great pretender	The Platters
 Dirty Old Town	The Pogues
 Fairytale of New York	The Pogues feat. Kirsty MacColl
 Every Breath You Take	The Police
+Every Breath You Take [VIDEO]	The Police
 Every Little Thing She Does Is Magic	The Police
 Roxanne	The Police
+Roxanne [VIDEO]	The Police
 So Lonely	The Police
 Walking on the moon	The Police
 Night Of Passion	The Poodles
 I'm gonna be (500 Miles)	The Proclaimers
 No Good (Start the Dance)	The Prodigy
-Beep	The Pussycat Dolls
-Stick Wit U	The Pussycat Dolls
+Buttons [VIDEO]	The Pussycat Dolls
+Don't Cha (Radio Edit) [VIDEO]	The Pussycat Dolls
+Stick Wit U [VIDEO]	The Pussycat Dolls
 Sway	The Pussycat Dolls
-In the Shadows	The Rasmus
+Beep [VIDEO]	The Pussycat Dolls (Feat. Will.i.am)
+In the Shadows [VIDEO]	The Rasmus
 Livin´ In A World Without You	The Rasmus
 No fear	The Rasmus
 I'll be there for you	The Rembrandts
 Unchained Melody	The Righteous Brothers
+Unchained Melody [VIDEO]	The Righteous Brothers
 Angie	The Rolling Stones
 Paint It, Black	The Rolling Stones
 Satisfaction	The Rolling Stones
@@ -3623,9 +3639,12 @@ See My Vest	The Simpsons
 When You Don´t See Me	The Sisters of Mercy
 Girlfriend in a Coma	The Smiths
 This Charming Man	The Smiths
+This Charming Man [VIDEO]	The Smiths
 You just haven't earned it yet, Baby	The Smiths
 No One Sleeps When I'm Awake	The Sounds
+My Boyfriend's Back	The Spazzys
 Ghost Town	The Specials
+Waterfall [VIDEO]	The Stone Roses
 Golden Brown	The Stranglers
 Rock and Roll Queen	The Subways
 You Can't Hurry Love	The Supremes
@@ -3642,9 +3661,10 @@ Needle In A Haystack (BACKING F)	The Velvelettes
 Needle In A Haystack (Bertha)	The Velvelettes
 Hook me up	The Veronicas
 Untouched	The Veronicas
-Bitter Sweet Symphony	The Verve
+Bitter Sweet Symphony [VIDEO]	The Verve
 YMCA	The Village People
 YMCA (Karaoke)	The Village People
+YMCA (Karaoke) [VIDEO]	The Village People
 It's Raining Men	The Weather Girls
 Hotel Yorba	The White Stripes
 I Just Don't Know What To Do With Myself	The White Stripes
@@ -3671,7 +3691,7 @@ Ich Bin Ein Doner	Tim Toupet
 So Ein Schoner Tag Fliegerlied	Tim Toupet
 So Ein Schöner Tag (Fliegerlied)	Tim Toupet
 The Way I Are (feat. Keri Hilson)	Timbaland
-Apologize	Timbaland feat. One Republic
+Apologize [VIDEO]	Timbaland Feat. One Republic
 Morning After Dark	Timbaland feat. SoShy & Nelly Furtado
 Chains	Tina Arena
 Golden Eye	Tina Turner
@@ -3694,10 +3714,12 @@ An Deiner Seite	Tokio Hotel
 An Deiner Seite [VIDEO]	Tokio Hotel
 Durch Den Monsun	Tokio Hotel
 Krüppel und Schwul [VIDEO]	Tokio Hotel
+Monsoon [VIDEO]	Tokio Hotel
 Schrei	Tokio Hotel
 It's Not Unusual	Tom Jones
+It's Not Unusual [VIDEO]	Tom Jones
 Sexbomb	Tom Jones
-Sexbomb (Kar)	Tom Jones
+Sexbomb (Karaoke)	Tom Jones
 green green grass of home	Tom Jones
 Wunder Gibt Es Immer Wieder	Tom Kruse
 Free Fallin'	Tom Petty
@@ -3713,6 +3735,7 @@ Dancing in the Moonlight [VIDEO]	Toploader
 Beinhart	Torfrock
 ï»¿#TITLE:Beinhart	Torfrock
 Africa	Toto
+Africa [VIDEO]	Toto
 Hold The Line	Toto
 Hold the line	Toto
 Rosanna	Toto
@@ -3906,5 +3929,4 @@ Il grande baboomba	Zucchero
 Hunting High And Low	a-ha
 Ganz egal	böhse onkelz
 Vorrei	lunapop
-All The Things She Said (Radio Version)	t.A.T.u.
 Ö la Palöma	Ö la Palöma Boys
