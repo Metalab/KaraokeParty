@@ -20,4 +20,5 @@ perl -C -i -Mutf8 -Mcharnames=:full -lpe'
     s/Laßt/Lasst/;
     s/Schoner/Schöner/;
     s/gehoert/gehört/;
+    s/Felicita/Felicità/;
 ' songliste.txt
