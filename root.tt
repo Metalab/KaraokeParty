@@ -22,7 +22,7 @@
                     $(e.currentTarget).prop('checked', true);
                 });
                 $('table').dataTable({
-                    "aLengthMenu": [[10, 500, 4000], [10, 500, "all"]]
+                    "aLengthMenu": [[10, 500, 5000], [10, 500, "all"]]
                 });
             });
         </script>
