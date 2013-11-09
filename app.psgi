@@ -106,6 +106,12 @@ my $app = sub {
             )->finalize;
         }
         when ('/moderate') {
+            return $req->new_response(
+                status => 405,
+                content => ['only POST allowed on this resource'],
+                headers => [Allow => 'POST'],
+                content_type => 'text/plain',
+            )->finalize unless 'POST' eq $req->method;
             my $auth = auth($env, $req);
             return $auth if $auth;
             my %p = %{ $req->body_parameters };
