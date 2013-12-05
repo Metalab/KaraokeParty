@@ -1,0 +1,58 @@
+#!/usr/bin/env perl
+use strictures;
+use Config::Tiny qw();
+use DBIx::Class::Schema::Loader qw();
+use IO::File qw();
+use User::pwent qw(getpw);
+
+my %config = %{ Config::Tiny->read('config.ini')->{_} };
+@ENV{keys %config} = values %config;
+
+my ($command) = @ARGV;
+unless ($command) {
+    print <<'';
+Usage: karaokeparty {start|stop|init}
+
+    exit;
+}
+
+if ('stop' eq $command) {
+    my $h = IO::File->new;
+    $h->open('var/starman.pid');
+    my $pid = $h->getline;
+    system "sudo kill $pid";
+    system 'pg_ctl -D var/db stop';
+} elsif ('start' eq $command) {
+    my $user = getpw($<)->name;
+    system 'pg_ctl -D var/db -l var/log/pg.log -o "-p '
+      . $ENV{KARAOKEPARTY_DB_PORT}
+      . '" start';
+    system "sudo starman --listen :80 --user $user "
+      . '--error-log var/log/error.log --access-log var/log/access.log '
+      . '--daemonize --pid var/starman.pid';
+} elsif ('init' eq $command) {
+    system "bin/karaokeparty stop";
+    system "rm -rf var";
+    system 'mkdir -p var/db var/log';
+    system 'pg_ctl init -D var/db';
+    system 'pg_ctl -D var/db -l var/log/pg.log -o "-p '
+      . $ENV{KARAOKEPARTY_DB_PORT}
+      . '" start';
+    sleep 3;
+    system 'createdb -e -E UTF-8 -l C -p '
+      . $ENV{KARAOKEPARTY_DB_PORT}
+      . ' -T template0 '
+      . $ENV{KARAOKEPARTY_DB_NAME};
+    system "psql -p $ENV{KARAOKEPARTY_DB_PORT} $ENV{KARAOKEPARTY_DB_NAME} "
+      . '< schema.sql';
+    DBIx::Class::Schema::Loader->naming({preserve => "ALL"});
+    my $s = DBIx::Class::Schema::Loader->connect(
+        "dbi:Pg:dbname=$ENV{KARAOKEPARTY_DB_NAME};port=$ENV{KARAOKEPARTY_DB_PORT}",
+    );
+    my $h = IO::File->new;
+    $h->open('songliste.txt', 'r');
+    $s->resultset('Songs')->populate([
+        [qw(title artist)],
+        map { [split /\t/] } grep { !/^#|^$/ } map { chomp; $_ } $h->getlines
+    ]);
+}
