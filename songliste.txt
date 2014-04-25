@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Apr 25 17:11:02 CEST 2014
+# KaraokeParty Songlist: Fri Apr 25 17:13:07 CEST 2014
 
 Fiesta (TV)	+ Plus
 Cruella De Vil	101 Dalmatians
@@ -870,6 +870,7 @@ Schöner fremder Mann	Connie Francis
 Pack die Badehose ein	Conny Froboess
 Zwei kleine Italiener	Conny Froboess
 Undo	Cool Joke
+Undo (TV)	Cool Joke
 Locked Girl	Cool&Create
 Gangsta's Paradise	Coolio
 I'd Like To [VIDEO]	Corinne Bailey Rae
