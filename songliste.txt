@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Apr 25 18:06:21 CEST 2014
+# KaraokeParty Songlist: Thu Oct 23 16:28:30 CEST 2014
 
 Fiesta (TV)	+ Plus
 Cruella De Vil	101 Dalmatians
@@ -19,7 +19,7 @@ Kryptonite	3 Doors Down
 Loser	3 Doors Down
 When I'm Gone	3 Doors Down
 From Yesterday	30 Seconds To Mars
-Don't Trust Me	3OH!3
+Don´t Trust Me	3OH!3
 Starstrukk	3OH!3 feat. Katy Perry
 What's Up?	4 Non Blondes - Whats Up
 Let it Rain	4 Strings
@@ -76,15 +76,11 @@ You shook me all night long (Live)	AC/DC
 But Home Is Nowhere	AFI
 Try Again	Aaliyah
 Irgendwie Irgendwo Irgendwann	Absolute Beginner
-Highway To Hell	AC/DC
+Highway To Hell	Ac/dc
 All That She Wants	Ace of Base
 Beautiful Life	Ace of Base
 C'est La Vie	Ace of Base
 The Sign	Ace of Base
-Generosity	AcoustiMandoBrony, EileMonty
-I'll Fly Higher (Scootaloo's Theme)	AcousticBrony, MandoPony
-Loyalty	AcousticBrony, MandoPony
-Breaking Bonds	AcousticBrony, PrinceWhateverer
 Whataya Want From Me	Adam Lambert
 One Song Glory	Adam Pascal
 Killer	Adamski
@@ -93,6 +89,7 @@ Chasing Pavements [VIDEO]	Adele
 Rolling in the Deep	Adele
 Rumour Has It	Adele
 Set Fire To The Rain	Adele
+Skyfall	Adele
 Someone Like You	Adele
 Azzurro	Adriano Celentano
 Hai bucato la mia vita	Adriano Celentano
@@ -132,7 +129,7 @@ Right now (Na na na)	Akon
 Smack That feat. Eminem	Akon
 Smack That [VIDEO]	Akon feat. Eminem
 Beautiful [VIDEO]	Akon ft. Kardinal Offishal & Colby O Donis
-Felicità	Al Bano & Romina Power
+Felicita	Al Bano & Romina Power
 A Whole New World (Aladdin)	Aladdin
 A Whole New World (Jasmine)	Aladdin
 Ein Traum Wird Wahr	Aladdin
@@ -150,6 +147,7 @@ You oughta know	Alanis Morissette
 Black Velvet	Alannah Myles
 Black Velvet [VIDEO]	Alannah Myles
 It Never Rains In Southern California	Albert Hammond
+It Never Rains In Southern California.mp3	Albert Hammond
 Not A Sinner, Nor A Saint	Alcazar
 This is the world we live in	Alcazar
 Endlich Daheim	Alec, Scotch & Smart
@@ -163,7 +161,6 @@ Doktorspiele	Alex C. feat. Yass
 Destination Calabria	Alex Gaudino feat Crystal Waters
 Under	Alex Hepburn
 Ring um die Eier	Alex Knoll
-Ultimate Sweetie Belle	Alex S
 Sin miedo a nada	Alex Ubago
 Take Me Tonight	Alexander
 Free Like The Wind	Alexander Klaws
@@ -189,12 +186,10 @@ No One [VIDEO]	Alicia Keys
 Smooth Criminal	Alien Ant Farm
 All Cried Out	Alison Moyet
 I Swear	All 4 One
-Lament	All Levels at Once
 Black Coffee	All Saints
 Black Coffee [VIDEO]	All Saints
 Never Ever	All Saints
 Pure Shores [VIDEO]	All Saints
-Willst Du	Alligatoah
 Ich Vermiss Dich (Wie Die Hölle)	Almklausi
 Lo Lo Los Gehts	Almklausi
 Loving You Is Killing Me	Aloe Blacc
@@ -219,8 +214,6 @@ Cry of the black birds	Amon Amarth
 Let's Start A Band	Amy MacDonald
 Mr Rock And Roll	Amy Macdonald
 This is the Life	Amy Macdonald
-Derpy Ditty	Amy Rogers
-Derpy Ditty (Instrumental)	Amy Rogers
 Back To Black	Amy Winehouse
 Back To Black [VIDEO]	Amy Winehouse
 Love is a losing game [VIDEO]	Amy Winehouse
@@ -239,7 +232,6 @@ Vivo per lei	Andrea Bocelli feat. Giorgia
 Nur In Meinem Kopf	Andreas Bourani
 Fred vom Jupiter	Andreas Dorau und die Marinas
 Ich Fang Dir Den Mond	Andreas Martin
-PFUDOR	Andrew Huang
 Stille Nacht	Andy Borg
 C Da Diao [VIDEO]	Angela Zhang
 House Of The Rising Sun	Animals
@@ -272,10 +264,10 @@ Mata Ashita	Aoi Yuuki
 Barbie Girl	Aqua
 Cartoon heroes	Aqua
 ALONES	Aqua Timez
-Love Is In Bloom (Archie Second Remix)	Archie
 I Bet you Look Good on the Dance Floor	Arctic Monkeys
 Respect	Aretha Franklin
 Respect [VIDEO]	Aretha Franklin
+Problem	Ariana Grande ft. Iggy Azalea
 Nur Ein Kuss	Arielle
 Unten Im Meer	Arielle
 Katzen Brauchen Furchtbar Viel Musik	Aristocats
@@ -296,7 +288,7 @@ Boyfriend [VIDEO]	Ashlee Simpson
 Invisible [VIDEO]	Ashlee Simpson
 La La [VIDEO]	Ashlee Simpson
 Pieces Of Me	Ashlee Simpson
-It's Alright, It's OK [VIDEO]	Ashley Tisdale
+It´s Alright, It´s OK [VIDEO]	Ashley Tisdale
 Heat Of The Moment	Asia
 After dark	Asian Kung-fu Generation
 Haruka kanata	Asian Kung-fu Generation
@@ -329,8 +321,6 @@ Beast and the Harlot	Avenged Sevenfold
 Obsesion	Aventura
 The Internet Is For Porn [VIDEO]	Avenue Q
 There's a Fine, Fine Line	Avenue Q
-One Last Letter	Aviators, Bronyfied
-One Last Letter (Instrumental)	Aviators, Bronyfied
 Levels	Avicii
 wake me up (Metall)	Avicii
 Wake Me Up	Avicii feat. Aloe Blacc
@@ -340,7 +330,7 @@ Complicated (Karaoke)	Avril Lavigne
 Don't tell me	Avril Lavigne
 Girlfriend	Avril Lavigne
 He wasn't	Avril Lavigne
-Here's To Never Growing Up	Avril Lavigne
+Heres To Never Growing Up	Avril Lavigne
 Hot [VIDEO]	Avril Lavigne
 How does it feel	Avril Lavigne
 I'm With You	Avril Lavigne
@@ -351,8 +341,6 @@ Nobody's home [VIDEO]	Avril Lavigne
 Sk8er Boi	Avril Lavigne
 The Best Damn Thing [VIDEO]	Avril Lavigne
 When You're Gone [VIDEO]	Avril Lavigne
-Anthropology	AwkwardMarina
-Anthropology (Instrumental)	AwkwardMarina
 Amsterdam	Axel Fischer
 Zum Geburtstag	Axel Kurth
 God knows	Aya Hirano
@@ -426,10 +414,7 @@ Stayin' Alive	Bee Gees
 Tragedy [VIDEO]	Bee Gees
 Words	Bee Gees
 You Should Be Dancing [VIDEO]	Bee Gees
-1. 2. 3. …	Bela B.
-Love is for Fools	Belgerum
-Love is for Fools (Instrumental)	Belgerum
-Rainbow Dash Cheer Song	Belgerum
+1. 2. 3. ...	Bela B.
 Heaven Is A Place On Earth	Belinda Carlisle
 Let Your Love Flow [VIDEO]	Bellamy Brothers
 Stand By Me	Ben E. King
@@ -444,7 +429,7 @@ Dime	Beth
 From A Distance	Bette Midler
 The Rose	Bette Midler
 Come As You Are [VIDEO]	Beverly Knight
-Crazy In Love	Beyoncé
+Crazy In Love	Beyonc
 Amor Gitano	Beyonce
 Halo [VIDEO]	Beyonce
 If I Were A Boy [VIDEO]	Beyonce
@@ -455,7 +440,7 @@ Single ladies (Put a ring on it) [VIDEO]	Beyonce
 Sweet dreams [VIDEO]	Beyonce
 Video Phone	Beyonce feat. Lady Gaga
 Beautiful Liar	Beyonce feat. Shakira
-Crazy In Love	Beyoncé
+Crazy In Love	BeyoncÃ©
 Video Phone	Beyoncé feat. Lady Gaga
 Beautiful Liar (Duett)	Beyoncé feat. Shakira
 Coccinella	Biagio Antonacci
@@ -514,8 +499,6 @@ Iron man	Black Sabbath
 Paranoid	Black Sabbath
 Fallen Angels	Black Veil Brides
 Perfect Weapon	Black Veil Brides
-Proud to be a Brony	BlackGryph0n
-Proud to be a Brony (Instrumental)	BlackGryph0n
 Shadow Of The Moon	Blackmore's Night
 Your Touch	Blake Lewis
 Home	Blake Shelton
@@ -634,7 +617,7 @@ Baby one more time	Bowling For Soup
 High School Never Ends	Bowling For Soup
 Waiting For A Star To Fall	Boy Meets Girl
 Waiting For A Star To Fall [VIDEO]	Boy Meets Girl
-Hej Sokoły	Boys
+Hej Soko³y	Boys
 The Great Escape	Boys Like Girls
 Baby Can I Hold You [VIDEO]	Boyzone
 No Matter What [VIDEO]	Boyzone
@@ -663,7 +646,6 @@ Lucky	Britney Spears
 My Prerogative [VIDEO]	Britney Spears
 Oops! I did it again	Britney Spears
 Overprotected	Britney Spears
-Perfume	Britney Spears
 Phonography	Britney Spears
 Piece Of Me [VIDEO]	Britney Spears
 Radar [VIDEO]	Britney Spears
@@ -674,8 +656,6 @@ Womanizer [VIDEO]	Britney Spears
 Work Bitch	Britney Spears
 Do You	Bro'sis
 Ruby Light & Dark	Broilers
-Keep The Beat Alive	BroniKoni
-Keep The Beat Alive (Instrumental)	BroniKoni
 Something In The Water	Brooke Fraser
 Boot Scootin' Boogie	Brooks & Dunn
 If You See Him If You See Her	Brooks & Dunn
@@ -715,7 +695,7 @@ Crashed the Wedding	Busted
 Crashed the Wedding (Karaoke)	Busted
 Year 3000 [VIDEO]	Busted
 Auf gute Freunde	Böhse Onkelz
-Bin ich nur glücklich…	Böhse Onkelz
+Bin ich nur glücklich...	Böhse Onkelz
 Bomberpilot	Böhse Onkelz
 Die Firma	Böhse Onkelz
 Dr. Martens Beat	Böhse Onkelz
@@ -862,10 +842,6 @@ Bibbidi Bobbidi Boo	Cinderella
 The Work Song	Cinderella
 Immer Wieder Sonntags	Cindy & Bert
 Lovesongs (They Kill Me)	Cinema Bizarre
-Summer Wrap Up	Circuitfry
-Art of the Dress Rock!	Claire Anne Carr
-Fast Enough Rock!	Claire Anne Carr
-Fast Enough Rock! (Instrumental)	Claire Anne Carr
 Connect (TV)	Claris
 Avrai	Claudio Baglioni
 Mille giorni di te e di me	Claudio Baglioni
@@ -895,7 +871,6 @@ Schöner fremder Mann	Connie Francis
 Pack die Badehose ein	Conny Froboess
 Zwei kleine Italiener	Conny Froboess
 Undo	Cool Joke
-Undo (TV)	Cool Joke
 Locked Girl	Cool&Create
 Gangsta's Paradise	Coolio
 I'd Like To [VIDEO]	Corinne Bailey Rae
@@ -923,7 +898,7 @@ My own prison	Creed
 My sacrifice	Creed
 One	Creed
 One Last Breath	Creed
-What's this life for	Creed
+What´s this life for	Creed
 With arms wide open	Creed
 Have you ever seen the rain	Creedence Clearwater
 Hey Tonight	Creedence Clearwater Revival
@@ -951,10 +926,6 @@ Girls Just Wanna Have Fun	Cyndi Lauper
 She Bop	Cyndi Lauper
 Time After Time	Cyndi Lauper
 Time After Time [VIDEO]	Cyndi Lauper
-Cyril with Pinkie	Cyril Befriends Alex S
-The Life of a Twilight Star	Cyril The Wolf
-Millennium Alone (Luna)	Cyril the Wolf
-Millennium Alone (Luna) (Instrumental)	Cyril the Wolf
 Chihuahua 2002 [VIDEO]	DJ Bobo
 What A Feeling	DJ Bobo Feat. Irene Cara
 Summertime	DJ Jazzy Jeff & The Fresh Prince
@@ -979,7 +950,6 @@ If You're Not the One	Daniel Bedingfield
 If You're Not the One (Karaoke)	Daniel Bedingfield
 If You're Not the One (Karaoke) [VIDEO]	Daniel Bedingfield
 If You're Not the One [VIDEO]	Daniel Bedingfield
-Babs Seed (SOS Remix)	Daniel Ingram
 Coming True	Daniel Lindström
 Bad Day	Daniel Powter
 Bad Day [VIDEO]	Daniel Powter
@@ -998,8 +968,6 @@ One Summer	Daryl Braithwaite
 Ich Wäre Gern Wie Du	Das Dschungelbuch
 Probiers Mal Mit Gemütlichkeit	Das Dschungelbuch
 Computerliebe	Das Modul
-Good Girl	Dasha and The Living Tombstone
-Good Girl (Instrumental)	Dasha and The Living Tombstone
 Proudest Monkey	Dave Matthews Band
 Absolute beginners	David Bowie
 Ashes To Ashes	David Bowie
@@ -1028,8 +996,6 @@ Do the Limbo Dance	David Hasselhoff
 Jump In My Car	David Hasselhoff
 Looking for Freedom	David Hasselhoff
 Wir Zwei allein (Duett)	David Hasselhoff & Gwen
-Double Rainboom	David Larsen, Mandopony
-Double Rainboom (Instrumental)	David Larsen, Mandopony
 Just A Gigolo - Ain't Got Nobody	David Lee Roth
 Just A Gigolo - I Ain't Got Nobody	David Lee Roth
 Scooby Doo Theme Song	David Mook
@@ -1052,22 +1018,17 @@ Diamond Eyes	Deftones
 Luftbahn	Deichkind
 Remmi Demmi (Yippie Yippie Yeah) [VIDEO]	Deichkind
 Du Wichser	Deliah
-Born To Try [VIDEO]	Delta Goodrem
-You Will Only Break My Heart [VIDEO]	Delta Goodrem
 This Is Me	Demi Lavato & Joe Jonas
 Enjoy The Silence	Depeche Mode
 People Are People	Depeche Mode
 Photographic	Depeche Mode
 Policy Of Truth	Depeche Mode
 Hakuna Matata	Der König Der Löwen
-Dash's Echoing Sky	Derpidety
-Life	Des'ree
 Voyage Voyage	Desireless
 Bootylicious [VIDEO]	Destiny's Child
 Say My Name	Destiny's Child
 Survivor	Destiny's Child
 Das W auf dem Trikot	Deutschmacher
-Beautiful World	Devo
 Come On Eileen	Dexy's Midnight Runners
 Come On Eileen [VIDEO]	Dexy's Midnight Runners
 Vem Ska Jag Tro På?	Di Leva
@@ -1113,7 +1074,9 @@ Stille Nacht	Die Roten Rosen
 White Christmas	Die Roten Rosen
 Lass uns schmutzig Liebe machen	Die Schröders
 Die Schöne Und Das Biest	Die Schöne Und Das Biest
+1000 Gute GrÃ¼nde	Die Toten Hosen
 1000 Gute Gründe	Die Toten Hosen
+All Die Ganzen Jahre	Die Toten Hosen
 All die ganzen Jahre	Die Toten Hosen
 Alles Aus Liebe	Die Toten Hosen
 Alles Was War	Die Toten Hosen
@@ -1149,7 +1112,7 @@ Zehn Kleine Jägermeister	Die Toten Hosen
 1-2 Lovesong [VIDEO]	Die Ärzte
 3 Tage Bart	Die Ärzte
 Anders als beim letzten Mal	Die Ärzte
-Bitte Bitte…	Die Ärzte
+Bitte Bitte...	Die Ärzte
 Claudia hat 'nen Schäferhund	Die Ärzte
 Deine Schuld	Die Ärzte
 Der Graf	Die Ärzte
@@ -1213,7 +1176,7 @@ Es War Sommer (Die Wahre Geschichte)	Dieter Thomas Kuhn
 Tanze Samba mit mir	Dieter Thomas Kuhn
 Und es war Sommer	Dieter Thomas Kuhn
 Und es war Sommer [VIDEO]	Dieter Thomas Kuhn
-Wann wird's mal wieder richtig Sommer?	Dieter Thomas Kuhn
+Wann wird´s mal wieder richtig Sommer?	Dieter Thomas Kuhn
 Über den Wolken	Dieter Thomas Kuhn
 Wenn das Feuer in dir brennt	Digimon
 The Wanderer	Dion
@@ -1241,7 +1204,7 @@ I Wanna Be Like You (Duett)	Disney's The Jungle Book
 Wir Sind Eins	Disneys König der Löwen 2
 Farbenspiel des Winds	Disneys Pocahontas
 We Are One	Disneys The Lion King
-Spiegelbild	Disney's Mulan
+Spiegelbild	DisneyÂ´s Mulan
 Another Way To Die	Disturbed
 Asylum	Disturbed
 Believe	Disturbed
@@ -1266,31 +1229,22 @@ Boys Of Summer [VIDEO]	Dj Sammy
 Fukai Mori	Do As Infinity
 Fukai Mori (TV)	Do As Infinity
 Good Enough	Dodgy
-Good Enough [VIDEO]	Dodgy
 Eine Insel mit zwei Bergen	Dolls United
 9 To 5	Dolly Parton
-9 To 5 [VIDEO]	Dolly Parton
 I will always love you	Dolly Parton
 Jolene	Dolly Parton
 Oberaffengeil	Domstürmer
-Boys Of Summer	Don Henley
 Riidankylväjä	Don Huonot
 Danza Kuduro	Don Omar ft. Lucenzo
 Some Broken Hearts Never Mend	Don Williams
-The Ballad of Applejack's Last Round up	Donn Devore
 She Works Hard For The Money	Donna Summer
 She Works Hard For The Money [VIDEO]	Donna Summer
 Whatever Will Be Wil Be	Doris Day
 Traum-Walzer	Dornroschen
 Warum Nur	Dornroschen
 All We Are	Doro
-Do ya [VIDEO]	Dover
-Let me out	Dover
-Serenade	Dover
-Sexy Eyes	Dr Hook
 Calcutta (Taxi, Taxi, Taxi)	Dr. Bombay
 Marmor, Stein und Eisen bricht	Drafi Deutscher
-April Sun In Cuba [VIDEO]	Dragon
 Dan Dan Kokoro Hikareteku	Dragon Ball GT
 Du wirst unbesiegbar sein	Dragonball Z
 Chala Head Chala	DragonballZ
@@ -1315,19 +1269,11 @@ Theme	Duck Tales
 Mercy	Duffy
 Warwick Avenue	Duffy
 En Algún Lugar	Duncan Dhu
-Children of the Night	Duo Cartoonist
-A view to a kill	Duran Duran
 Hungry Like The Wolf	Duran Duran
-Hungry Like The Wolf (Karaoke) [VIDEO]	Duran Duran
-Hungry Like The Wolf [VIDEO]	Duran Duran
 Ordinary World	Duran Duran
-Ordinary World [VIDEO]	Duran Duran
 Rio	Duran Duran
-Rio [VIDEO]	Duran Duran
-The Reflex [VIDEO]	Duran Duran
 Son Of A Preacher Man	Dusty Springfield
 Son of a Preacher Man	Dusty Springfield
-Max Don't Have Sex With Your Ex	E-Rotic
 This Is The Way	E-Type
 300 PS	EAV
 Burli	EAV
@@ -1343,34 +1289,28 @@ Jambo	EAV
 Morgen	EAV
 Märchenprinz	EAV
 Neue Helden (braucht das Land)	EAV
-Nie wieder Kunst (wie immer…)	EAV
+Nie wieder Kunst (wie immer...)	EAV
 Wie Eine Fatamorgana	EAV
 Wo ist der Kaiser	EAV
 Unbelievable	EMF
-Unbelievable [VIDEO]	EMF
 Save Tonight [VIDEO]	Eagle Eye Cherry
 September '99 (Phats & Small Remix)	Earth Wind & Fire
-September [VIDEO]	Earth wind and fire
-Bright Eyes (A Wonky Anthem)	Eccentrifuge
 The Killing Moon	Echo & The Bunnymen
 Du Trägst Keine Liebe In Dir	Echt
 Fort Von Mir	Echt
 Junimond	Echt
 Weinst Du	Echt
-Gimme Hope Jo'anna	Eddy Grant
-All The Clowns [VIDEO]	Edguy
-King of Fools [VIDEO]	Edguy
-Superheroes [VIDEO]	Edguy
+Gimme Hope Jo´anna	Eddy Grant
+King Of Fools	Edguy
+Superheroes	Edguy
 Il gatto e la volpe	Edoardo Bennato
 Trololo	Eduard Khil
 War [VIDEO]	Edwin Starr
 A Girl Like You	Edwyn Collins
-Another Race	Eiffel 65
 Blue	Eiffel 65
 I'm Not Scared	Eighth Wonder
 Naraku no hana (TV)	Eiko Shimamiya
 Super Scription of Data (TV)	Eiko Shimamiya
-I Am Octavia	EileMonty
 Eisblumen	Eisblume
 17 Kerzen am Dom	Eisregen
 Bei den Gräbern	Eisregen
@@ -1380,12 +1320,11 @@ Futter für die Schweine	Eisregen
 Krebskolonie	Eisregen
 Lili Marleen	Eisregen
 Meine tote russische Freundin	Eisregen
-Pest 1 (4) … und über allem weht der Wind so kalt	Eisregen
+Pest 1 (4) ... und über allem weht der Wind so kalt	Eisregen
 Wundwasser	Eisregen
 Legende des Leides	Eisregen - Pest 2 (4)
 In der Grube	Eisregen - Pest 3 (4)
 Auferstehung	Eisregen - Pest 4 (4)
-Mr Blue Sky [VIDEO]	Electric Light Orchestra
 Fossi Figo	Elio E Le Storie Tese
 John Holmes (Una Vita Per Il Cinema)	Elio E Le Storie Tese
 Eppure sentire	Elisa
@@ -1394,7 +1333,6 @@ Küss mich, halt mich, lieb mich	Ella Endlich
 Let's Call The Whole Thing Off	Ella Fitzgerald and Louis Armstrong
 Let's Call The Whole Thing Off (Ella)	Ella Fitzgerald and Louis Armstrong
 Let's Call The Whole Thing Off (Louis)	Ella Fitzgerald and Louis Armstrong
-Let's Call The Whole Thing Off [VIDEO]	Ella Fitzgerald and Louis Armstrong
 Can You Feel The Love Tonight	Elton John
 Can You Feel The Love Tonight [VIDEO]	Elton John
 Candle In The Wind (Goodbye England's Rose)	Elton John
@@ -1412,7 +1350,7 @@ Your Song	Elton John
 Don't Let The Sun Go Down On Me	Elton John & George Michael
 Don't Go Breaking My Heart	Elton John & Kiki Dee
 Don't Go Breaking My Heart [VIDEO]	Elton John & Kiki Dee
-(You're The) Devil in Disguise	Elvis Presley
+(Youre The) Devil in Disguise	Elvis Presley
 A Little Less Conversation (JXL Remix)	Elvis Presley
 Are You Lonesome Tonight	Elvis Presley
 Blue Suede Shoes	Elvis Presley
@@ -1451,43 +1389,26 @@ Gollum's Song	Emiliana Torrini
 Jungle Drum [VIDEO]	Emiliana Torrini
 Mockingbird	Eminem
 Not Afraid	Eminem
-When I'm Gone	Eminem
+When I´m Gone	Eminem
 Stan	Eminem feat. Dido
 Love The Way You Lie	Eminem ft. Rihanna
-Free Me [VIDEO]	Emma Bunton
 Tu Seras	Emma Daumas
 Only Teardrops	Emmelie De Forest
 We Are The People	Empire Of The Sun
 Free Your Mind	En Vogue
-My Lovin' (You're Never Gonna Get It) [VIDEO]	En Vogue
-O Yeah [VIDEO]	End Of Fashion
+My Lovin' (You're Never Gonna Get It)	En Vogue
 Lisa	Endstufe
-Return to Innocence [VIDEO]	Enigma
+Return to Innocence	Enigma
 Do You Know	Enrique Iglesias
 Hero	Enrique Iglesias
-Takin' Back My Love	Enrique Iglesias feat. Ciara
+Takin´ Back My Love	Enrique Iglesias feat. Ciara
 I Like It	Enrique Iglesias ft. Pitbull
 Losing The Ground	Entwine
-May It Be [VIDEO]	Enya
-Iron Will vs Zecora	Epic Pony Rap Battles of Equestria
-Iron Will vs Zecora (Instrumental)	Epic Pony Rap Battles of Equestria
+May It Be	Enya
 Tahroja Paperilla	Eppu Normaali
-A Friend For Life	Equestria Girls
-A Friend For Life (Instrumental)	Equestria Girls
-Helping Twilight Win The Crown	Equestria Girls
-Helping Twilight Win The Crown (Instrumental)	Equestria Girls
-Main Theme	Equestria Girls
-Main Theme (Instrumental)	Equestria Girls
-This Is Our Big Night	Equestria Girls
-This Is Our Big Night (Instrumental)	Equestria Girls
-This Strange World	Equestria Girls
-This Strange World (Instrumental)	Equestria Girls
-Time to Come Together	Equestria Girls
-Time to Come Together (Instrumental)	Equestria Girls
 A Little Respect	Erasure
-A Little Respect [VIDEO]	Erasure
 Always	Erasure
-Paid In Full [VIDEO]	Eric B And Rakim
+Paid In Full	Eric B And Rakim
 Cocaine	Eric Clapton
 I Shot The Sheriff	Eric Clapton
 Layla (Unplugged) [VIDEO]	Eric Clapton
@@ -1502,12 +1423,9 @@ Piu bella cosa	Eros Ramazzotti
 Un emozione per sempre	Eros Ramazzotti
 Amarti è l'immenso per me	Eros Ramazzotti & Antonella Bucci
 Non Siamo Soli	Eros Ramazzotti & Ricky Martin
+The Day I Left the Womb	Escape the Fate
 Mugumeru - TV size	Eufonius
-Discord (EuroChaos Mix)	Eurobeat Brony ft. Odyssey
-Discord (Tombstone Remix)	Eurobeat Brony ft. Odyssey
-Luna (DREAM MODE)	Eurobeat Brony ft. Odyssey
 Carrie	Europe
-Carrie [VIDEO]	Europe
 Final Countdown	Europe
 I Saved The World Today	Eurythmics
 Sweet Dreams	Eurythmics
@@ -1527,27 +1445,21 @@ My Last Breath [VIDEO]	Evanescence
 October	Evanescence
 So Close	Evanescence
 Tourniquet	Evanescence
-Land of Equestria	Evening Star
 What It's Like	Everlast
-It's Too Late [VIDEO]	Evermore
 Light Surrounding You	Evermore
-Light Surrounding You [VIDEO]	Evermore
-Missing [VIDEO]	Everything But The Girl
 Your Song	Ewan McGregor
 Wann spielt ihr endlich wieder Grindcore?	Excrementory Grindfuckers
 Flieger, Grüss Mir Die Sonne	Extrabreit
 More Than Words [VIDEO]	Extreme
 Lydia	F.I.R
 Wo men de ai [VIDEO]	F.I.R
-Fluttershy's Gala	F3nning
+Words	F.R. David
 Blau und Weiss	FC Schalke 04
-Words [VIDEO]	FR David
 In Italia ft Gianna Nannini	Fabri Fibra & Gianna Nannini
 Il pescatore	Fabrizio De André
 Efter Plugget	Factory
 Zhi dui ni you gan jue	Fahrenheit & Hebe Tian
 Perfect	Fairground Attraction
-Perfect [VIDEO]	Fairground Attraction
 Red Umbrella	Faith Hill
 Ashes To Ashes	Faith No More
 Digging The Grave	Faith No More
@@ -1585,7 +1497,6 @@ Unter Wasser	Farin Urlaub
 Wo ist das Problem	Farin Urlaub
 Praise you	Fatboy Slim
 Eyes on Me	Faye Wong
-Mad Mares	Feather
 Big Girls Don't Cry	Fergie
 Big girls don't cry [VIDEO]	Fergie
 Clumsy [VIDEO]	Fergie
@@ -1601,7 +1512,6 @@ She Drives Me Crazy	Fine Young Cannibals
 Paralyzer	Finger Eleven
 Diventerai Una Star	Finley
 C'est la vie	Fish Leong
-Superman	Five For Fighting
 System Addict	Five Star
 System Addict [VIDEO]	Five Star
 Go Your Own Way	Fleetwood Mac
@@ -1615,40 +1525,19 @@ Low [VIDEO]	Flo Rida feat. T-Pain
 Drunken Lullabies	Flogging Molly
 Requiem for A Dying Song	Flogging Molly
 You've Got The Love	Florence And The Machine
-Cosmic Love	Florence and the Machine
 Ma liberté de penser	Florent Pagny
 Only You	Flying Pickets
 Best Of You	Foo Fighters
 Everlong	Foo Fighters
-Hey, Johnny Park!	Foo Fighters
-Learn To Fly	Foo Fighters
-My Hero [VIDEO]	Foo Fighters
+My Hero	Foo Fighters
 The Pretender	Foo Fighters
 Lemon Tree	Fool's Garden
 I Want To Know What Love Is	Foreigner
-I Want To Know What Love Is [VIDEO]	Foreigner
-A Summer In The Stars	Forest Rain
-A Summer In The Stars (Instrumental)	Forest Rain
-Great to be Different	Forest Rain
-Hay Ms Derpy	Forest Rain
-Join The Herd	Forest Rain
-Join The Herd (Instrumental)	Forest Rain
-Luna (Alt Mode)	Forest Rain
-Luna (Alt Mode) (Instrumental)	Forest Rain
-Memory Lane	Forest Rain
-Raise the Sun	Forest Rain
-Trixie	Forest Rain
-Trixie (Instrumental)	Forest Rain
-Great to be Different (PMV)	Forest Rain feat. Decibelle
-Great to be Different (PMV) (Inst)	Forest Rain feat. Decibelle
 Pumped Up Kicks	Foster The People
-Stacy's Mom [VIDEO]	Fountains Of Wayne
-There's Pinkie	Fountains of Pony
-I Can't Help Myself [VIDEO]	Four Tops
-Balloons in My Basket	FraGmenTd
-That Girl	FraGmenTd
+Stacy's Mom	Fountains Of Wayne
+I Can't Help Myself	Four Tops
 Uno más uno son siete	Fran Perea
-Ein bisschen Goethe, ein bisschen Bonaparte	France Gall
+Ein bißchen Goethe, ein bißchen Bonaparte	France Gall
 Raccontami	Francesco Renga
 Cuccurucucu	Franco Battiato
 Hip Teens (Don't Wear Blue Jeans)	Frank Pop Esemble
@@ -1672,42 +1561,30 @@ Florida Lady	Frauenarzt & Manny Marc Feat Andreas Martin
 I sing in the Rain	Fred Astaire
 Living On My Own [VIDEO]	Freddie Mercury
 The Great Pretender	Freddie Mercury
+All Right Now	Free
 Alright Now	Free
-Alright Now [VIDEO]	Free
 Farewell	Freedom Call
 Fantasi	Freestyle
 Weil du mich nur verarscht hast	Frei.Wild
 Mit Dir	Freundeskreis
 Wovon sollen wir träumen	Frida Gold
 Listen To Your Heartbeat	Friends
-It'll Be OK	Friendship is Witchcraft
-It'll Be OK (Instrumental, Twi-less)	Friendship is Witchcraft
-Pinkie's Brew	Friendship is Witchcraft
-Princess of the Night	Friendship is Witchcraft
-The Gypsy Bard (Extended)	Friendship is Witchcraft
-The Gypsy Bard (Instrumental)	Friendship is Witchcraft
-The Orphanage Song	Friendship is Witchcraft
 Genie Auf Die Ski	Fritz & The Downhill Gang
 Killing me softly	Fugees
 Melissa	Full Metal Alchemist
 Celebration	Fun Factory
 I Wanna B With U	Fun Factory
-Saufen, Fressen und F…	Funny van Dannen
+Saufen, Fressen und F.....	Funny van Dannen
 Dead + Gone	Fury In The Slaughterhouse
 Time To Wonder	Fury In The Slaughterhouse
 Dein Herz Schlägt Schneller	Fünf Sterne deluxe
-Sounds Of Then (This Is Australia) [VIDEO]	GANGgajang
 Sweet About Me [VIDEO]	Gabriella Cilmi
 Freed From Desire	Gala
 Abyss Of The Void	Gamma Ray
-Abyss Of The Void (Karaoke)	Gamma Ray
+Abyss Of The Void (karaoke)	Gamma Ray
 I Think I'm Paranoid	Garbage
-Only Happy When It Rains	Garbage
 Push It	Garbage
-Special	Garbage
-Stupid Girl	Garbage
 The world is not enough	Garbage
-When I Grow Up	Garbage
 The River	Garth Brooks
 Unanswered Prayers	Garth Brooks
 I Like Chopin	Gazebo
@@ -1715,8 +1592,6 @@ Kreuzberger Nachte	Gebruder Blattschuss
 Bruttosozialprodukt	Geier Sturzflug
 Holly E Benji	GemBoy
 Dammi solo un minuto	Gemelli Diversi
-She's A Pony	General Mumble
-Strangely Obsessed	General Mumble x Interrobang Pie
 Follow You, Follow Me	Genesis
 I can't dance	Genesis
 Jesus he knows me	Genesis
@@ -1732,28 +1607,22 @@ Faith [VIDEO]	George Michael
 One More Try	George Michael
 Sag ihr auch	Gerd Christian
 It's raining men [VIDEO]	Geri Halliwell
-Look At Me	Geri Halliwell
 Baker Street	Gerry Rafferty
 Cammina nel sole	Gianluca Grignani
 Destinazione Paradiso	Gianluca Grignani
 La mia storia fra le dita	Gianluca Grignani
-Another Way [VIDEO]	Gigi D'Agostino
 I will fly with you	Gigi D'agustino
-L'amour toujours	Gigi D'Agostino
+L´amour toujours	Gigi D´Agostino
 L'Amore Che Non C'è	Gigi d'Alessio
 Hey Jealousy	Gin Blossoms
-Hey Jealousy [VIDEO]	Gin Blossoms
 Colpo di fulmine	Gin Di Tonno & Lola Ponce
 Di sole e d'azzurro	Giorgia
 Girasole	Giorgia
 Tutti all'arrembaggio	Giorgio Vanni & Cristina d'Avena
 Volare	Gipsy Kings
-Biology [VIDEO]	Girls Aloud
+Biology	Girls Aloud
 Call The Shots	Girls Aloud
-Call The Shots [VIDEO]	Girls Aloud
-Love Machine [VIDEO]	Girls Aloud
 No Good Advice	Girls Aloud
-No Good Advice [VIDEO]	Girls Aloud
 Ich will nen Cowboy als Mann	Gitte
 So Schön Kann Doch Kein Mann Sein	Gitte
 Heidi	Gitti & Erica
@@ -1771,32 +1640,22 @@ What Doesn't Kill You (Stronger)	Glee Cast
 Hoy	Gloria Estefan
 I Am What I Am	Gloria Gaynor
 I Will Survive	Gloria Gaynor
-I Will Survive [VIDEO]	Gloria Gaynor
 Dancing Queen	Glow
 Crazy [VIDEO]	Gnarls Barkley
 Radar Love	Golden Earring
 Ooh La La	Goldfrapp
-Ooh La La [VIDEO]	Goldfrapp
-Black Balloon	Goo Goo Dolls
 Goo Goo Dolls - Iris	Goo Goo Dolls
-Name	Goo Goo Dolls
-Dance Floor Anthem (I Don't Wanna Be In Love) [VIDEO]	Good Charlotte
-Girls & Boys (Karaoke) [VIDEO]	Good Charlotte
-Girls & Boys [VIDEO]	Good Charlotte
+Girls & Boys	Good Charlotte
 Girls And Boys	Good Charlotte
 Girls And Boys (Karaoke)	Good Charlotte
 I Just Wanna Live	Good Charlotte
-I Just Wanna Live [VIDEO]	Good Charlotte
-Keep Your Hands Off My Girl	Good Charlotte
-Moving on	Good Charlotte
 Predictable	Good Charlotte
-Say Anything	Good Charlotte
 The Anthem [VIDEO]	Good Charlotte
 The River	Good Charlotte feat. M. Shadows
 Clint Eastwood [VIDEO]	Gorillaz
 Feel Good INC [VIDEO]	Gorillaz
 Pozwol Zyc	Gosia Andrzejewicz
-Słowa	Gosia Andrzejewicz
+S³owa	Gosia Andrzejewicz
 Heavy Cross	Gossip
 Heavy Cross [VIDEO]	Gossip
 Move in the right direction	Gossip
@@ -1831,10 +1690,6 @@ The Static Age	Green Day
 Wake me up when september ends	Green Day
 When I Come Around	Green Day
 Redneck Woman	Gretchen Wilson
-Sweetie's Big Race	Griffin Lewis
-Summer (Lyra and Bon-Bon)	Griffin Village
-Autumn	Griffin Village, Jackle App
-Hard Act To Follow [VIDEO]	Grinspoon
 Last Unicorn	Groove Coverage
 Moonlight Shadow	Groove Coverage
 Poison [VIDEO]	Groove Coverage
@@ -1848,8 +1703,8 @@ Guildo Hat Euch Lieb	Guildo Horn & Die Orthopädischen Strümpfe
 3rd Opening Theme	Gundam Seed Destiny
 Civil war	Guns N Roses
 Cats in the Cradle	Guns N' Roses
-Don't Cry	Guns N' Roses
-It's so easy	Guns N' Roses
+Don´t Cry	Guns N' Roses
+It´s so easy	Guns N' Roses
 Knocking On Heavens Door	Guns N' Roses
 Live and let die	Guns N' Roses
 Mr. Brownstone	Guns N' Roses
@@ -1857,7 +1712,7 @@ November Rain	Guns N' Roses
 November Rain [VIDEO]	Guns N' Roses
 Paradise City	Guns N' Roses
 Paradise City [VIDEO]	Guns N' Roses
-Sweet child o'Mine [VIDEO]	Guns N' Roses
+Sweet child o´Mine [VIDEO]	Guns N' Roses
 Welcome to the jungle	Guns N' Roses
 Infinity 2008	Guru Josh Project
 Da Sprach Der Alte Hauptling Der Indianer	Gus Backus
@@ -1871,16 +1726,11 @@ What You Waiting For?	Gwen Stefani
 The Sweet Escape	Gwen Stefani Feat Akon
 Countdown To Insanity	H-Blockx
 Little Girl	H-Blockx
-Heartstrings	H8_Seed
-Awoken	H8_Seed+Glaze
-Awoken (Instrumental)	H8_Seed+Glaze
 Ichirin no hana	HIGH and MIGHTY COLOR
 Heartache Every Moment	HIM
 Poison girl	HIM
-Right Here In My Arms [VIDEO]	HIM
 Solitary Man	HIM
 The Funeral Of Hearts	HIM
-A Day with Prince	HKnife
 SEASON'S CALL	HYDE
 What Is Love	Haddaway
 Die Ersten	Halogenpoeten
@@ -1891,22 +1741,18 @@ Hearts On Fire	Hammerfall
 Renegade	Hammerfall
 The Fire Burns Forever	Hammerfall
 I've Got Nerve	Hannah Montana
-I Will Come To You	Hanson
 MMMBop	Hanson
 Hard To Beat	Hard Fi
-Hard To Beat [VIDEO]	Hard Fi
 Moviestar	Harpo
 Banana Boat	Harry Belafonte
 Island In The Sun	Harry Belafonte
-Cutie Mark Crusaders (Power Metal)	Hatesteed
 Das Lied der Deutschen	Haydn feat. Fallersleben
 Alone	Heart
-Alone [VIDEO]	Heart
 Crazy on You	Heart
 Crazy on You [instrumental]	Heart
 O Tannenbaum	Heintje
 My Number One	Helena Paparizou
-Ich will immer wieder (Dieses Fieber spür'n)	Helene Fischer
+Ich will immer wieder (Dieses Fieber spür´n)	Helene Fischer
 Katzeklo	Helge Schneider
 Käsebrot	Helge Schneider
 Dr. Stein	Helloween
@@ -1919,38 +1765,25 @@ Der Weg [VIDEO]	Herbert Grönemeyer
 Halt Mich	Herbert Grönemeyer
 Mensch [VIDEO]	Herbert Grönemeyer
 Männer	Herbert Grönemeyer
-No Milk Today	Herman's Hermits
+No Milk Today	Herman´s Hermits
 Country Roads	Hermes House Band
-Country Roads [VIDEO]	Hermes House Band
 I Will Survive	Hermes House Band
 Those Were The Days (J and R)	Hermes House Band
 Those Were The Days (Sally)	Hermes House Band
 Theme	Hero Turtles
 Diggi-Loo Diggi-Ley	Herreys
-Big Blue Wave	Hey Ocean!
-Bop to the Top	High School Musical
-Breaking Free	High School Musical
 Breaking Free (Duett)	High School Musical
 Start of Something New [VIDEO]	High School Musical
-What I've Been Looking For [VIDEO]	High School Musical
-When There Was Me And You	High School Musical
-Beat of my heart	Hilary Duff
 Come clean	Hilary Duff
-Fly	Hilary Duff
 Wake Up	Hilary Duff
-Why not	Hilary Duff
-So Yesterday	Hillary Duff
 Join me	Him
-Lips Of An Angel	Hinder
 Cha-la head-cha-la	Hironobu Kageyama
 Cha-la head-cha-la (TV)	Hironobu Kageyama
 Cha-la head-cha-la Konata Mix	Hironobu Kageyama, Konata
-Please Don't Stop That Bass	Hirosashii
 Celebrity Skin	Hole
 Words dont come easy	Hollies
 Kiss Kiss [VIDEO]	Holly Valance
 Lo Noto	Hombres G
-Out of control	Hoobastank
 The Reason	Hoobastank
 Deine Spuren im Sand	Howard Carpendale
 Hello Again	Howard Carpendale
@@ -1958,7 +1791,7 @@ Ti amo	Howard Carpendale
 Tur An Tur Mit Alice	Howard Carpendale
 Sternenhimmel	Hubert Kah
 Brenna Tuats Guat	Hubert Von Goisern
-Hip to be Square	Huey Lewis & the News
+Koa Hiatamadl	Hubert von Goisern & Die Alpinkatzen
 PoP! Goes My Heart	Hugh Grant
 Jungen Mädchen	Hund Am Strand
 Hey Kölle!	Höhner
@@ -1967,9 +1800,6 @@ Schenk mir dein Herz	Höhner
 Viva Colonia	Höhner
 Viva Colonia (Da Simmer Dabei, Dat Is Prima!)	Höhner
 Wenn Nicht Jetzt, Wann Dann (Weltmeister Version)	Höhner
-Need You Tonight [VIDEO]	INXS
-Never Tear Us Apart [VIDEO]	INXS
-New Sensation [VIDEO]	INXS
 Der Knutschfleck	IXI
 Umarme Mich	Ich
 Du Erinnerst Mich An Liebe [VIDEO]	Ich & Ich
@@ -1982,24 +1812,19 @@ Vom Selben Stern	Ich Und Ich
 Vom Selben Stern [VIDEO]	Ich&Ich
 I Say Yes (TV)	Ichiko
 Ill Be There For You (TV)	Ichiko
-Spin That Record, Vinyl Scratch	Icky
 I Love It	Icona Pop
-Let It Go	Idina Menzel
 Real Wild Child (Wild One)	Iggy Pop
 Real Wild One	Iggy Pop
 Blue bird	Ikimono gakari
-Just An Illusion [VIDEO]	Imagination
 Küss Mich	In Extremo
 Vollmond	In Extremo
-Cloud Connected [VIDEO]	In Flames
-Come Clarity [VIDEO]	In Flames
+Cloud connected	In Flames
 Metaphor	In Flames
 Drive	Incubus
-I Miss You	Incubus
 Ikuinen Virta	Indica
 Bad Boys	Inner Circle
 Sweat (A la la la la long)	Inner Circle
-Good Life [VIDEO]	Inner City
+Good Life	Inner City
 Hikari	Inukami
 Be Quick or Be Dead	Iron Maiden
 Fear Of The Dark	Iron Maiden
@@ -2021,15 +1846,12 @@ Pardon	Ja, Panik
 Sitting, Waiting, Wishing	Jack Johnson
 Upside Down	Jack Johnson
 No Matter	Jack Radics
-No Matter [VIDEO]	Jack Radics
 Reet Petite	Jackie Wilson
-Reet Petite [VIDEO]	Jackie Wilson
 ABC (Jackson 5)	Jackson 5
 ABC (Michael)	Jackson 5
 Wen Bie [VIDEO]	Jacky Cheung
 Fiumi di parole	Jalisse
 Beware of the Dog	Jamelia
-Beware of the Dog [VIDEO]	Jamelia
 Stop	Jamelia
 Stop [VIDEO]	Jamelia
 Superstar	Jamelia
@@ -2049,7 +1871,7 @@ Unbreakable	James Cottriall
 You Give Me Something	James Morrison
 You Give Me Something [VIDEO]	James Morrison
 Broken Strings [VIDEO]	James Morrison feat. Nelly Furtado
-Alright [VIDEO]	Jamiroquai
+Alright	Jamiroquai
 Cosmic Girl	Jamiroquai
 Cosmic Girl [VIDEO]	Jamiroquai
 Deeper Underground	Jamiroquai
@@ -2065,7 +1887,7 @@ Yin Yang	Jarabe de Palo
 Whatcha Say	Jason DeRulo
 In My Head	Jason Derulo
 I'm Yours	Jason Mraz
-Real Things [VIDEO]	Javine
+Real Things	Javine
 Bu Neng Shuo De Mi Mi [VIDEO]	Jay Chou
 Cai Hong	Jay Chou
 Ju hua tai [VIDEO]	Jay Chou
@@ -2077,12 +1899,8 @@ Ting Ma Ma De Hua [VIDEO]	Jay Chou
 San Hu Hai ( [VIDEO])	Jay Chou & Lara
 San Hu Hai (Jay Chou)	Jay Chou & Lara
 Empire state of mind	Jay-Z feat. Alicia Keys
-Empire State Of Mind	Jay-Z ft. Alicia Keys
 Young Forever	Jay-Z ft. Mr. Hudson
-Eyes On You [VIDEO]	JaySean ft. The Rishi Rich Project
 Fat Angel	Jefferson Airplane
-Want It Need It	Jeffthestrider
-Want It Need It (Instrumental)	Jeffthestrider
 Ain't it funny	Jennifer Lopez
 If You Had My Love	Jennifer Lopez
 Jenny From The Block	Jennifer Lopez
@@ -2091,7 +1909,6 @@ Let's Get Loud	Jennifer Lopez
 Goin' In	Jennifer Lopez & Flo Rida
 I'm Into You	Jennifer Lopez ft. Lil Wayne
 Beautiful Lie (Duett)	Jennifer Paige & Nick Carter
-Feuer	Jennifer Rostock
 The Power Of Love	Jennifer Rush
 When The Rain Begins To Fall	Jermaine Jackson & Pia Zadora
 Star Trek Deep Space Nine Main Theme (Season 4+)	Jerry Goldsmith
@@ -2106,24 +1923,19 @@ Are You Gonna Be My Girl	Jet
 Stronger Woman	Jewel
 Crazy In Love	Jill Johnson
 Bleed American	Jimmy Eat World
-Let It Happen	Jimmy Eat World
 Pain	Jimmy Eat World
 The Middle	Jimmy Eat World
 What Becomes Of The Broken Hearted	Jimmy Ruffin
 Leave (Get Out)	JoJo
 Leave (Get Out) [VIDEO]	JoJo
 Goldener Reiter	Joachim Witt
-Swing Tavi Swing	Joaftheloaf
-Swing Tavi Swing (Instrumental)	Joaftheloaf
 Drop The Pilot	Joan Armatrading
-I love Rock'n Roll [VIDEO]	Joan Jett
+I love Rock´n Roll	Joan Jett
 One Of Us	Joan Osborne
 Summer In The City	Joe Cocker
 Summer In The City [VIDEO]	Joe Cocker
 Up Where We Belong	Joe Cocker & Jennifer Warnes
 Das bisschen Haushalt	Johanna von Koczian
-Let's Go And Meet The Bronies	John De Lancie, Tara Strong
-Take Me Home Country Roads	John Denver
 You're The Voice	John Farnham
 Judy in disguise	John Fred & His Playboy Band
 Happy Xmas	John Lennon
@@ -2141,8 +1953,8 @@ Ai Qing 36 Ji [VIDEO]	Jolin Tsai
 Kuai You Ai [VIDEO]	Jolin Tsai
 Rewind [VIDEO]	Jolin Tsai
 This is Love [VIDEO]	Jolin Tsai
+Just Another Day	Jon Secada
 Just Another Day (Without You)	Jon Secada
-Just Another Day [VIDEO]	Jon Secada
 S.O.S.	Jonas Brothers
 A Talk with George	Jonathan Coulton
 Better	Jonathan Coulton
@@ -2185,7 +1997,6 @@ Was Auch Immer	Joy Denalane
 A Dios Le Pido	Juanes
 La Camisa Negra	Juanes
 You've Got Another Thing Comin'	Judas Priest
-You've Got Another Thing Comin' [VIDEO]	Judas Priest
 Amazing Grace	Judy Collins
 Angel Of The Morning	Juice Newton
 Dieses Leben	Juli
@@ -2219,11 +2030,11 @@ Der Berg Ruft	K2
 All my life	KC & JoJo
 I Was Made For Loving You	KISS
 I Was Made For Loving You (Karaoke)	KISS
+Nothin' to lose	KISS
 Black Horse And The Cherry Tree	KT Tunstall
 Black Horse And The Cherry Tree [VIDEO]	KT Tunstall
 Suddenly I See	KT Tunstall
 I Predict A Riot	Kaiser Chiefs
-I Predict A Riot [VIDEO]	Kaiser Chiefs
 Na Na Na Na Naa [VIDEO]	Kaiser Chiefs
 Ruby (Karaoke) [VIDEO]	Kaiser Chiefs
 Ruby [VIDEO]	Kaiser Chiefs
@@ -2234,16 +2045,14 @@ Carry On Wayward Son	Kansas
 Dangerous	Kardinal Offishall feat. Akon
 Die Biene Maja	Karel Gott
 Club Foot	Kasabian
-Club Foot [VIDEO]	Kasabian
 Unstoppable [VIDEO]	Kat DeLuna feat. Lil Wayne
 Calling You	Kat Deluna
 Run The Show (ft. Shaka Dee) [VIDEO]	Kat Deluna
 Whine Up (ft. Elephant Man) [VIDEO]	Kat Deluna
 Running Up That Hill	Kate Bush
-Running Up That Hill [VIDEO]	Kate Bush
 Don't Give Up	Kate Bush & Peter Gabriel
 Don't Give Up (Duett)	Kate Bush & Peter Gabriel
-Ella Elle l'a [VIDEO]	Kate Ryan
+Ella Elle l´a [VIDEO]	Kate Ryan
 Nine Million Bicycles [VIDEO]	Katie Melua
 Walking On Sunshine	Katrina And The Waves
 Walking On Sunshine [VIDEO]	Katrina And The Waves
@@ -2265,7 +2074,6 @@ Somwhere Only We Know [VIDEO]	Keane
 Days Go By	Keith Urban
 Trick Me	Kelis
 Red High Heels	Kellie Pickler
-A Moment Like This [VIDEO]	Kelly Clarkson
 Beautiful Disaster	Kelly Clarkson
 Because of you [VIDEO]	Kelly Clarkson
 Behind These Hazel Eyes [VIDEO]	Kelly Clarkson
@@ -2292,7 +2100,7 @@ Dancing With Tears In My Eyes	Kesha
 Hungover	Kesha
 Kiss N Tell	Kesha
 Mr. Watson	Kesha
-Party At A Rich Dude's House	Kesha
+Party At A Rich Dude´s House	Kesha
 Radio Radio Radio	Kesha
 Stephen	Kesha
 V.I.P.	Kesha
@@ -2300,25 +2108,22 @@ Tú volverás	Ketama
 Let It Rock (Feat. Lil Wayne) [VIDEO]	Kevin Rudolf
 Pursuit Of Happiness (Steve Aoki Remix)	Kid Cudi feat. MGMT & Ratatat
 Erase Me	Kid Cudi ft. Kanye West
-Day 'n' Nite [VIDEO]	Kid Cudi vs. Crookers
+Day `n´ Nite [VIDEO]	Kid Cudi vs. Crookers
 All Summer Long	Kid Rock
 Born Free	Kid Rock
 Bra Vibrationer	Kikki Danielsson
-Vem é Dé Du Vill Ha	Kikki, Bettan och Lotta
+Vem È Dé Du Vill Ha	Kikki, Bettan och Lotta
 Ich Kann Auch Ohne Dich	Killerpilze
 Liebmichhassmich	Killerpilze
-I Am [VIDEO]	Killing Heidi
 Bette Davis Eyes	Kim Carnes
 Lara	Kim Frank
 Cambodia	Kim Wilde
 Kids In America	Kim Wilde
-Kids In America [VIDEO]	Kim Wilde
-You Keep Me Hangin' On	Kim Wilde
+You Keep Me Hangin On	Kim Wilde
 In The Air Tonight	Kine
 Love And Pride	King
 Sex On Fire	Kings Of Leon
 The Bucket	Kings Of Leon
-The Bucket [VIDEO]	Kings Of Leon
 Use Somebody [VIDEO]	Kings of Leon
 Tom Dooley	Kingston Trio
 Nothin' To Lose	Kiss
@@ -2329,7 +2134,6 @@ Da steht ein Pferd auf'm Flur	Klaus & Klaus
 Faust auf Faust	Klaus Lage
 Jezu jak siê cieszê	Klaus Mitffoch
 It's Not Over Yet	Klaxons
-It's Not Over Yet [VIDEO]	Klaxons
 Anti Country Song	Kleines Arschloch
 Femme Like You	Kmaro
 Alter Mann	Knorkator
@@ -2346,14 +2150,12 @@ Got the life	Korn
 Mädchen Mädchen	Krümel
 Zieh Dich Aus Wir Müssen Reden	Krümel
 PONPONPON	Kyary Pamyu Pamyu
-2 Hearts	Kylie Minogue
-Can't Get You Out Of My Head [VIDEO]	Kylie Minogue
+Can't Get You Out Of My Head	Kylie Minogue
 I Should Be So Lucky	Kylie Minogue
 In Your Eyes	Kylie Minogue
-Slow	Kylie Minogue
 Chaque Seconde	Kyo
 Demon Cleaner	Kyuss
-Der ewige Kreis	König der Löwen
+Der ewige Kreis	Köenig der Löwen
 Ich will jetzt gleich König Sein	König der Löwen
 Blurry Eyes	L'Arc~en~Ciel
 Blurry Eyes (karaoke)	L'Arc~en~Ciel
@@ -2361,7 +2163,6 @@ Ready Steady Go	L'arc en Ciel
 Une Etincelle	L5
 Party Rock Anthem	LMFAO ft. Lauren Bennett & Goon Rock
 Be My Lover	La Bouche
-Muffinproof	La Hooves
 20 De Enero	La Oreja de Van Gogh
 Puedes Contar Conmigo	La Oreja de Van Gogh
 Bulletproof [VIDEO]	La Roux
@@ -2371,7 +2172,7 @@ Phantom Of The Opera	Lacrimosa
 Enjoy The Silence	Lacuna Coil
 He's A Tramp	Lady & The Tramp
 Love Don't Live Here	Lady Antebellum
-Alejandro (Don't Call My Name)	Lady GaGa
+Alejandro (Don´t Call My Name)	Lady GaGa
 Applause	Lady GaGa
 Bad Romance	Lady GaGa
 Beautiful dirty rich	Lady GaGa
@@ -2394,7 +2195,7 @@ Teeth	Lady GaGa
 The Fame	Lady GaGa
 Vanity	Lady GaGa
 Telephone	Lady GaGa feat. Beyonce
-Just Dance	Lady GaGa feat. Colby O'Donis
+Just Dance	Lady GaGa feat. Colby O´Donis
 Christmas tree	Lady GaGa feat. Space Cowboy
 Bad Romance	Lady Gaga
 Dance In The Dark	Lady Gaga
@@ -2435,7 +2236,6 @@ Can't Fight The Moonlight	LeAnn Rimes
 Can't Fight The Moonlight [VIDEO]	LeAnn Rimes
 She Ain't Got	LeToya
 I'd give my Life for You	Lea Salonga
-Black Dog	Led Zeppelin
 Stairway to Heaven	Led Zeppelin
 Battle Hymn of The Republic	Lee Greenwood
 God Bless The USA	Lee Greenwood
@@ -2445,10 +2245,8 @@ The Wind Beneath My Wings	Lee Greenwood
 Unknown Stuntman	Lee Majors
 50-50	Lemar
 50-50 (Karaoke)	Lemar
-50-50 (Karaoke) [VIDEO]	Lemar
-50-50 [VIDEO]	Lemar
+50/50	Lemar
 It's Not That Easy	Lemar
-It's Not That Easy [VIDEO]	Lemar
 Steal My Sunshine [VIDEO]	Len
 Satellite	Lena Meyer-Landrut
 Dansa I Neon	Lena Philipsson
@@ -2458,8 +2256,8 @@ Are You Gonna Go My Way [VIDEO]	Lenny Kravitz
 Fly Away [VIDEO]	Lenny Kravitz
 I'll Be Waiting [VIDEO]	Lenny Kravitz
 All by myself	Leona Lewis
-Better in Time [VIDEO]	Leona Lewis
-Bleeding Love [VIDEO]	Leona Lewis
+Better in Time	Leona Lewis
+Bleeding Love	Leona Lewis
 Chiquitita	Leona Lewis
 Footprints in the sand [VIDEO]	Leona Lewis
 Forgive me [VIDEO]	Leona Lewis
@@ -2468,16 +2266,11 @@ Run [VIDEO]	Leona Lewis
 Chelsea Hotel Nr2	Leonard Cohen
 Ich hab geträumt vor langer Zeit	Les Misérables
 I dreamed a dream	Les miserables 10th anniversary
-All My Best Friends Are Metalheads	Less Than Jake
 Der Ganze Bus Muss Pipi	Libero 5
 Just A Little	Liberty X
 Just a Little	Liberty X
 Just a Little (Karaoke)	Liberty X
-Just a Little (Karaoke) [VIDEO]	Liberty X
-Just a Little [VIDEO]	Liberty X
 First Time	Lifehouse
-Somewhere In Between	Lifehouse
-You and Me	Lifehouse
 Hai Un Momento Dio	Ligabue
 Ho Perso Le Parole	Ligabue
 Ho messo via	Ligabue
@@ -2510,7 +2303,6 @@ Jag Ljuger Så Bra	Linda Bengtzing
 Blue Bayou	Linda Ronstadt
 A Place For My Head	Linkin Park
 Bleed It Out	Linkin Park
-Breaking The Habit	Linkin Park
 Breaking The Habit [VIDEO]	Linkin Park
 Castle Of Glass	Linkin Park
 Crawling [VIDEO]	Linkin Park
@@ -2539,9 +2331,8 @@ My Destiny	Lionel Richie
 Say You, Say Me	Lionel Richie
 Funky Town	Lipps Inc
 Narcotic [VIDEO]	Liquido
+Stay	Lisa Loeb
 Stay (I Missed You)	Lisa Loeb
-Stay [VIDEO]	Lisa Loeb
-Union Strike Folk Song	Lisa Simpson
 All Around The World	Lisa Stansfield
 Tex	Litfiba
 Vivere il mio tempo	Litfiba
@@ -2552,17 +2343,15 @@ Skid Row (Downtown)	Little Shop Of Horrors
 Bada bambina	Little Tony
 Kanashimi wo yasashisa ni	Little by little
 Kimi monogatari	Little by little
-Wolf-i-fied	Littlest Pet Shop
 Get It Shawty	Lloyd
 Id Love You To Want Me	Lobo
 Seemann, Deine Heimat Ist Das Meer	Lolita
 Wenn Du Denkst Du Denkst	Lollies
 Amazed	Lone Star
-Amazed [VIDEO]	Lone Star
 Amazed	Lonestar
 Vamos A La Playa	Loona
 Royals	Lorde
-Hard Rock Hallelujah [VIDEO]	Lordi
+Hard Rock Hallelujah	Lordi
 Il Mare d'Inverno	Loredana Berte'
 Euphoria	Loreen
 La notte vola	Lorella Cuccarini
@@ -2575,22 +2364,20 @@ Hamburg meine Perle	Lotto King Karl
 Mambo No. 5	Lou Bega
 Mambo No. 5 [VIDEO]	Lou Bega
 What A Wonderful World	Louis Armstrong
-The Ancient Forest of Elves [VIDEO]	Luca Turilli
 Mädchen	Lucilectric
 7 e 40	Lucio Battisti
 La Canzone del Sole	Lucio Battisti
 Una donna per amico	Lucio Battisti
 Attenti Al Lupo	Lucio Dalla
 Zeit Für Helden	Luka Neuser
-Untouchable [VIDEO]	Luna Halo
 50 Special	Luna Pop
 Se ci sarai	Lunapop
 Lupin	Lupin
-Never Too Much [VIDEO]	Luther Vandross
+Never Too Much	Luther Vandross
 Super Sommer	Luttenberger-Klug
 Schafft die Männer 'ran	Lyn Liechty
 Sweet Home Alabama	Lynyrd Skynyrd
-Moving On Up [VIDEO]	M People
+Movin' On Up	M People
 Carolina	M-Clan
 Movin' On Up	M-People
 Don't Say You Love Me	M2M
@@ -2598,45 +2385,38 @@ Mirror, Mirror	M2M
 U Can't Touch This	MC Hammer
 Kids	MGMT
 Zirkus	MIA.
-The Night Armies	M_Pallante
 Kocham Ciê, Kochanie Moje	Maanam
 Can't Hold Us	Macklemore & Ryan Lewis feat. Ray Dalton
-And We Danced	Macklemore & Ryan Lewis ft. Ray Dalton
 Goleta	Mad Caddies
 Monkeys	Mad Caddies
 Road Rash	Mad Caddies
-Beggin'	Madcon
+BegginÂ´	Madcon
 Freaky Like Me	Madcon feat. Ameerah
 Freaky Like Me (Duett)	Madcon feat. Ameerah
 House Of Fun	Madness
-House Of Fun [VIDEO]	Madness
 Our House	Madness
-Our House [VIDEO]	Madness
 American Pie	Madonna
 Burning Up	Madonna
-Don't Cry For Me Argentina [Miami Mix] [VIDEO]	Madonna
-Don't Cry For Me Argentina [VIDEO]	Madonna
+Don't Cry For Me Argentina	Madonna
 Don't Tell Me	Madonna
-Drowned World (Substitute for Love)	Madonna
+Drowned World (Substitute For Love)	Madonna
 Fever	Madonna
-Frozen [VIDEO]	Madonna
+Frozen	Madonna
 Get Into The Groove	Madonna
-Get Into The Groove [VIDEO]	Madonna
 Give It To Me	Madonna
 High Flying, Adored	Madonna
 Holiday	Madonna
 Hollywood	Madonna
-Hung up [VIDEO]	Madonna
-La Isla Bonita [VIDEO]	Madonna
-Like A Prayer [VIDEO]	Madonna
+Hung up	Madonna
+La Isla Bonita	Madonna
+Like A Prayer	Madonna
+Like A Virgin	Madonna
 Like a Virgin	Madonna
 Like a Virgin (Karaoke)	Madonna
-Like a Virgin [VIDEO]	Madonna
 Material Girl	Madonna
-Material Girl [VIDEO]	Madonna
 Papa Don't Preach	Madonna
 Sorry	Madonna
-Take A Bow [VIDEO]	Madonna
+Take A Bow	Madonna
 4 Minutes	Madonna feat. Justin Timberlake
 4 Minutes [VIDEO]	Madonna feat. Justin Timberlake
 You're Not Alone	Mads Langer
@@ -2644,15 +2424,9 @@ Du Schreibst Geschichte	Madsen
 Vielleicht	Madsen
 Imiê Deszczu	Mafia
 För Kung Och Fosterland	Magnus Uggla
-A ja wolę moją mamę	Majka Jeżowska
-Make Your Own Kind Of Music	Mama Cass Elliot
+A ja wolê moj¹ mamê	Majka Je¿owska
 Dance With Somebody [VIDEO]	Mando Diao
 Down In The Past	Mando Diao
-I Live Forever	MandoPony
-I Live Forever (Instrumental)	MandoPony
-My Fluttershy	MandoPony
-Picture Perfect Pony	MandoPony, EileMonty
-Candy	Mandy Moore
 I Wanna Be With You	Mandy Moore
 Only Hope	Mandy Moore
 Do Wah Diddy Diddy	Manfred Mann
@@ -2665,7 +2439,6 @@ Something's Gotten Hold Of My Heart (Gene)	Marc Almond feat. Gene Pitney
 Something's Gotten Hold Of My Heart (Marc)	Marc Almond feat. Gene Pitney
 Engel aus Kristall	Marc Clear
 Walking In Memphis	Marc Cohn
-Walking In Memphis [VIDEO]	Marc Cohn
 Nell'aria	Marcella Bella
 Herzfest	Marco Bandero
 Vaffanculo	Marco Masini
@@ -2679,13 +2452,12 @@ Obsessed	Mariah Carey
 We belong together	Mariah Carey
 Without You	Mariah Carey
 When You Believe	Mariah Carey & Whitney Houston
-Er gehört zu mir	Marianne Rosenberg
+Er gehoert zu mir	Marianne Rosenberg
 Er gehört zu mir [VIDEO]	Marianne Rosenberg
 Marleen	Marianne Rosenberg
 ErGehortZuMir	MarianneRosenberg
 Fire And Ice	Marietta
 Kayleigh	Marillion
-Kayleigh [VIDEO]	Marillion
 Personal Jesus [VIDEO]	Marilyn Manson
 Tainted Love	Marilyn Manson
 This Is The New Shit	Marilyn Manson
@@ -2703,7 +2475,7 @@ Sailing to Philadelphia	Mark Knopfler
 Mamacita	Mark Medlock
 Real love	Mark Medlock
 You can get it	Mark Medlock & Dieter Bohlen
-Stop Me [VIDEO]	Mark Ronson
+Stop Me	Mark Ronson
 Valerie [VIDEO]	Mark Ronson feat. Amy Winehouse
 Värsta Schlagern	Markoolio Och Linda Bengtzing
 Ich will Spaß	Markus
@@ -2712,14 +2484,13 @@ Die Bunte Kuh	Markus Becker
 10 Meter gehn	Markus Becker & Almklausi
 Ich bin von Kopf bis Fuß auf Liebe eingestellt	Marlene Dietrich
 New Age	Marlon Roudette
-Love Somebody	Maroon 5
 Makes Me Wonder	Maroon 5
 Makes Me Wonder [VIDEO]	Maroon 5
 She Will Be Loved [VIDEO]	Maroon 5
 Sunday Morning	Maroon 5
 This Love [VIDEO]	Maroon 5
 Wake Up Call	Maroon 5
-Won't go home without you	Maroon 5
+Won´t go home without you	Maroon 5
 Moves Like Jagger	Maroon 5 ft. Christina Aguilera
 If I Never See Your Face Again [VIDEO]	Maroon 5 ft. Rihanna
 This Love	Maroon5
@@ -2728,9 +2499,8 @@ Desesperada	Marta Sánchez
 Lila Wolken	Marteria ft. Yasha & Miss Platnum
 Jimmy Mack	Martha Reeves & The Vandellas
 Nowhere To Run	Martha Reeves & The Vandellas
-Dancing In The Street [VIDEO]	Martha Reeves And The Vandellas
+Dancing In The Street	Martha Reeves And The Vandellas
 Angel Of Berlin	Martin Kesici
-Angel Of Berlin [VIDEO]	Martin Kesici
 Las Vegas	Martin Stenmarck
 A Broken Wing	Martina McBride
 Over The Rainbow	Marusha
@@ -2745,10 +2515,7 @@ Ain't No Mountain High Enough [VIDEO]	Marvin Gaye And Tammii Tarrelle
 Pinocchio	Mary Roos
 My Guy	Mary Wells
 Rush the floor	Massari feat. Belly
-Bed of Lies	Matchbox Twenty
-Bright Lights	Matchbox Twenty
 How Far We've Come	Matchbox Twenty
-Mad Season	Matchbox Twenty
 Big City Life [VIDEO]	Mattafix
 Break My Stride	Matthew Wilder
 Ich hab' geträumt von dir (Remastered)	Matthias Reim
@@ -2761,12 +2528,12 @@ Mezzo pieno o Mezzo vuoto	Max Pezzali
 Kein Schwein ruft mich an	Max Raabe
 Rain In May	Max Werner
 Close To You	Maxi Priest
-Apply Some Pressure [VIDEO]	Maxïmo Park
+Apply Some Pressure	Maximo Park
+Apply Some Pressure	Maxïmo Park
 Hautnah	Maya Saban
 Das Alles Ändert Nichts Daran	Maya Saban Feat. Cosmo Klein
 Hang on Sloopy	McCoys
 Obviously	McFly
-Obviously [VIDEO]	McFly
 All my lovin'	Me First & the Gimme Gimmes
 Ain't No Sunshine	Me First And The Gimme Gimmes
 Mandy	Me First And The Gimme Gimmes
@@ -2779,9 +2546,6 @@ Two Out Of Three Ain't Bad	Meat Loaf
 I'd Do Anything for Love (But I Won't Do That)	Meatloaf
 Perdido en mi habitacion	Mecano
 You And I	Medina
-Song For Twilight	Meelz
-Twilight Sparkle, You're My Reason to Live	Meelz
-Twilight Sparkle, You're My Reason to Live (Instrumental)	Meelz
 Almost honest	Megadeth
 Anarchy in the UK	Megadeth
 Hangar 18	Megadeth
@@ -2790,26 +2554,18 @@ Symphony of destruction	Megadeth
 Tornado of souls	Megadeth
 Wake up Dead	Megadeth
 À tout le monde	Megadeth feat. Cristina Scabbia
-Lächle	Mein kleines Pony
-Winter Ade Tag	Mein kleines Pony
-Grinse wenn's Dich gruselt	Mein kleines Pony
 Respectable	Mel And Kim
-Respectable [VIDEO]	Mel And Kim
-First Day Of My Life [VIDEO]	Melanie C
-I Turn To You [VIDEO]	Melanie C
 Never Be The Same Again	Melanie C
+First Day Of My Life	Melanie C.
 Love How You Love Me	Melanie Thornton
 Con la Luna llena	Melendi
 Like The Way I Do	Melissa Etheridge
 Was Geht Ab Mit Der Liebe	Mellow Mark
-Down Under [VIDEO]	Men At Work
+Down Under	Men At Work
 Who Can It Be Now	Men At Work
-Who Can It Be Now [VIDEO]	Men At Work
 Don't Believe	Menowin Fröhlich
 Bitch	Meredith Brooks
-Live Again (Trixie's Ballad)	Metajoker, FraGmenTd
-Live Again (Trixie's Ballad) (Instrumental)	Metajoker, FraGmenTd
-Ain't my bitch	Metallica
+Ain´t my bitch	Metallica
 And justice for all	Metallica
 Battery	Metallica
 Blackened	Metallica
@@ -2847,10 +2603,8 @@ Whiskey in the jar	Metallica
 Enter Sandman	Metallica & Symphony
 Nothing Else Matters	Metallica & Symphony
 Shake It	Metro Station
-Seré Muy Popular	Mi Pequeño Pony
 Tanz Der Moleküle	Mia
 Tanz Der Moleküle [VIDEO]	Mia
-Beyond Her Tomb	Mic the Microphone
 Mad World	Michael Andrews Feat. Gary Jules
 Mad World [VIDEO]	Michael Andrews Feat. Gary Jules
 Home [VIDEO]	Michael Bublé
@@ -2898,8 +2652,6 @@ Blinded by the light	Michael Mind feat. Manfred Mann's Earth Band
 Nina	Michael Wendler
 Sie Liebt Den DJ	Michael Wendler
 Tong Hua [VIDEO]	Michael Wong
-I Need That	Micheal Arellano (ft. DerpyGrooves)
-I Need That (Instrumental)	Micheal Arellano (ft. DerpyGrooves)
 Les lac du connemara	Michel Sardou
 Ai Se Eu Te Pego	Michel Teló
 Cinque giorni	Michele Zarrillo
@@ -2907,7 +2659,6 @@ Kinderaugen	Michelle
 Wer Liebe lebt	Michelle
 Wirst du noch da sein	Michelle
 Breathe	Michelle Branch
-Breathe [VIDEO]	Michelle Branch
 The Greatest	Michelle Williams
 Thriller	Mickael Jackson
 Düp düp	Mickie Krause
@@ -2922,7 +2673,6 @@ Zieh dich aus kleine Maus	Mickie Krause
 Wir ham St. Anton überlebt	Mickie Krause ft. Jürgen
 Chirpy Chirpy Cheep Cheep	Middle of the Road
 Beds Are Burning [VIDEO]	Midnight Oil
-Hint of Red	Midwives of Discord ft. Zeeraw
 Amante bandido	Miguel Bosé
 Bienvenidos	Miguel Ríos
 Big Girl You Are Beautiful	Mika
@@ -2943,8 +2693,7 @@ TV Theme	Mila Superstar
 Nobody's perfect	Miley Cyrus
 Seven Things	Miley Cyrus
 Who Owns My Heart	Miley Cyrus
-Love Is In The Air	Milk And Sugar
-Livin' a lie [VIDEO]	Milk Inc.
+Livin' a lie	Milk Inc.
 No Cigar	Millencolin
 Girl You Know It's True	Milli Vanilli
 Ayo Technology	Milow
@@ -2954,11 +2703,8 @@ Brivido felino	Mina e Celentano
 Kerosene	Miranda Lambert
 Scandalous	Mis-Teeq
 Scandalous (Karaoke)	Mis-Teeq
-This Day Aria - Literal Version	MissBunnySwan
-Scar [VIDEO]	Missy Higgins
 Scandalous (Karaoke) [VIDEO]	Misteeq
 Scandalous [VIDEO]	Misteeq
-Fluttershys (20% Cooler)	Mithent, ilysabeth
 Eins, zwei, Polizei	Mo-Do
 Beautiful	Moby
 Lift me up	Moby
@@ -2983,7 +2729,6 @@ Ace of Spades	Motorhead
 Ace of Spades (Karaoke)	Motorhead
 Ace of Spades	Motörhead
 Come What May (CD-Version)	Moulin Rouge
-Elephant Love Medley	Moulin Rouge
 Lady Marmalade (Christina ft. Mya, Pink & Lil Kim)	Moulin Rouge
 The Show Must Go On (CD-Version)	Moulin Rouge
 The Show Must Go On (Movie-Version)	Moulin Rouge
@@ -2992,11 +2737,11 @@ Herr Rossi Sucht Das Glück	Moulinettes
 To Be With You	Mr Big
 Broken Wings	Mr Mister
 Kyrie	Mr Mister
-To Be With You [VIDEO]	Mr. Big
+To Be With You	Mr. Big
 Broken Wings	Mr. Mister
-Broken Wings (Karaoke) [VIDEO]	Mr. Mister
-Broken Wings [VIDEO]	Mr. Mister
-Kyrie [VIDEO]	Mr. Mister
+Kyrie	Mr. Mister
+Broken Wings	Mr.Mister
+Broken Wings (Kar)	Mr.Mister
 I'll Make A Man Out Of You	Mulan
 Germans	Mundstuhl
 In The Summertime	Mungo Jerry
@@ -3009,89 +2754,28 @@ Starlight	Muse
 Survival	Muse
 Survival [Album Version]	Muse
 Survival [KAR]	Muse
-Time Is Running Out [VIDEO]	Muse
+Time Is Running Out	Muse
 Undisclosed Desires	Muse
-Unintended	Muse
 Uprising	Muse
 Hymn	Music Instructor
 Helena	My Chemical Romance
-I'm Not Okay (I Promise)	My Chemical Romance
 Welcome To The Black Parade	My Chemical Romance
-99 Buckets of Oats	My Little Pony
-99 Buckets of Oats (Instrumental)	My Little Pony
-A True, True Friend	My Little Pony
-A True, True Friend (Instrumental)	My Little Pony
 Art of the Dress	My Little Pony
-Art of the Dress (Instrumental)	My Little Pony
-At The Gala	My Little Pony
-At The Gala (Instrumental)	My Little Pony
 At the Gala	My Little Pony
-Babs Seed	My Little Pony
-Babs Seed (Instrumental)	My Little Pony
-Ballad of the Crystal Empire	My Little Pony
-Ballad of the Crystal Empire (Instrumental)	My Little Pony
-Becoming Popular	My Little Pony
-Becoming Popular (Instrumental)	My Little Pony
-Behold, Princess Twilight Sparkle	My Little Pony
-Behold, Princess Twilight Sparkle (Instrumental)	My Little Pony
 Big Brother Best Friend Forever	My Little Pony
-Big Brother Best Friend Forever (Instrumental)	My Little Pony
-Celestia's Ballad	My Little Pony
-Celestia's Ballad (Instrumental)	My Little Pony
-Cupcakes	My Little Pony
-Cupcakes (Instrumental)	My Little Pony
-Evil Enchantress	My Little Pony
-Evil Enchantress (Flutterguy)	My Little Pony
-Evil Enchantress (Flutterguy) (Inst)	My Little Pony
-Evil Enchantress (Instrumental)	My Little Pony
-Failure/ Success	My Little Pony
-Failure/ Success (Instrumental)	My Little Pony
 Find a Pet	My Little Pony
 Giggle at The Ghostly	My Little Pony
-Giggle at the Ghostly	My Little Pony
-Giggle at the Ghostly (Instrumental)	My Little Pony
 Hush Now Quiet Now	My Little Pony
-Hush Now Quiet Now (Instrumental)	My Little Pony
-I've got to find a way	My Little Pony
-I've got to find a way (Instrumental)	My Little Pony
 Love is in Bloom	My Little Pony
-Love is in Bloom (Full version)	My Little Pony
-Love is in Bloom (Instrumental)	My Little Pony
-May The Best Pet Win	My Little Pony
-May The Best Pet Win (Instrumental)	My Little Pony
-Morning in Ponyville / Life in Equestria	My Little Pony
-Morning in Ponyville / Life in Equestria (Instrumental)	My Little Pony
-Pinkie Pie's Singing Telegram	My Little Pony
-Pinkie Pie's Singing Telegram (Instrumental)	My Little Pony
 Pony Pokey	My Little Pony
-Pony Pokey (Instrumental)	My Little Pony
-Raise This Barn	My Little Pony
-Raise This Barn (Instrumental)	My Little Pony
-Smile Smile Smile	My Little Pony
-Smile Smile Smile (Instrumental)	My Little Pony
 So Many Wonders	My Little Pony
-So Many Wonders (Instrumental)	My Little Pony
-The Cutie Mark Crusaders	My Little Pony
-The Cutie Mark Crusaders (Inst)	My Little Pony
-The Heart Carol	My Little Pony
-The Heart Carol (Instrumental)	My Little Pony
 The Perfect Stallion	My Little Pony
-The Perfect Stallion (Instrumental)	My Little Pony
-The Super Speedy Cider Squeezy 6000	My Little Pony
-The Super Speedy Cider Squeezy 6000 (Instrumental)	My Little Pony
 Theme	My Little Pony
 This Day Aria	My Little Pony
-This Day Aria (Instrumental)	My Little Pony
-What My Cutie Mark Is Telling Me	My Little Pony
-What My Cutie Mark Is Telling Me (Instrumental)	My Little Pony
 Winter Wrap Up	My Little Pony
-Winter Wrap Up (Instrumental)	My Little Pony
 You Gotta Share	My Little Pony
-You Gotta Share, You Gotta Care	My Little Pony
-You Gotta Share, You Gotta Care (Instrumental)	My Little Pony
-Becoming Popular	My Little Pony
-Smile Smile Smile	My Little Pony
-Call Upon The Sea Ponies	My Little Pony G1
+ï»¿#TITLE:Becoming Popular	My Little Pony
+ï»¿#TITLE:Smile Smile Smile	My Little Pony
 Teenagers	MyChemicalRomance
 XXL [VIDEO]	Mylène Farmer
 20 Zentimeter	Möhre
@@ -3110,11 +2794,10 @@ These Boot Are Made For Walking	Nancy Sinatra
 Håll Om Mig	Nanne Grönvall
 En El 2000	Natalia Lafourcade
 Torn	Natalie Imbruglia
-Single [VIDEO]	Natasha Bedingfield
+Single	Natasha Bedingfield
 Soulmate	Natasha Bedingfield
 These Words	Natasha Bedingfield
 These Words [VIDEO]	Natasha Bedingfield
-Unwritten [VIDEO]	Natasha Bedingfield
 Je N'ai Que Mon Ame	Natasha St-Pier
 Nos Rendez-vous	Natasha St-Pier
 Un Ange Frappe A Ma Porte	Natasha St-pier
@@ -3126,7 +2809,7 @@ Forever Now	Ne-Yo
 Mad [VIDEO]	Ne-Yo
 Miss Independent [VIDEO]	Ne-Yo
 Sexy Love [VIDEO]	Ne-Yo
-Because Of You	Ne-Yo
+ï»¿#TITLE:Because Of You	Ne-Yo
 Estate	Negramaro
 Solo3min	Negramaro
 Via Le Mani Dagli Occhi	Negramaro
@@ -3175,7 +2858,8 @@ Dan Ni Gu Dan Ni Hui Xiang Qi Shui	Nicholas Teo
 Wang Zi [VIDEO]	Nicholas Teo
 We Are All The Winners	Nick Borgen
 Where The Wild Roses Grow	Nick Cave & The Bad Seeds and Kylie Minogue
-Where The Wild Roses Grow [VIDEO]	Nick Cave and Kylie Minogue
+Where The Wild Roses Grow	Nick Cave And Kylie Minogue
+Where The Wild Roses Grow	Nick Cave and Kylie Minogue
 Far Away	Nickelback
 How You Remind Me	Nickelback
 Rockstar	Nickelback
@@ -3239,7 +2923,7 @@ Someday	No Angels
 There must be an Angel	No Angels
 Don't speak	No Doubt
 Ex-Girlfriend	No Doubt
-It's my life [VIDEO]	No Doubt
+It´s my life [VIDEO]	No Doubt
 Just A Girl	No Doubt
 Spiderwebs	No Doubt
 Sunday Morning	No Doubt
@@ -3250,7 +2934,6 @@ Ring Of Steel	Nocturnal Rites
 Io Vagabondo	Nomadi
 Un Giorno Insieme	Nomadi
 Don't Know Why	Norah Jones
-Don't Know Why [VIDEO]	Norah Jones
 Sunrise [VIDEO]	Norah Jones
 Spirit In The Sky	Norman Greenbaum
 Belle	Notre Dame de Paris
@@ -3279,7 +2962,8 @@ Boykott	Olaf Schubert
 Was Kostet Die Welt	Olesoul
 Flugzeuge Im Bauch	Oli P.
 Schwarz Und Weiss	Oliver Pocher
-Just For Tonight [VIDEO]	One Night Only
+Fly On The Wings Of Love	Olsen Brothers
+Die Legende	One Piece
 Apologize	One Republic
 Stop And Stare [VIDEO]	One Republic
 The Magic Key	One-T & Cool-T
@@ -3289,23 +2973,20 @@ Johnny Walker	Onkel Tom Angelripper
 Augen auf	Oomph
 Brennende Liebe	Oomph! ft. L'ame Immortelle
 Get What You Want	Operator Please
-Get What You Want [VIDEO]	Operator Please
 Windowpane	Opeth
 Live Is Life	Opus
-Live Is Life [VIDEO]	Opus
 Loving You Girl	Opus X
 She's Got That Light (Orange Mix)	Orange Blue
 Bright Idea	Orson
-Bright Idea [VIDEO]	Orson
 Szklana Pogoda	Ostrowska
 Otto-Arschgesicht	Otto
 Im Wagen vor mir	Otto Waalkes
 Wir haben Grund zum Feiern	Otto Waalkes
 Roses	OutKast
+Idlewild Blues (Don't Chu Worry 'Bout Me) [VIDEO]	Outcast
 Roses	Outcast
 Roses [VIDEO]	Outcast
 Hey Ya	Outkast
-Idlewild Blues (Don't Chu Worry 'Bout Me)	Outkast
 Aicha	Outlandish
 Dreamer	Ozzy Osbourne
 I Don't Wanna Stop	Ozzy Osbourne
@@ -3318,20 +2999,24 @@ Ein Graues Haar	PUR
 Hab mich wieder mal an dir betrunken	PUR
 Halt dich fest	PUR
 Eleanor Rigby	Pain
+I Write Sins Not Tragedies	Panic! At The Disco
 Amici come prima	Paola e Chiara
 Vamos a bailar	Paola e Chiara
 Nasz Disneyland	Papa Dance
 Broken Home	Papa Roach
 Last Resort	Papa Roach
 Lifeline	Papa Roach
+Nothing In This World	Paris Hilton
 Stars are Blind	Paris Hilton
 Der Betze Ruft	Party Animals
 Let Her Go	Passenger
 Love Letters In The Sand	Pat Boone
 Born To Be Alive	Patrick Hernandez
 5 Days	Patrick Nuo
-She's Like The Wind [VIDEO]	Patrick Swayze
+She´s Like The Wind [VIDEO]	Patrick Swayze
 Crazy	Patsy Cline
+Crazy [VIDEO]	Patsy Cline
+Lady Marmalade	Patti Labelle
 Dimmi che non vuoi morire	Patty Pravo
 Hey Paula	Paul And Paula
 I'm Just A Lonely Boy	Paul Anka
@@ -3340,13 +3025,16 @@ Stand by me	Paul Anka
 Mull of Kintyre	Paul McCartney
 Say Say Say (Duett)	Paul McCartney & Michael Jackson
 Fillmore Jive	Pavement
-Passing By	Peak Freak
 J'ai des choses a te dire	Pearl
 Alive	Pearl Jam
 Alive [VIDEO]	Pearl Jam
+Better Man	Pearl Jam
 Black	Pearl Jam
+Daughter	Pearl Jam
 Even Flow	Pearl Jam
+Go	Pearl Jam
 Jeremy	Pearl Jam
+Release	Pearl Jam
 Moottoritie On Kuuma	Pelle Miljoona Oy
 Autobiografia	Perfekt
 Always On My Mind	Pet Shop Boys
@@ -3357,6 +3045,7 @@ What Have I Done To Deserve This (Duett)	Pet Shop Boys With Dusty Springfield
 Die Kleine Kneipe	Peter Alexander
 Die süßesten Früchte	Peter Alexander & Leila Negra
 Mysterious Girl	Peter Andre
+Mysterious Girl [VIDEO]	Peter Andre
 Young Folks	Peter Bjorn And John Featuring Victoria Bergsman
 Glory Of Love	Peter Cetera
 Du entschuldige i kenn di	Peter Cornelius
@@ -3369,7 +3058,7 @@ Sonnendeck	Peter Licht
 Nessaja	Peter Maffay
 So bist Du	Peter Maffay
 Und Es War Sommer	Peter Maffay
-Über sieben Brücken musst Du gehn	Peter Maffay
+Über sieben Brücken mußt Du gehn	Peter Maffay
 Flieg Ins Glück	Peter Pan
 Following The Leader	Peter Pan
 Geh'n Wir Auf Den Kriegspfad	Peter Pan
@@ -3389,19 +3078,18 @@ Downtown (Karaoke)	Petula Clark
 Downtown (Karaoke) [VIDEO]	Petula Clark
 Downtown [VIDEO]	Petula Clark
 California	Phantom Planet
+Marilyn Monroe	Pharrell Williams
 Another Day In Paradise [VIDEO]	Phil Collins
 Can't Stop Loving You	Phil Collins
 In The Air Tonight	Phil Collins
-You Can't Hurry Love	Phil Collins
-The Way She Flies	Phileo
-The Way She Flies (Instrumental)	Phileo
+You Can´t Hurry Love	Phil Collins
 Sommerflørt	Philip & Sandra
 Froh dabei zu sein	Philipp Poisel
 Another Day In Paradise	Phill Collins
 Devil Weed	Pi Corp
 Bohemian Rhapsody (Live In Australia)	Pink
 Dear Mr. President	Pink
-Don't let me get me	Pink
+Don´t let me get me	Pink
 Family Portrait [VIDEO]	Pink
 Funhouse [VIDEO]	Pink
 Get This Party Started	Pink
@@ -3423,45 +3111,43 @@ Who Knew [VIDEO]	Pink
 Another Brick In The Wall [VIDEO]	Pink Floyd
 Hey You	Pink Floyd
 Wish You Were Here	Pink Floyd
-This Monster in Me	Pinkie Guy
-This Night of Ours	Pinkie Guy
-This Night of Ours (Instrumental)	Pinkie Guy
-Flutter Wonder	PinkiePieSwear
 Der Pinky und der Brain	Pinky und Brain
 Här kommer Pippi Langstrump	Pippi Langstrump
 Hey Pippi Langstrumpf	Pippi Langstrumpf
+We Are One (Ole Ola)	Pitbull Feat. Jennifer Lopez & Claudia Leitte
 Give Me Everything	Pitbull feat. Ne-Yo
 Hey Baby (Drop It To The Floor)	Pitbull ft. T-Pain
 Every Me And Every You	Placebo
+The Bitter End [VIDEO]	Placebo
 Hey There Delilah	Plain White T's
 Hey There Delilah [VIDEO]	Plain White T's
-1, 2, 3, 4	Plain White T's
+1, 2, 3, 4	Plain White T´s
+Late Goodbye	Poets Of The Fall
 Wenn Jetzt Sommer Wär	Pohlmann
 Every Rose Has Its Thorn	Poison
+Fallen Angel	Poison
 Unskinny Bop	Poison
+Unskinny Bop [VIDEO]	Poison
 Theme	Pokemon
 Message in a bottle	Police (The)
-Button's Mom	Poni1Kenobi
-Luna Genesis Evangelion	Ponime
-The Moon Rises	Ponyphonic
-Lullaby for a Princess	Ponyphonic, Christina Larson
-Lullaby for a Princess (Instrumental)	Ponyphonic, Christina Larson
 Uomini Soli	Pooh
 Kuuma Kesä	Popeda
+Lazarus	Porcupine Tree
+How is your life today	Porcupine tree
 Space Invaders	Pornophonique
 Space Invaders (Kar)	Pornophonique
 I bambini fanno oh	Povia
+(Baby I've Got You) On My Mind [VIDEO]	Powderfinger
+These Days [VIDEO]	Powderfinger
 Power Rangers Theme [VIDEO]	Power Rangers
 Como hemos cambiado	Presuntos Implicados
 Brass In Pocket	Pretenders
+Brass In Pocket [VIDEO]	Pretenders
 Kiss	Prince
-Good Time (ft. DreamChan)	PrinceWhateverer
-Nightmare Night	PrinceWhateverer
-Nightmare Night (Instrumental)	PrinceWhateverer
-Taking Flight	PrinceWhateverer
 Read All About It	Professor Green ft. Emeli Sande
 Acido acida	Prozac+
 Gangnam Style	Psy
+Blurry [VIDEO]	Puddle Of Mudd
 She hates me	Puddle of Mudd
 Wenn ein Mensch lebt	Puhdys
 Das kleine Küken piept	Pulcino Pio
@@ -3516,10 +3202,13 @@ Who Wants To Live Forever	Queen
 You're My Best Friend	Queen
 Feel Good Hit Of The Summer	Queens Of The Stone Age
 Go With The Flow	Queens Of The Stone Age
+Go With The Flow [VIDEO]	Queens Of The Stone Age
 Little Sister	Queens Of The Stone Age
+No One Knows [VIDEO]	Queens Of The Stone Age
 Too Young [VIDEO]	Queensberry
 Cum On Feel The Noize	Quiet Riot
 I Believe I Can Fly	R Kelly
+At My Most Beautiul	R.E.M.
 Daysleeper	R.E.M.
 Everybody Hurts	R.E.M.
 Imitation of Life	R.E.M.
@@ -3536,9 +3225,9 @@ The Sidewinder Sleeps Tonite	R.E.M.
 Turn This Club Around	R.I.O. ft. U-Jean
 R.E.S.P.E.C.T.	RLP & Barbara Tucker
 Harmonia	RYTHEM
-Ich Kenne Nichts…	RZA
+Ich Kenne Nichts...	RZA
 Ich kenne Nichts	RZA ft. Xavier Naidoo
-Was Kann Ich Denn Dafür … (Dass Ich Schön Bin)	Rabaue
+Was Kann Ich Denn Dafür ... (Dass Ich Schön Bin)	Rabaue
 Creep	Radiohead
 Exit Music (For a film)	Radiohead
 Karma Police	Radiohead
@@ -3548,31 +3237,50 @@ Bananaphone	Raffi
 Straight To Hell	Rage
 Testify	Rage Against The Machine
 Clouds across the moon	Rah Band
+I Surrender	Rainbow
 Macho Macho	Rainhard Fendrich
 Oben Ohne	Rainhard Fendrich
+Weilst a Herz hast	Rainhard Fendrich
 Streets of London	Ralph McTell
+Black Betty [VIDEO]	Ram Jam
 Amerika	Rammstein
+Amour	Rammstein
+Asche zu Asche	Rammstein
 Bück dich	Rammstein
 Du Hast	Rammstein
 Du Riechst So Gut	Rammstein
 Engel (english Version)	Rammstein
+Engel (english Version) [VIDEO]	Rammstein
 Engel [VIDEO]	Rammstein
 Feuer Frei	Rammstein
+Frühling in Paris	Rammstein
+Haifisch	Rammstein
+Heirate mich	Rammstein
+Ich tu dir weh	Rammstein
+Keine Lust	Rammstein
 Mein Teil	Rammstein
 Mutter	Rammstein
 Nebel	Rammstein
 Ohne Dich	Rammstein
+Pussy	Rammstein
 Rosenrot	Rammstein
 Seemann [VIDEO]	Rammstein
+Stirb nicht vor mir	Rammstein ft. Sharleen Spiteri
 Blitzkrieg Bop	Ramones
+Blitzkrieg Bop [VIDEO]	Ramones
+I Wanna Be Sedated	Ramones
+Pet Sematary [VIDEO]	Ramones
 Bless The Broken Road	Rascal Flats
 Så Länge Vi Har Varann	Ratata & Frida
 Hit the road Jack	Ray Charles
 Ghostbusters	Ray Parker jr.
-Golden Touch	Razorlight
+America	Razorlight
 Goldentouch	Razorlight
+Goldentouch [VIDEO]	Razorlight
 In The Morning	Razorlight
+In The Morning [VIDEO]	Razorlight
 Somewhere Else	Razorlight
+Somewhere Else [VIDEO]	Razorlight
 Wire To Wire	Razorlight
 Josephine	Reamonn
 Supergirl	Reamonn
@@ -3583,22 +3291,26 @@ Californication	Red Hot Chili Peppers
 Can't Stop	Red Hot Chili Peppers
 Dani California	Red Hot Chili Peppers
 Desecration Smile	Red Hot Chili Peppers
+Fortune Faded [VIDEO]	Red Hot Chili Peppers
 Otherside	Red Hot Chili Peppers
+Road Trippin' [VIDEO]	Red Hot Chili Peppers
+Scar Tissue	Red Hot Chili Peppers
 Snow (Hey oh)	Red Hot Chili Peppers
 Soul To Squeeze	Red Hot Chili Peppers
 Tell Me Baby	Red Hot Chili Peppers
 The Adventures Of Raindance Maggie	Red Hot Chili Peppers
 Under The Bridge	Red Hot Chili Peppers
+Universally Speaking [VIDEO]	Red Hot Chili Peppers
 Cotton Eye Joe [VIDEO]	Rednex
 The Spirit Of The Hawk	Rednex
+Sell Out	Reel Big Fish
+She has a Girlfriend Now	Reel Big Fish
 Macho Macho	Reinhard Fendrich
 Über den Wolken	Reinhard Mey
 I'll be there for you	Rembrandts
 Amico	Renato Zero
-Cerulean Blue	Replacer
-Let Your Mane Down	Replacer
-Let Your Mane Down (Instrumental)	Replacer
 Ready To Go	Republica
+Ready To Go [VIDEO]	Republica
 Hell Yeah	Rev Theory
 Si es tan solo amor	Revolver
 Die Welt Steht Still	Revolverheld
@@ -3632,6 +3344,7 @@ Never gonna give you up (Karaoke) [VIDEO]	Rick Astley
 Never gonna give you up [VIDEO]	Rick Astley
 Super Freak	Rick James
 Can't Touch It	Ricki Lee
+Can't Touch It [VIDEO]	Ricki Lee
 Livin' La Vida Loca	Ricky Martin
 Livin' La Vida Loca (Karaoke)	Ricky Martin
 Hello Mary Lou	Ricky Nelson
@@ -3660,12 +3373,15 @@ Photographs	Rihanna ft. Will.I.am
 Aida	Rino Gaetano
 Gianna	Rino Gaetano
 Junimond	Rio Reiser
+KÃ¶nig Von Deutschland	Rio Reiser
 König Von Deutschland	Rio Reiser
-König Von Deutschland	Rio Reiser
+Give It All	Rise Against
 Hero Of War	Rise Against
 Prayer of the Refugee	Rise Against
+We All Alone	Rita Coolridge
 Cuore	Rita Pavone
 Only To Be With You	Roachford
+Only To Be With You [VIDEO]	Roachford
 Dragula (Hot Rod Herman Remix)	Rob Zombie
 Advertising Space [VIDEO]	Robbie Williams
 Angels	Robbie Williams
@@ -3698,7 +3414,7 @@ Under The Bridge	Rockapella
 White Christmas	Rockapella
 Wonderwall	Rockapella
 Time Warp	Rocky Horror Show
-Sailing	Rod Stewart
+Sailing [VIDEO]	Rod Stewart
 The First Cut Is The Deepest	Rod Stewart
 Die Liste	Roger Cicero
 Die Liste [VIDEO]	Roger Cicero
@@ -3710,7 +3426,9 @@ Lass mich bei Dir sein	Roger Whittaker
 Wenn Es Dich Noch Gibt	Roger Whittaker
 Dich Zu Lieben	Roland Kaiser
 Manchmal möchte ich schon mit dir	Roland Kaiser
+Santa Maria	Roland Kaiser
 In Der Weihnachtsbäckerei	Rolf Zuckowski
+Dear Jessie [VIDEO]	Rollergirl
 Vorrei incontrarti fra 100 anni	Ron
 Father And Son [VIDEO]	Ronan Keating
 If Tomorrow Never Comes [VIDEO]	Ronan Keating
@@ -3719,6 +3437,7 @@ When You Say Nothing At All	Ronan Keating
 Father And Son	Ronan Keating featuring Yusuf
 Es hängt ein Pferdehalfter an der Wand	Ronny
 When Did Your Heart Go Missing?	Rooney
+When Did Your Heart Go Missing? [VIDEO]	Rooney
 Mi Gato	Rosario
 Aus Liebe Wollt Ich Alles Wissen	Rosenstolz
 Es Könnt' Ein Anfang Sein	Rosenstolz
@@ -3740,15 +3459,18 @@ Vulnerable	Roxette
 Wish I Could Fly	Roxette
 You Don't Understand Me	Roxette
 Love Is The Drug	Roxy Music
+Love Is The Drug [VIDEO]	Roxy Music
 Schon Ist Es Auf Der Welt Zu Sein	Roy Black & Anita
 In Dreams	Roy Orbison
-Oh Pretty Woman	Roy Orbison
 Pretty Woman	Roy Orbison
 Pretty Woman (Karaoke)	Roy Orbison
+Pretty Woman (Karaoke) [VIDEO]	Roy Orbison
+Pretty Woman [VIDEO]	Roy Orbison
 Tell Laura I Love Her	Roy Orbison
 Córka Rybaka	Rudi Schuberth
 Hallelujah	Rufus Wainwright
 It's Tricky	Run DMC
+It's Tricky [VIDEO]	Run DMC
 Ut Mot Havet	Rune Rudberg
 Wild Dances [VIDEO]	Ruslana
 Das Fegerlied	Räuber
@@ -3765,35 +3487,40 @@ Shi mian mai fu [VIDEO]	S.H.E
 Super Star [VIDEO]	S.H.E
 Anfang Anzufangen	SDP
 Ne Leiche	SDP feat. Sido
-Butterfly	SMiLE.dk
+Butterfly [VIDEO]	SMiLE.dk
 Fürstenfeld	STS
 Gö du bleibst heit nacht bei mir	STS
 Theme	Saber Rider
+Smooth Operator	Sade
 Push It	Salt 'N' Pepa
 Push It [VIDEO]	Salt N' Pepa
 Wonderful World	Sam Cooke
-Wonderful world	Sam Cooke
+Wonderful World [VIDEO]	Sam Cooke
 Halte die Zeit	Samajona
 So Schwer	Samajona
 Touch Me (I Want Your Body)	Samantha Fox
 Always Come Back to Your Love	Samantha Mumba
 Giudizi Universali	Samuele Bersani
-Tuhat Yötä	Samuli Edelmann
+Tuhat Yt	Samuli Edelmann
 Stumm	Samy Deluxe
-I Wish I Was A Punk Rocker	Sandi Thom
+I Wish I Was A Punk Rocker [VIDEO]	Sandi Thom
 (I'll Never Be) Maria Magdalena (BACKING M)	Sandra
 (I'll Never Be) Maria Magdalena (Duett)	Sandra
 (I'll Never Be) Maria Magdalena (Sandra)	Sandra
+Around my heart [VIDEO]	Sandra
+Maria Magdalena [VIDEO]	Sandra
+Tell me [VIDEO]	Sandy
 Smooth	Santana
+Into the Night [VIDEO]	Santana feat. Chad Kroeger
 Into The Night	Santana feat. Chad Kroger
 María María	Santana feat. Wyclef Jean
-Love Song	Sara Bareilles
+Love Song [VIDEO]	Sara Bareilles
 Born To Fly	Sara Evans
 Phantom of The Opera	Sarah Brightman & Michael Crawford
 From Sarah With Love	Sarah Connor
 From Zero To Hero	Sarah Connor
 Living to love you	Sarah Connor
-Skin On Skin	Sarah Connor
+Skin On Skin [VIDEO]	Sarah Connor
 The Best Side Of Life	Sarah Connor
 I Remember Love	Sarah Dawn Finer
 Angel	Sarah McLachlan
@@ -3802,9 +3529,9 @@ I Want You	Savage Garden
 I Want You [VIDEO]	Savage Garden
 To the Moon and Back	Savage Garden
 Truly Madly Deeply	Savage Garden
+Can't Stay The Same	Saves The Day
 Muscle Museum (live)	Scala & Kolacny Brothers
 Seid bereit	Scar
-Luna's Lament	Scarlett Peace
 Scatman's World	Scatman John
 Das Schaferlied	Schafer Heinrich
 Der Wandersmann	Schandmaul
@@ -3812,10 +3539,14 @@ Teufelsweib	Schandmaul
 Willst du	Schandmaul
 Der Tag (Du bist erwacht)	Schiller mit Jette von Roth
 I Don't Feel Like Dancin'	Scissor Sisters
-Laura	Scissor Sisters
-Take your mama	Scissor Sisters
+Land Of A Thousand Words	Scissor Sisters
+Laura [VIDEO]	Scissor Sisters
+Take your mama [VIDEO]	Scissor Sisters
+And No Matches [VIDEO]	Scooter
 Break It Up	Scooter
+Jumping all over the world [VIDEO]	Scooter
 One (Always Hardcore)	Scooter
+The Question Is What Is The Question? [VIDEO]	Scooter
 Maria (I like it loud) [VIDEO]	Scooter vs. Marc Acardipane & Dick Rules
 Send Me An Angel	Scorpions
 Wind of Change	Scorpions
@@ -3823,10 +3554,11 @@ San Francisco	Scott McKenzie
 Crazy	Seal
 Kiss From A Rose	Seal
 Kiss From A Rose [VIDEO]	Seal
-Beautiful Girls	Sean Kingston
+Beautiful Girls [VIDEO]	Sean Kingston
 Fire Burning	Sean Kingston
 She Doesn't Mind	Sean Paul
-We Be Burnin'	Sean Paul
+Temperature	Sean Paul
+We Be Burnin´	Sean Paul
 Sommer Unseres Lebens	Sebastian Hämer
 Ding	Seeed
 Schwinger	Seeed
@@ -3838,30 +3570,39 @@ Closing Time	Semisonic
 Brief is the light	Sentenced
 Can't Get Over	September
 Cry or you	September
+Satellites	September
+Baby	Serj Tankian
+Empty Walls	Serj Tankian
+Lie Lie Lie	Serj Tankian
+Saving Us	Serj Tankian
+Sky is over	Serj Tankian
 Baw Mnie	Seweryn Krajewski
 God Save The Queen	Sex Pistols
+Pretty Vacant	Sex Pistols
 Desole'	Sexion d' Assaut
-Pony Rock Anthem	Shady Vox
-Don't Mine at Night	ShadyVox, JanAnimations
 Angel	Shaggy
 Boombastic	Shaggy
 Feel The Rush	Shaggy
 It wasn't me	Shaggy feat. Rik Rok
 Don't Bother	Shakira
-Don't bother	Shakira
+Don´t bother	Shakira
 Gypsy	Shakira
+Pure intuition [VIDEO]	Shakira
 She wolf [VIDEO]	Shakira
 Suerte	Shakira
 Underneath Your Clothes	Shakira
 Waka Waka (This Time for Africa)	Shakira
 Whenever Wherever [VIDEO]	Shakira
 Give It Up To Me	Shakira ft. Timbaland & Lil Wayne
-Hips don't lie [VIDEO]	Shakira ft. Wyclef
+Hips don´t lie [VIDEO]	Shakira ft. Wyclef
 From this moment on	Shania Twain
-It only hurts when i'm breathing	Shania Twain
-She's not just a pretty face	Shania Twain
+It only hurts when i´m breathing	Shania Twain
+Man I Feel Like A Woman*	Shania Twain
+She´s not just a pretty face	Shania Twain
 Up!	Shania Twain
 Loud	Shannon Noll
+Loud [VIDEO]	Shannon Noll
+What About Me [VIDEO]	Shannon Noll
 69	Shearer
 69 (Kar)	Shearer
 Can't stop it	Shearer
@@ -3874,8 +3615,10 @@ Stay with me	Shearer
 Stay with me (Kar)	Shearer
 Strong Enough	Sheryl Crow
 The First cut is the deepest	Sheryl Crow
+Tomorrow Never Dies	Sheryl Crow
 One Night In Beijing [VIDEO]	Shin
 I Own You	Shinedown
+Goldfinger	Shirley Bassey
 Min Kärlek	Shirley Clamp
 T-Shirt	Shontelle
 Augen Auf	Sido
@@ -3884,23 +3627,20 @@ Durch die Nacht	Silbermond
 Irgendwas bleibt [VIDEO]	Silbermond
 Symphonie	Silbermond
 Unendlich	Silbermond
-Hooves Up High	Silva Hound
 Freak	Silverchair
 Miss You Love	Silverchair
+Tomorrow	Silverchair
 My Heroine	Silverstein
-Daring Do	Sim Gretina, Kathy-chan
-Wings feat. EileMonty	SimGretina & The Living Tombstone
-Again	SimGretina, EileMonty
-Again (Instrumental)	SimGretina, EileMonty
-Dear Luna	SimGretina, MEMJ
 Bridge Over Troubled Water	Simon & Garfunkel
 Hazy Shade Of Winter	Simon & Garfunkel
 Mrs. Robinson	Simon & Garfunkel
 The Sound of Silence	Simon & Garfunkel
 Don't You Forget About Me	Simple Minds
+Don't You Forget About Me [VIDEO]	Simple Minds
 Untitled	Simple Plan
 Welcome To My Life	Simple Plan
 Your Love Is A Lie	Simple Plan
+Say You Love Me	Simply Red
 Nothing Compares 2 U [VIDEO]	Sinead O'Connor
 Baby Got Back	Sir Mix A Lot
 Baby Got Back	Sir Mix-a-Lot
@@ -3908,17 +3648,18 @@ We Are Family	Sister Sledge
 We Are Family [VIDEO]	Sister Sledge
 Liebeskummer Lohnt Sich Nicht	Siw Malmkvist
 Kiss Me [VIDEO]	Sixpence None The Richer
-Obudź We Mnie Wenus	Sixteen
+Obud We Mnie Wenus	Sixteen
 Twoja Lawa	Sixteen
 Cannabis	Ska-P
 Tio Sam	Ska-P
-18 and Life	Skid Row
+18 and life	Skid Row
 Awake and Alive	Skillet
 Forgiven	Skillet
 Hero	Skillet
-It's Not Me It's You	Skillet
+Its Not Me Its You	Skillet
 Monster	Skillet
 Hedonism (Just Because You Feel Good)	Skunk Anansie
+Weak [VIDEO]	Skunk Anansie
 Far Far Away	Slade
 Merry Christmas everybody	Slade
 Angel of death	Slayer
@@ -3928,6 +3669,7 @@ Once Upon A Dream (Aurora)	Sleeping Beauty
 Once Upon A Dream (Phillip)	Sleeping Beauty
 Nazis raus	Slime
 Before I Forget	Slipknot
+Duality [VIDEO]	Slipknot
 Wait & Bleed	Slipknot
 All Star	Smash Mouth
 Walkin' on the Sun	Smash Mouth
@@ -3942,9 +3684,10 @@ Needles And Pins	Smokie
 Who The Fuck Is Alice?	Smokie
 Rhythm Is A Dancer [VIDEO]	Snap
 Driver's Seat	Sniff'n the Tears
-Called Out In The Dark	Snow Patrol
 Chasing Cars	Snow Patrol
+Hands Open	Snow Patrol
 Run	Snow Patrol
+Run [VIDEO]	Snow Patrol
 Shut Your Eyes	Snow Patrol
 Aber bitte mit Sahne	Sodom
 Tainted Love	Soft Cell
@@ -3956,19 +3699,26 @@ I Got You Babe (Cher)	Sonny & Cher
 I Got You Babe (Sonny)	Sonny & Cher
 I Got You Babe	Sonny and Cher
 För Att Du Finns	Sonya Aldén
+As I Lay Me Down [VIDEO]	Sophie B. Hawkins
 Murder on the Dancefloor	Sophie Ellis Bextor
 Murder on the Dancefloor (Karaoke)	Sophie Ellis Bextor
 Murder on the Dancefloor (Karaoke) [VIDEO]	Sophie Ellis Bextor
 Murder on the Dancefloor [VIDEO]	Sophie Ellis Bextor
+Self Control [VIDEO]	Soraya
 Runaway Train	Soul Asylum
 Kiss Me Through The Phone [VIDEO]	Souljia Boy Ft. Sammie
 Black Hole Sun	Soundgarden
 Timmy and the Lords of the Underworld	South Park
 In the Meantime	Spacehog
 Gold	Spandau Ballet
+Gold [VIDEO]	Spandau Ballet
+Come With Me	Special D
 2 Become 1 [VIDEO]	Spice Girls
+Goodbye	Spice Girls
+Holler	Spice Girls
 Let Love Lead The Way	Spice Girls
 Say You'll Be There	Spice Girls
+Spice Up Your Life	Spice Girls
 Viva Forever	Spice Girls
 Wannabe	Spice Girls
 Wannabe [VIDEO]	Spice Girls
@@ -3979,18 +3729,17 @@ Two Princes [VIDEO]	Spin Doctors
 Carbonara	Spliff
 Theme (Deutsch)	Spongebob Schwammkopf
 Theme	Spongebob Squarepants
-54'74'90'2006	Sportfreunde Stiller
-54'74'90'2010	Sportfreunde Stiller
+54´74´90´2006	Sportfreunde Stiller
+54´74´90´2010	Sportfreunde Stiller
 Applaus Applaus	Sportfreunde Stiller
 Fast wie von selbst	Sportfreunde Stiller
 Ich roque	Sportfreunde Stiller
 Ich war noch niemals in New York	Sportfreunde Stiller & Udo Jürgens
 Lukk Opp Din Hjertedør	Sputnik
 Tempted	Squeeze
-I Tried (Spike's Lament)	Stablefree
-I Tried (Spike's Lament) (Instrumental)	Stablefree
+Tempted [VIDEO]	Squeeze
 Gdy Zaplaczesz	Stachursky
-Zostańmy Razem	Stachursky
+Zostañmy Razem	Stachursky
 Stuck [VIDEO]	Stacie Orrico
 It's Been A While	Staind
 Outside	Staind
@@ -4004,6 +3753,7 @@ In the Army now [VIDEO]	Status Quo
 Rockin all over the world	Status Quo
 Schwarze Natascha	Stefan Peters
 Maschen-Draht-Zaun	Stefan Raab
+Wadde Hadde Dudde Da	Stefan Raab
 Einer Ist Immer Der Loser	Stefan Remmler
 Zu nah am Feuer	Stefan Waggershausen und Alice
 My Man Is A Mean Man	Stefanie Heinzmann
@@ -4022,20 +3772,19 @@ For Once In My Life	Stevie Wonder
 I just called to say I love you [VIDEO]	Stevie Wonder
 Ebony And Ivory	Stevie Wonder Paul McCartney
 English man in New York [VIDEO]	Sting
-Fields of Gold	Sting
+Fields of Gold [VIDEO]	Sting
 Fragile	Sting
+Windmills of your mind	Sting
 Roxanne	Sting & The Police
 Bother	Stone Sour
 Through Glass	Stone Sour
 Interstate Love Song	Stone Temple Pilots
 Plush	Stone Temple Pilots
 Vasoline	Stone Temple Pilots
-Beginning of Order	StormWolf
-Beginning of Order (Instrumental)	StormWolf
-Shadow of a Flower	StormWolf
 Take Me Back	Story Of The Year
 Hände Hoch	Strandgeier
 Santeria	Sublime
+What I Got [VIDEO]	Sublime
 Discolabirinto	Subsonica
 Incantevole	Subsonica
 Nuvole Rapide	Subsonica
@@ -4046,11 +3795,13 @@ Kleid aus Rosen (Akustik-Version)	Subway To Sally
 Die Schlacht	Subway to Sally
 Julia und die Räuber	Subway to Sally
 Sag Dem Teufel	Subway to Sally
+About You Now [VIDEO]	Sugababes
 About a Girl [VIDEO]	Sugababes
-Overload	Sugababes
+Overload [VIDEO]	Sugababes
 Push The Button	Sugababes
 Push the button [VIDEO]	Sugababes
 Red Dress	Sugababes
+Red Dress [VIDEO]	Sugababes
 Round Round	Sugababes
 Round Round (Karaoke)	Sugababes
 Round Round (Karaoke) [VIDEO]	Sugababes
@@ -4072,11 +3823,12 @@ Fairytale Gone Bad [VIDEO]	Sunrise Avenue
 Forever Yours	Sunrise Avenue
 Heal me	Sunrise Avenue
 Hollywood Hills	Sunrise Avenue
+Butterfly [VIDEO]	Superbus
 Dreamer	Supertramp
 Logical Song	Supertramp
 Eye Of The Tiger	Survivor
 Eye Of The Tiger [VIDEO]	Survivor
-I'm Always Here (Baywatch Theme)	Survivor
+I´m Always Here (Baywatch Theme)	Survivor
 Strolch Ist Toll	Susi Und Strolch
 Elokuun 11.	Suurlähettiläät
 Luka [VIDEO]	Suzanne Vega
@@ -4093,11 +3845,12 @@ Revenga	System Of A Down
 Soldier Side	System of A Down
 B.Y.O.B.	System of a Down
 Chop Suey	System of a down
-Geh Davon Aus	Söhne Mannheims
+Geh Davon Aus	SÃ¶hne Mannheims
 Geh Davon Aus	Söhne Mannheims
 Und Wenn Ein Lied	Söhne Mannheims
 Und Wenn Ein Lied [VIDEO]	Söhne Mannheims
 China In Your Hand	T'Pau
+China In Your Hand [VIDEO]	T'Pau
 All About Us [VIDEO]	T.A.T.U.
 All The Things She Said [VIDEO]	T.A.T.U.
 Live Your Life [VIDEO]	T.I. Ft. Rihanna
@@ -4105,23 +3858,36 @@ Kyle Quit	TENACIOUS D
 No Scrubs [VIDEO]	TLC
 Wolf Like Me	TV On The Radio
 Dynamite	Taio Cruz
+Babe *	Take That
 Back For Good	Take That
-Back for Good	Take That
-Patience	Take That
+Back for Good [VIDEO]	Take That
+Could it be magic [VIDEO]	Take That
+Everything Changes But You [VIDEO]	Take That
+How Deep Is Your Love [VIDEO]	Take That
+I Can Make It	Take That
+I Found Heaven [VIDEO]	Take That
+It Only Takes A Minute [VIDEO]	Take That
+Love Ain't Here Anymore [VIDEO]	Take That
+Never Forget [VIDEO]	Take That
+Nobody Else	Take That
+Once You've Tasted Love [VIDEO]	Take That
+Patience [VIDEO]	Take That
+Pray [VIDEO]	Take That
+Relight My Fire [VIDEO]	Take That
+Rule the World [VIDEO]	Take That
+Shine [VIDEO]	Take That
+The Day After Tomorrow	Take That
+Why Can't I Wake Up With You [VIDEO]	Take That
 Relight My Fire	Take That feat. Lulu
 Such A Shame	Talk Talk
 Burning Down The House	Talking Heads
+Burning Down The House [VIDEO]	Talking Heads
 Road To Nowhere	Talking Heads
 Gott ist tot	Tanz der Vampire
 Totale Finsternis	Tanz der Vampire
-Take My Hand	Tara Strong
-Kaos Rizing (Radio Edit)	Tarby
-Nightmare Night	Tarby
-Rejected	Tarby
 So Ein Mann	Tarzan
 Son Of Man	Tarzan
 Sleeping Satellite	Tasmin Archer
-MLP Mane Theme	Tay Zonday
 I Knew You Were Trouble	Taylor Swift
 Love Story [VIDEO]	Taylor Swift
 Our Song	Taylor Swift
@@ -4129,6 +3895,8 @@ Red	Taylor Swift
 You Belong With Me [VIDEO]	Taylor Swift
 Shout	Tears For Fears
 Everybody Wants To Rule The World	Tears for Fears
+Everybody Wants To Rule The World [VIDEO]	Tears for Fears
+Pump Up The Jam [VIDEO]	Technotronic
 Pump Up The Jam	Technotronic Feat. Felly
 Pump Up The Jam	Technotronic feat. Felly
 Mario	Tele
@@ -4140,7 +3908,6 @@ Government Totally Sucks	Tenacious D
 Master Exploder	Tenacious D
 The Metal	Tenacious D
 Tribute - The best song in the world	Tenacious D
-Ra-Ri-Ty	Tephrax and Lauren Goodnight
 Sign you Name	Terence Trent D'Arby
 yue liang dai biao wo de xin [VIDEO]	Teresa Teng
 Girls Lie Too	Terri Clark
@@ -4148,12 +3915,13 @@ Seasons in the sun	Terry Jacks
 Meng na li sha de yan lei [VIDEO]	Terry Lin
 Summer Son	Texas
 Summer Son [VIDEO]	Texas
-No No Never	Texas Lightning
+No No Never [VIDEO]	Texas Lightning
 Dumb [VIDEO]	The 411
 Gives You Hell [VIDEO]	The All-American Rejects
 Ramblin' Man	The Allman Brothers Band
 Don'T Let Me Be Misunderstood	The Animals
 House Of The Rising Sun	The Animals
+Sugar Sugar [VIDEO]	The Archies
 Ev'rybody Wants To Be A Cat (Scat Cat)	The Aristocats
 Ev'rybody Wants To Be A Cat (Tom)	The Aristocats
 The Worrying Kind	The Ark
@@ -4161,7 +3929,7 @@ Boys Of Summer	The Ataris
 Love Shack	The B-52's
 (Meet) The Flintstones	The B.C. 52's
 Eternal Flame	The Bangles
-Walk Like An Egyptian	The Bangles
+Walk Like An Egyptian [VIDEO]	The Bangles
 Umbrella	The Baseballs
 Hello	The Bates
 Surfin USA	The Beach Boys
@@ -4196,22 +3964,23 @@ The Night Before	The Beatles
 Things We Said Today	The Beatles
 Ticket To Ride	The Beatles
 Twist And Shout	The Beatles
+When I'm Sixty-Four	The Beatles
 Yellow Submarine	The Beatles
 Yesterday	The Beatles
 You've Got To Hide Your Love Away	The Beatles
-I Bring The Sun	The Beatles Bronies
-A Little Time	The Beautiful South
+A Little Time [VIDEO]	The Beautiful South
 Boom Boom Pow [VIDEO]	The Black Eyed Peas
 The Bad Touch	The Bloodhound Gang
 The Ballad of Chasey Lane	The Bloodhound Gang
 Uhn tiss uhn tiss uhn tiss	The Bloodhound Gang
 Rawhide	The Blues Brothers
 Don't Gimme That	The BossHoss
+An Honest Mistake [VIDEO]	The Bravery
 An Honest Mistake	The Bravey
 Gummi Bears	The Brown Derbies
 Wherever You Will Go	The Calling
 Wherever You Will Go [VIDEO]	The Calling
-Erase and rewind	The Cardigans
+Erase And Rewind [VIDEO]	The Cardigans
 Lovefool	The Cardigans
 Lovefool [VIDEO]	The Cardigans
 My Favourite Game	The Cardigans
@@ -4227,8 +3996,12 @@ Nightshift	The Commodores
 Do You Love Me (BACKING M)	The Contours
 Do You Love Me (Billy)	The Contours
 Breathless	The Corrs
+Dreams	The Corrs
+Give me a reason	The Corrs
 Radio (Unplugged)	The Corrs
+Runaway [VIDEO]	The Corrs
 So Young	The Corrs
+Summer Sunshine	The Corrs
 The Right Time	The Corrs
 Ode To My Family	The Cranberries
 Promises	The Cranberries
@@ -4237,16 +4010,18 @@ Zombie	The Cranberries
 Zombie [VIDEO]	The Cranberries
 Ooh I Like It	The Creeps
 A Letter To Elise	The Cure
+Boys Don't Cry	The Cure
 Close to me	The Cure
 Friday I'm In Love	The Cure
 In between days	The Cure
 Just Like Heaven	The Cure
+Just Like Heaven [VIDEO]	The Cure
 Bohemian Like You	The Dandy Warhols
 I Believe In A Thing Called Love [VIDEO]	The Darkness
 I Believe in a Thing Called Love	The Darkness
 I Believe in a Thing Called Love (Karaoke)	The Darkness
 For You	The Disco Boys
-I Touch Myself	The Divinyls
+I Touch Myself [VIDEO]	The Divinyls
 Break On Through	The Doors
 Break on through [VIDEO]	The Doors
 House Of The Rising Sun	The Doors
@@ -4254,10 +4029,13 @@ Light my Fire	The Doors
 People Are Strange	The Doors
 Riders On The Storm	The Doors
 Hotel California	The Eagles
+Take It Easy	The Eagles
+Friday On My Mind [VIDEO]	The Easybeats
 Here comes the rain again	The Eurythmics
 There Must Be An Angel	The Eurythmics
 Bye bye love	The Everly Brothers
 Dream, Dream, Dream	The Everly Brothers
+Why Does Love Do This To Me [VIDEO]	The Exponents
 Aquarius (Let The Sunshine In)	The Fifth Dimension
 Everytime	The Flames
 Everytime [VIDEO]	The Flames
@@ -4265,16 +4043,20 @@ Build Me Up Buttercup	The Foundations
 Build Me Up Buttercup [VIDEO]	The Foundations
 Reach Out I'll Be There (BACKING M)	The Four Tops
 Reach Out I'll Be There (Levi)	The Four Tops
-How To Save A Life	The Fray
+How To Save A Life [VIDEO]	The Fray
+Over My Head (Cable Car) [VIDEO]	The Fray
 Do You Wanna Date My Avatar [VIDEO]	The Guild
 Hate To Say I Told You So	The Hives
-Main Offender	The Hives
+Hate To Say I Told You So [VIDEO]	The Hives
+Main Offender [VIDEO]	The Hives
 Tick Tick Boom	The Hives
+Walk Idiot Walk [VIDEO]	The Hives
 Johnny B	The Hooters
 This Old Heart Of Mine	The Isley Brothers
 ABC (Jackson 5)	The Jackson 5
 ABC (Michael)	The Jackson 5
 I Want You Back	The Jackson 5
+I Want You Back [VIDEO]	The Jackson 5
 Bare Necessities	The Jungle Book
 I Wanna Be Like You (Baloo)	The Jungle Book
 I Wanna Be Like You (Louis)	The Jungle Book
@@ -4286,13 +4068,16 @@ Roses of Red	The Kelly Family
 When The Last Tree	The Kelly Family
 Forelska i lærer'n	The Kids
 Human	The Killers
-Mr. Brightside	The Killers
+Mr. Brightside [VIDEO]	The Killers
 Somebody Told Me	The Killers
+Somebody Told Me [VIDEO]	The Killers
 When You Were Young	The Killers
+All Day And All of the Night [VIDEO]	The Kinks
 Lola	The Kinks
 Sunny Afternoon	The Kinks
 Waterloo Sunset	The Kinks
-My Sharona	The Knack
+My Sharona [VIDEO]	The Knack
+She Moves In Her Own Way [VIDEO]	The Kooks
 Circle Of Life (Backing)	The Lion King
 Circle Of Life (Lead)	The Lion King
 I Just Can't Wait To Be King	The Lion King
@@ -4304,26 +4089,28 @@ I Just Had Sex	The Lonely Island ft. Akon
 Jack Sparrow	The Lonely Island ft. Michael Bolton
 California Dreamin' (Duett)	The Mamas and the Papas
 California Dreaming	The Mamas and the Papas
+Dance the Night Away	The Mavericks
 Hare Hare Yukai	The Melancholy of Haruhi Suzumiya
 Hare Hare Yukai (Gundam Ver)	The Melancholy of Haruhi Suzumiya
 Love Machine	The Miracles
 I miss you like crazy	The Moffatts
 Daydream Believer	The Monkees
+Daydream Believer [VIDEO]	The Monkees
 I'm A Believer	The Monkees
 Sunday People	The Monroes
 All Along	The Offspring
-All I Want	The Offspring
+All I Want [VIDEO]	The Offspring
 Gotta Get Away	The Offspring
 Hit that	The Offspring
 Leave it behind	The Offspring
-Original Prankster	The Offspring
+Original Prankster [VIDEO]	The Offspring
 Pretty Fly (For A White Guy)	The Offspring
 Pretty Fly [VIDEO]	The Offspring
 Self Esteem	The Offspring
 Self Esteem [VIDEO]	The Offspring
 So Alone	The Offspring
 Spare Me the Details	The Offspring
-The Kids aren't alright	The Offspring
+The Kids aren't alright [VIDEO]	The Offspring
 The Meaning of Life	The Offspring
 Why don't you get a job [VIDEO]	The Offspring
 You're Gonna Go Far Kid	The Offspring
@@ -4333,6 +4120,7 @@ Smoke gets into your eyes	The Platters
 The great pretender	The Platters
 Dirty Old Town	The Pogues
 Fairytale of New York	The Pogues feat. Kirsty MacColl
+I'm So Excited	The Pointer Sisters
 Every Breath You Take	The Police
 Every Breath You Take [VIDEO]	The Police
 Every Little Thing She Does Is Magic	The Police
@@ -4343,6 +4131,7 @@ Walking on the moon	The Police
 Night Of Passion	The Poodles
 I'm gonna be (500 Miles)	The Proclaimers
 No Good (Start the Dance)	The Prodigy
+No Good - Start the Dance [VIDEO]	The Prodigy
 Beep	The Pussycat Dolls
 Bottle pop [VIDEO]	The Pussycat Dolls
 Buttons [VIDEO]	The Pussycat Dolls
@@ -4356,7 +4145,7 @@ Sway [VIDEO]	The Pussycat Dolls
 Beep [VIDEO]	The Pussycat Dolls (Feat. Will.i.am)
 Whatcha think about that [VIDEO]	The Pussycat Dolls feat. Missy Elliott
 In the Shadows [VIDEO]	The Rasmus
-Livin' In A World Without You	The Rasmus
+Livin´ In A World Without You	The Rasmus
 No fear	The Rasmus
 I'll be there for you	The Rembrandts
 Unchained Melody	The Righteous Brothers
@@ -4366,10 +4155,12 @@ Paint It, Black	The Rolling Stones
 Satisfaction	The Rolling Stones
 Sympathy For The Devil	The Rolling Stones
 Wind of Change	The Scorpions
+Better [VIDEO]	The Screaming Jets
 Hall Of Fame	The Script feat. Will.I.Am
 Cries Like A Baby	The September When
 See My Vest	The Simpsons
-When You Don't See Me	The Sisters of Mercy
+When You Don´t See Me	The Sisters of Mercy
+Tonight, Tonight	The Smashing Pumpkins
 Girlfriend in a Coma	The Smiths
 This Charming Man	The Smiths
 This Charming Man [VIDEO]	The Smiths
@@ -4381,7 +4172,10 @@ Waterfall [VIDEO]	The Stone Roses
 Golden Brown	The Stranglers
 Rock and Roll Queen	The Subways
 You Can't Hurry Love	The Supremes
+Block Buster [VIDEO]	The Sweet
 Teenage Rampage	The Sweet
+Wig Wam Bam [VIDEO]	The Sweet
+Counting The Beat [VIDEO]	The Swingers
 Get Ready (BACKING M)	The Temptations
 Get Ready (Eddie)	The Temptations
 My Girl	The Temptations
@@ -4389,9 +4183,13 @@ Papa Was A Rollin' Stone	The Temptations
 The lion sleeps tonight	The Tokens
 End of the line	The Traveling Wilburys
 Handle With Care	The Traveling Wilburys
+Wild Thing	The Troggs
 Teenage Kicks	The Undertones
+Teenage Kicks [VIDEO]	The Undertones
 Needle In A Haystack (BACKING F)	The Velvelettes
 Needle In A Haystack (Bertha)	The Velvelettes
+4ever [VIDEO]	The Veronicas
+Hook Me Up [VIDEO]	The Veronicas
 Hook me up	The Veronicas
 Untouched [VIDEO]	The Veronicas
 Bitter Sweet Symphony [VIDEO]	The Verve
@@ -4401,39 +4199,43 @@ YMCA (Karaoke) [VIDEO]	The Village People
 Walks Like Rihanna	The Wanted
 It's Raining Men	The Weather Girls
 Hotel Yorba	The White Stripes
-I Just Don't Know What To Do With Myself	The White Stripes
+I Just Don't Know What To Do With Myself [VIDEO]	The White Stripes
 Seven Nation Army	The White Stripes
-Baba O'Riley	The Who
+Baba O´Riley	The Who
 Pinball Wizard	The Who
+Valerie	The Zutons
 We had joy we had fun	The mamas and the papas
-Sweet Apple Family	TheGrassSaysMooo
-September	TheLivingTombstone, MicTheMicrophone
-September (Instrumental)	TheLivingTombstone, MicTheMicrophone
 All Or Nothing	Theory Of A Deadman
 The Boys Are Back In Town	Thin Lizzy
 The boys are back in town	Thin Lizzy
 20 Good Reasons	Thirsty Merc
+20 Good Reasons [VIDEO]	Thirsty Merc
 Love Is You	Thomas Godoj
 Doctor! Doctor!	Thompson Twins
 Hold Me Now	Thompson Twins
+Hold Me Now [VIDEO]	Thompson Twins
 Free Software Song	Thor
 Good Life	Three Days Grace
 I Hate Everything About You	Three Days Grace
-I Think We're Alone Now	Tiffany
-Runął Już Ostatni Mur	Tilt
+I Think We're Alone Now [VIDEO]	Tiffany
+Run¹³ Ju¿ Ostatni Mur	Tilt
 Nur noch kurz die Welt retten	Tim Bendzko
 Bobfahrerlied	Tim Toupet
 Da sprach der Scheich zum Emir	Tim Toupet
 Ein Diamant	Tim Toupet
 Ich Bin Ein Doner	Tim Toupet
 So Ein Schöner Tag (Fliegerlied)	Tim Toupet
-The Way I Are (feat. Keri Hilson)	Timbaland
+The Way I Are (feat. Keri Hilson) [VIDEO]	Timbaland
 Apologize [VIDEO]	Timbaland Feat. One Republic
 Morning After Dark	Timbaland feat. SoShy & Nelly Furtado
 Chains	Tina Arena
+Chains [VIDEO]	Tina Arena
 Golden Eye	Tina Turner
+Simply the Best [VIDEO]	Tina Turner
 The Best	Tina Turner
+We Don't Need Another Hero [VIDEO]	Tina Turner
 What's Love Got To Do With It	Tina Turner
+What's Love Got To Do With It [VIDEO]	Tina Turner
 What's Love Got To Do With It?	Tina Turner
 Vil ha deg	Tine
 Amore Impossibile	Tiromancino
@@ -4462,6 +4264,7 @@ Wunder Gibt Es Immer Wieder	Tom Kruse
 Free Fallin'	Tom Petty
 Into the great wide open	Tom Petty & The Heartbreakers
 En Dag	Tommy Nilsson
+Broken wings	Tomoko Tane
 Ich Sang Die Ganze Zeit Von Dir	Tomte
 Es muss nur weit sein	Toni Kater
 Toni & Tobi	Toni Kater
@@ -4472,9 +4275,11 @@ Sober	Tool
 Ænima [instrumental]	Tool
 Dancing in the Moonlight [VIDEO]	Toploader
 Beinhart	Torfrock
+ï»¿#TITLE:Beinhart	Torfrock
 Africa	Toto
 Africa [VIDEO]	Toto
 Hold The Line	Toto
+Hold The Line [VIDEO]	Toto
 Rosanna	Toto
 Tarzan & Jane (Jane Version)	Toy Box
 Tarzan & Jane (Tarzan Version)	Toy Box
@@ -4482,7 +4287,7 @@ Du Hast 'N Freund In Mir	Toy Story
 You Got A Friend In Me	Toy Story
 Honky Tonk Badonkadonk	Trace Adkins
 You're Gonna Miss This	Trace Adkins
-Baby can i hold	Tracy Chapman
+Baby Can i Hold [VIDEO]	Tracy Chapman
 O Holy Night	Tracy Chapman
 O Tannenbaum	Traditional
 A Storm At Will	Trail of Tears
@@ -4491,8 +4296,9 @@ Fragment	Trespassers William
 Anna (Lassmichreinlassmichraus)	Trio
 Da Da Da [VIDEO]	Trio
 New York, Rio, Tokyo	Trio Rio
-Prance	Trotski
 We're Not Gonna Take It	Twisted Sister
+We're Not Gonna Take It [VIDEO]	Twisted Sister
+All I Want Is You [VIDEO]	U2
 Beautiful Day	U2
 Beautiful Day [VIDEO]	U2
 Elevation	U2
@@ -4510,6 +4316,7 @@ The Saints Are Coming	U2 & Green Day
 Just Because Of You	US5
 Mama	US5
 Rhythm Of Life	US5
+We Are The World	USA For Africa
 D-tecnoLife	UVERworld
 17 Jahr	Udo Jürgens
 Aber bitte mit Sahne	Udo Jürgens
@@ -4523,15 +4330,12 @@ You Can't Run Away	Udo Lindenberg feat. Freundeskreis
 Cello (MTV Unplugged)	Udo Lindenberg ft. Clueso
 Cello (MTV Unplugged) (Duett)	Udo Lindenberg ft. Clueso
 Cats in the Cradle	Ugly Kid Joe
-Free	Ultra Nate
-Dancing With Tears In My Eyes	Ultravox
+Free [VIDEO]	Ultra Nate
+Dancing With Tears In My Eyes [VIDEO]	Ultravox
 balla	Umberto Balsamo
 Gloria	Umberto Tozzi
 Si Può Dare Di Più	Umberto Tozzi & Gianni Morandi & Enrico Ruggeri
 Follow Me [VIDEO]	Uncle Kracker
-Aloe Aloe	Underpony
-Lunasong (Not Your Night)	Underpony
-Lunasong (Not Your Night) (Instrumental)	Underpony
 Geboren um zu leben	Unheilig
 Lady In Black	Uriah Heep
 More (Redone Jimmy Joker Remix)	Usher
@@ -4540,15 +4344,19 @@ DJ Got Us Falling In Love Again	Usher ft. Pitbull
 Colors of Hearts (BLOOD+)	Uverworld
 Bananowy Song	VOX
 Das Lied der Schlümpfe	Vader Abraham
-For Luna	Vafrous Coyote
-November	Vafrous Coyote (feat. Tarby)
 Tre Parole	Valeria Rossi
 Jump	Van Halen
+Brown eyed girl [VIDEO]	Van Morrison
 Have I told you lately	Van Morrison
+Perfect [VIDEO]	Vanessa Amorosi
 A Thousand Miles [VIDEO]	Vanessa Carlton
+White Houses	Vanessa Carlton
 Be My Baby	Vanessa Paradis
 Ice Ice Baby	Vanilla Ice
 Ice Ice Baby [VIDEO]	Vanilla Ice
+Blue Tattoo	Vanilla Ninja
+Dangerzone	Vanilla Ninja
+Don't Go Too Fast	Vanilla Ninja
 Albachiara	Vasco Rossi
 C'è Chi Dice No	Vasco Rossi
 Come Stai	Vasco Rossi
@@ -4562,6 +4370,7 @@ Vivere	Vasco Rossi
 Das Lied Der Schlümpfe	Vater Abraham
 What's A Woman	Vaya Con Dios
 Neh nah nah	Vaya con dios
+Fix me [VIDEO]	Velvet
 She	Venetian Snares
 Boom boom boom boom [VIDEO]	Vengaboys
 Shalalalala	Vengaboys
@@ -4580,12 +4389,11 @@ Poupée De Cire	WIZO
 Roy Black ist tot	WIZO
 Lets Have A Party	Wanda Jackson
 Lao shu ai da mi [VIDEO]	Wang Qi Wen
-Vicious Lies (Euro-Metal Cover)	Warbalist and Metal-Mary
-Vicious Lies (Euro-Metal Cover) (Instrumental)	Warbalist and Metal-Mary
+Cherry Pie [VIDEO]	Warrant
 Indigo Girl	Watershed
 Buddy Holly	Weezer
 Keep Fishin'	Weezer
-Say It Ain't So	Weezer
+Weezer - Say It Ain't So	Weezer
 Achy Breaky Song	Weird Al Yankovic
 Amish Paradise	Weird Al Yankovic
 Bohemian Polka [VIDEO]	Weird Al Yankovic
@@ -4610,12 +4418,13 @@ World of Our Own [VIDEO]	Westlife
 You raise me up	Westlife
 Love Is All Around	Wet Wet Wet
 Club Tropicana	Wham
+Club Tropicana [VIDEO]	Wham
 Wake Me Up Before You Go-Go	Wham
 Wake Me Up Before You Go-Go [VIDEO]	Wham
-Last Christmas	Wham!
+Last Christmas [VIDEO]	Wham!
 Teenage Dirtbag [VIDEO]	Wheatus
-Saturday Night	Whigfield
-Here I go again	Whitesnake
+Saturday Night [VIDEO]	Whigfield
+Here I go again [VIDEO]	Whitesnake
 Greatest Love Of All	Whitney Houston
 Greatest Love Of All [VIDEO]	Whitney Houston
 I Wanna Dance With Somebody	Whitney Houston
@@ -4629,6 +4438,8 @@ Saturday Night	Wigfield
 The Fresh Prince Of Bel Air	Will Smith
 Men In Black	Will Smith kai
 Switch It On	Will Young
+Switch It On [VIDEO]	Will Young
+I Got It From My Mama [VIDEO]	Will.I.Am
 Pancho And Lefty	Willie Nelson
 Mitten Im Hundert-Morgen-Wald	Winnie Puuh
 Winnie The Pooh	Winnie The Pooh
@@ -4643,7 +4454,9 @@ Lebendig und kräftig und schärfer	Wise Guys
 Mensch, wo bist du?	Wise Guys
 Mensch, wo bist du? (Karaoke)	Wise Guys
 Stand My Ground	Within Tempation
+Angels	Within Temptation
 Ice queen	Within Temptation
+Memories	Within Temptation
 Die Flut (Duett)	Witt ft. Heppner
 Nix und Niemand	Wizo
 Schifoan	Wolfgang Ambros
@@ -4654,20 +4467,16 @@ Da geht mir voll einer ab	Wolfgang Petry
 Ganz oder gar nicht	Wolfgang Petry
 Geil, geil, geil (Wir sind die Grössten)	Wolfgang Petry
 Gianna	Wolfgang Petry
-Lasst Uns Froh Und Munter sein	Wolfgang Petry
+Laßt Uns Froh Und Munter sein.mp3	Wolfgang Petry
 Ruhrgebiet	Wolfgang Petry
 So ein Schwein hat man nur einmal	Wolfgang Petry
 Verlieben,verloren,vergessen,verzeihn	Wolfgang Petry
 Wahnsinn	Wolfgang Petry
 Kein zurück	Wolfsheim
 Once In A Lifetime	Wolfsheim
-Teardrops	Womack And Womack
-Avast Fluttershy's Plot	WoodenToaster
+Teardrops [VIDEO]	Womack And Womack
 Beyond Her Garden	WoodenToaster
-Nigthmare Night	Woodentoaster
-Love me Cheerilee	Woodentoaster, living Tombstone
-Love me Cheerilee (Instrumental)	Woodentoaster, living Tombstone
-Dreams of an Earth Pony	Woodoopony ft. iBringDaLULZ
+911	Wyclef Jean ft. Mary J. Blige
 A Neverending Dream	X-Perience
 Abschied nehmen	Xavier Naidoo
 Dieser Weg [VIDEO]	Xavier Naidoo
@@ -4678,17 +4487,20 @@ Ich Kenne Nichts	Xavier Naidoo feat. RZA
 Again	YUI
 New Soul	Yael Naim & David Donatien
 The Only Way Is Up	Yazz
+The Only Way Is Up [VIDEO]	Yazz
 Gold Lion	Yeah Yeah Yeahs
-Oh Yeah	Yello
+Oh Yeah [VIDEO]	Yello
+Breathing	Yellowcard
 Life Of A Salesman	Yellowcard
-Ocean Avenue	Yellowcard
+Ocean Avenue [VIDEO]	Yellowcard
+Rough Landing, Holly	Yellowcard
 Way Away	Yellowcard
 Owner Of A Lonely Heart	Yes
 The Fox	Ylvis
 Child In Time	Yngwie J. Malmsteen
 Rising Force	Yngwie J. Malmsteen
 Cruel Angel's Thesis	Yoko Takahashi
-A Kiss Is All I Miss	Yoomiii
+A Kiss Is All I Miss [VIDEO]	Yoomiii
 Für Dich	Yvonne Catterfeld
 Sag Mir, Was Meinst Du?	Yvonne Catterfeld
 Joutsenlaulu	Yö
@@ -4697,11 +4509,11 @@ Gimme All Your Lovin [VIDEO]	ZZ Top
 Breaking free	Zac Efron and Vanessa Anne Hudgens (High School Musical)
 In The Year 2525	Zager & Evans
 Seit Mehr Als 1000 Jahren	Zascha
-Alicornication	Zatslol
-Chałupy Welcome To	Zbigniew Wodecki
+Cha³upy Welcome To	Zbigniew Wodecki
 Playmate Of The Year	Zebrahead
 svegliarsi la mattina	Zero Assoluto
 Zuo zai xiang kou de na dui nan nv [VIDEO]	Zi ran juan
+Sierra Madre	Zillertaler Schürzenjäger
 Ich Vermiss Dich Wie Die Hölle	Zlatko
 Großer Bruder	Zlatko & Jürgen
 Baila Morena	Zucchero
@@ -4716,10 +4528,4 @@ LEVEL5 -judgelight-	fripSide
 Only My Railgun	fripSide
 Only my Railgun (TV)	fripSide
 Vorrei	lunapop
-Luna's Ruse	zahqo ft. Haymaker
-Luna's Ruse (Instrumental)	zahqo ft. Haymaker
 Ö la Palöma	Ö la Palöma Boys
-Give It All	Rise Against
-Skyfall	Adele
-Breathing	Yellowcard
-Rough Landing, Holly	Yellowcard
