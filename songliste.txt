@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Thu Oct 23 18:00:22 CEST 2014
+# KaraokeParty Songlist: Fri Oct 24 00:20:44 CEST 2014
 
 Fiesta (TV)	+ Plus
 Cruella De Vil	101 Dalmatians
@@ -1477,6 +1477,7 @@ Rock Me Amadeus	Falco
 Vienna Calling	Falco
 Dance Dance	Fall Out Boy
 Dance Dance [VIDEO]	Fall Out Boy
+My Songs Know What You Did In The Dark [VIDEO]	Fall Out Boy
 This Ain't A Scene	Fall Out Boy
 Thnks Fr Th Mmrs	Fall Out Boy
 Beat it	Fall Out Boy ft. John Mayer
@@ -2341,6 +2342,7 @@ Skid Row (Downtown)	Little Shop Of Horrors
 Bada bambina	Little Tony
 Kanashimi wo yasashisa ni	Little by little
 Kimi monogatari	Little by little
+The DolphinÂ´s Cry [VIDEO]	Live
 Get It Shawty	Lloyd
 Id Love You To Want Me	Lobo
 Seemann, Deine Heimat Ist Das Meer	Lolita
@@ -2482,6 +2484,7 @@ Die Bunte Kuh	Markus Becker
 10 Meter gehn	Markus Becker & Almklausi
 Ich bin von Kopf bis FuÃč auf Liebe eingestellt	Marlene Dietrich
 New Age	Marlon Roudette
+Love Somebody	Maroon 5
 Makes Me Wonder	Maroon 5
 Makes Me Wonder [VIDEO]	Maroon 5
 She Will Be Loved [VIDEO]	Maroon 5
@@ -2513,6 +2516,7 @@ Ain't No Mountain High Enough [VIDEO]	Marvin Gaye And Tammii Tarrelle
 Pinocchio	Mary Roos
 My Guy	Mary Wells
 Rush the floor	Massari feat. Belly
+Teardrop	Massive Attack
 How Far We've Come	Matchbox Twenty
 Big City Life [VIDEO]	Mattafix
 Break My Stride	Matthew Wilder
@@ -2623,7 +2627,6 @@ Dirty Diana	Michael Jackson
 Don't Stop Till You Get Enough	Michael Jackson
 Don't stop till you get enough	Michael Jackson
 Earth Song	Michael Jackson
-Earth Song [VIDEO]	Michael Jackson
 Give in to me	Michael Jackson
 Heal The World	Michael Jackson
 Heal the World	Michael Jackson
@@ -2864,6 +2867,7 @@ Rockstar	Nickelback
 Savin' Me	Nickelback
 Too Bad	Nickelback
 When We Stand Together	Nickelback
+Hallo Klaus (I w� nur zruck)	Nickerbocker & Biene
 I bin a bayrisches Cowgirl	Nicki
 Va Va Voom	Nicki Minaj
 Schmidtchen Schleicher	Nico Haak
@@ -2878,6 +2882,7 @@ Dead Gardens	Nightwish
 Eva	Nightwish
 Fantasmic	Nightwish
 Fishmaster [wishmaster Misheard Lyrics]	Nightwish
+Last Ride of the Day	Nightwish
 Nemo	Nightwish
 Over the hills and far away	Nightwish
 Phantom Of The Opera	Nightwish
@@ -2927,7 +2932,6 @@ Spiderwebs	No Doubt
 Sunday Morning	No Doubt
 Underneath it All [VIDEO]	No Doubt
 Where Do You Go [VIDEO]	No Mercy
-Liberi Fatali	Nobou Uemsatu
 Ring Of Steel	Nocturnal Rites
 Io Vagabondo	Nomadi
 Un Giorno Insieme	Nomadi
@@ -3116,6 +3120,8 @@ We Are One (Ole Ola)	Pitbull Feat. Jennifer Lopez & Claudia Leitte
 Give Me Everything	Pitbull feat. Ne-Yo
 Hey Baby (Drop It To The Floor)	Pitbull ft. T-Pain
 Every Me And Every You	Placebo
+Sleeping With Ghosts	Placebo
+Special K	Placebo
 The Bitter End [VIDEO]	Placebo
 Hey There Delilah	Plain White T's
 Hey There Delilah [VIDEO]	Plain White T's
@@ -3881,6 +3887,7 @@ Such A Shame	Talk Talk
 Burning Down The House	Talking Heads
 Burning Down The House [VIDEO]	Talking Heads
 Road To Nowhere	Talking Heads
+Dumb ways to die	Tangerine Kitty
 Gott ist tot	Tanz der Vampire
 Totale Finsternis	Tanz der Vampire
 So Ein Mann	Tarzan
@@ -3972,6 +3979,7 @@ The Bad Touch	The Bloodhound Gang
 The Ballad of Chasey Lane	The Bloodhound Gang
 Uhn tiss uhn tiss uhn tiss	The Bloodhound Gang
 Rawhide	The Blues Brothers
+I DonÂ´t Like Mondays	The Boomtown Rats
 Don't Gimme That	The BossHoss
 An Honest Mistake [VIDEO]	The Bravery
 An Honest Mistake	The Bravey
@@ -4103,14 +4111,13 @@ Hit that	The Offspring
 Leave it behind	The Offspring
 Original Prankster [VIDEO]	The Offspring
 Pretty Fly (For A White Guy)	The Offspring
-Pretty Fly [VIDEO]	The Offspring
 Self Esteem	The Offspring
 Self Esteem [VIDEO]	The Offspring
 So Alone	The Offspring
 Spare Me the Details	The Offspring
 The Kids aren't alright [VIDEO]	The Offspring
 The Meaning of Life	The Offspring
-Why don't you get a job [VIDEO]	The Offspring
+Why Don't You Get A Job	The Offspring
 You're Gonna Go Far Kid	The Offspring
 Your Love	The Outfield
 Only You	The Platters
@@ -4218,6 +4225,7 @@ I Hate Everything About You	Three Days Grace
 I Think We're Alone Now [VIDEO]	Tiffany
 RunÂ¹Âł JuÂż Ostatni Mur	Tilt
 Nur noch kurz die Welt retten	Tim Bendzko
+F Sharp	Tim Minchin
 Bobfahrerlied	Tim Toupet
 Da sprach der Scheich zum Emir	Tim Toupet
 Ein Diamant	Tim Toupet
@@ -4273,7 +4281,6 @@ Sober	Tool
 Ænima [instrumental]	Tool
 Dancing in the Moonlight [VIDEO]	Toploader
 Beinhart	Torfrock
-Ã¯Â»Âż#TITLE:Beinhart	Torfrock
 Africa	Toto
 Africa [VIDEO]	Toto
 Hold The Line	Toto
@@ -4380,8 +4387,13 @@ Szansa	Virgin
 Znak Pokoju	Virgin
 Mehr Als Das	Virginia Jetzt
 Fade to grey	Visage
+A Broken Man And The Dawn	Volbeat
+Making Believe	Volbeat
 Maybelenne I hofteholder	Volbeat
 Radio girl	Volbeat
+Still Counting	Volbeat
+We	Volbeat
+Wild Rover Of Hell	Volbeat
 All That She Wants	WIZO
 Poup�e De Cire	WIZO
 Roy Black ist tot	WIZO
