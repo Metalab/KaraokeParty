@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>Karaokeparty queue</title>
-        <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script src="http://www.datatables.net/release-datatables/media/js/jquery.dataTables.min.js"></script>
         <script>
             $(document).ready(function() {
@@ -27,8 +27,7 @@
             });
         </script>
         <style>
-            @import "http://www.datatables.net/release-datatables/media/css/demo_page.css";
-            @import "http://www.datatables.net/release-datatables/media/css/demo_table.css";
+            @import "http://cdn.datatables.net/1.10.3/css/jquery.dataTables.css";
             table { padding-right: 2em; border-right: 5px solid black; }
             th { border: 2px outset #D3D6FF; }
             th.hide { display: none; }
