@@ -38,10 +38,18 @@
             form, ol { display: table-cell; }
             small { border-bottom: 1px dotted black; }
             .eta { color: #833; }
+            figure, h1 { display: table-cell; }
+            figure { background-color: #4ED6C9; }
         </style>
     </head>
     <body>
-        <h1>Karaokeparty queue</h1>
+        <header>
+            <figure>
+                <img src="https://www.gstatic.com/android/market_images/web/play_logo.png" />
+                <figcaption><a href="https://play.google.com/store/apps/details?id=appinventor.ai_rameder.metapp">Android application</a></figcaption>
+            </figure>
+            <h1>Karaokeparty queue</h1>
+        </header>
         <form action="/add" method="POST">
         <table>
             <thead>
