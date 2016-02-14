@@ -1,4 +1,4 @@
-# KaraokeParty Songlist: Fri Oct 24 00:20:44 CEST 2014
+# KaraokeParty Songlist: Sun Feb 14 19:08:20 CET 2016
 
 Fiesta (TV)	+ Plus
 Cruella De Vil	101 Dalmatians
@@ -81,6 +81,7 @@ All That She Wants	Ace of Base
 Beautiful Life	Ace of Base
 C'est La Vie	Ace of Base
 The Sign	Ace of Base
+Aftermath	Adam Lambert
 Whataya Want From Me	Adam Lambert
 One Song Glory	Adam Pascal
 Killer	Adamski
@@ -134,7 +135,7 @@ A Whole New World (Aladdin)	Aladdin
 A Whole New World (Jasmine)	Aladdin
 Ein Traum Wird Wahr	Aladdin
 Prinz Ali	Aladdin
-Il Mondo È Mio	Aladdin
+Il Mondo è Mio	Aladdin'
 Chattahoochee	Alan Jackson
 Good Time	Alan Jackson
 Figli delle stelle	Alan Sorrenti
@@ -146,6 +147,7 @@ You Learn	Alanis Morissette
 You oughta know	Alanis Morissette
 Black Velvet	Alannah Myles
 Black Velvet [VIDEO]	Alannah Myles
+It Never Rains In Southern California	Albert Hammond
 It Never Rains In Southern California	Albert Hammond
 Not A Sinner, Nor A Saint	Alcazar
 This is the world we live in	Alcazar
@@ -312,6 +314,7 @@ Whole Again [VIDEO]	Atomic Kitten
 Storm To Pass	Atreyu
 Ooa Hela Natten	Attack
 Atzin	Atzen
+Be Yourself	Audioslave
 Cochise	Audioslave
 A Little Piece Of Heaven	Avenged Sevenfold
 Almost Easy	Avenged Sevenfold
@@ -429,16 +432,16 @@ From A Distance	Bette Midler
 The Rose	Bette Midler
 Come As You Are [VIDEO]	Beverly Knight
 Crazy In Love	Beyoncé
-Amor Gitano	Beyoncé
-Halo [VIDEO]	Beyoncé
-If I Were A Boy [VIDEO]	Beyoncé
-Irreplaceable [VIDEO]	Beyoncé
-Listen	Beyoncé
-Naughty Girl [VIDEO]	Beyoncé
-Single ladies (Put a ring on it) [VIDEO]	Beyoncé
-Sweet dreams [VIDEO]	Beyoncé
-Video Phone	Beyoncé feat. Lady Gaga
-Beautiful Liar	Beyoncé feat. Shakira
+Amor Gitano	Beyonce
+Halo [VIDEO]	Beyonce
+If I Were A Boy [VIDEO]	Beyonce
+Irreplaceable [VIDEO]	Beyonce
+Listen	Beyonce
+Naughty Girl [VIDEO]	Beyonce
+Single ladies (Put a ring on it) [VIDEO]	Beyonce
+Sweet dreams [VIDEO]	Beyonce
+Video Phone	Beyonce feat. Lady Gaga
+Beautiful Liar	Beyonce feat. Shakira
 Crazy In Love	Beyoncé
 Video Phone	Beyoncé feat. Lady Gaga
 Beautiful Liar (Duett)	Beyoncé feat. Shakira
@@ -483,7 +486,7 @@ Try Honesty	Billy Talent
 White Christmas	Bing Crosby
 Mama Leone	Bino
 People Help The People	Birdy
-Hyperballad	Björk
+Hyperballad	Bjork
 Human Behaviour	Björk
 Wonderful Life	Black
 Don't Lie	Black Eyed Peas
@@ -580,6 +583,7 @@ Ginny Comes Lately	Bobby Darin
 Don't Worry Be Happy	Bobby McFerrin
 Sealed With A Kiss	Bobby Vinton
 Take A Good Care Of My Baby	Bobby Vinton
+90 Grad	Bodo Wartke
 Liebeslied	Bodo Wartke
 Always	Bon Jovi
 Bad medicine	Bon Jovi
@@ -686,6 +690,7 @@ Ab in den Süden	Buddy
 Oh boy	Buddy Holly
 Peggy Sue	Buddy Holly
 Video Killed The Radio Star	Buggles
+Show Intro	Bugs Bunny
 All These Things I Hate (revolve Around Me)	Bullet For My Valentine
 Swallowed	Bush
 Bei Nacht	Bushido
@@ -700,6 +705,7 @@ Die Firma	Böhse Onkelz
 Dr. Martens Beat	Böhse Onkelz
 Dunkler Ort	Böhse Onkelz
 Ich bin in Dir	Böhse Onkelz
+Kirche	Böhse Onkelz
 Mexico	Böhse Onkelz
 Nichts Ist Für Die Ewigkeit	Böhse Onkelz
 Nur die Besten sterben jung	Böhse Onkelz
@@ -819,8 +825,8 @@ The Voice Within [VIDEO]	Christina Aguilera
 Your Body	Christina Aguilera
 Nobody Wants To Be Lonely	Christina Aguilera & Ricky Martin
 AM to PM [VIDEO]	Christina Milian
-Ich Lebe	Christina Stürmer
-Ich Lebe 2005	Christina Stürmer
+Ich Lebe	Christina Stuermer
+Ich Lebe 2005	Christina Stuermer
 Engel Fliegen Einsam [VIDEO]	Christina Stürmer
 Ich Lebe 2005	Christina Stürmer
 Ich Lebe 2005 [VIDEO]	Christina Stürmer
@@ -879,7 +885,7 @@ The Rhythm Of The Night	Corona
 Anita	Costa Cordalis
 Otra Vez	Coti
 Nada fue un error	Coti & Andrés Calamaro
-Accidentally In Love	Counting Crows
+Accidentally in love	Counting Crows
 Colorblind	Counting Crows
 Fill Me In	Craig David
 Walking Away	Craig David
@@ -929,9 +935,9 @@ Chihuahua 2002 [VIDEO]	DJ Bobo
 What A Feeling	DJ Bobo Feat. Irene Cara
 Summertime	DJ Jazzy Jeff & The Fresh Prince
 Summertime [VIDEO]	DJ Jazzy Jeff &amp
-Hey Baby	DJ Ötzi
-Live Is Life (BACKING M)	DJ Ötzi
-Live Is Life (LEAD M)	DJ Ötzi
+Hey Baby	DJ Otzi
+Live Is Life (BACKING M)	DJ Otzi
+Live Is Life (LEAD M)	DJ Otzi
 Heaven (Candlelight Remix) [VIDEO]	DJ Sammy & Yanou feat. Do
 Anton Aus Tirol	DJ Ötzi
 Anton aus Tirol	DJ Ötzi
@@ -1023,6 +1029,8 @@ People Are People	Depeche Mode
 Photographic	Depeche Mode
 Policy Of Truth	Depeche Mode
 Hakuna Matata	Der König Der Löwen
+Wer Hat An Der Uhr Gedreht	Der Rosarote Panther
+Superperforator	Der Schuh des Manitu
 Voyage Voyage	Desireless
 Bootylicious [VIDEO]	Destiny's Child
 Say My Name	Destiny's Child
@@ -1074,6 +1082,8 @@ White Christmas	Die Roten Rosen
 Lass uns schmutzig Liebe machen	Die Schröders
 Die Schöne Und Das Biest	Die Schöne Und Das Biest
 1000 Gute Gründe	Die Toten Hosen
+1000 Gute Gründe	Die Toten Hosen
+All Die Ganzen Jahre	Die Toten Hosen
 All die ganzen Jahre	Die Toten Hosen
 Alles Aus Liebe	Die Toten Hosen
 Alles Was War	Die Toten Hosen
@@ -1114,7 +1124,7 @@ Claudia hat 'nen Schäferhund	Die Ärzte
 Deine Schuld	Die Ärzte
 Der Graf	Die Ärzte
 Die Welt ist schlecht	Die Ärzte
-Rebell	Die Ärzte
+Die Ärzte - Die Ärzte - Rebell	Die Ärzte
 Ein Sommer nur für mich	Die Ärzte
 Ein Song namens Schunder	Die Ärzte
 El Cattivo	Die Ärzte
@@ -1198,6 +1208,7 @@ Theme	Disney's Duck Tales
 Hakuna Matata [VIDEO]	Disney's König Der Löwen
 I'll Make A Man Out Of You	Disney's Mulan
 I Wanna Be Like You (Duett)	Disney's The Jungle Book
+I Won't Say I'm in Love (Duett)	Disneys Hercules
 Wir Sind Eins	Disneys König der Löwen 2
 Farbenspiel des Winds	Disneys Pocahontas
 We Are One	Disneys The Lion King
@@ -1221,7 +1232,7 @@ The Night	Disturbed
 Voices	Disturbed
 I Touch Myself	Divinyls
 Not Ready To Make Nice	Dixie Chicks
-Noch In 1000,000 Jahren	Dj Ötzi
+Noch In 1000,000 Jahren	Dj Otzi
 Boys Of Summer [VIDEO]	Dj Sammy
 Fukai Mori	Do As Infinity
 Fukai Mori (TV)	Do As Infinity
@@ -1241,6 +1252,7 @@ Traum-Walzer	Dornroschen
 Warum Nur	Dornroschen
 All We Are	Doro
 Calcutta (Taxi, Taxi, Taxi)	Dr. Bombay
+I Cannot Believe My Eyes	Dr. Horrible's Sing-Along Blog
 Marmor, Stein und Eisen bricht	Drafi Deutscher
 Dan Dan Kokoro Hikareteku	Dragon Ball GT
 Du wirst unbesiegbar sein	Dragonball Z
@@ -1257,6 +1269,7 @@ Planting Seeds	Dredg
 Sang Real	Dredg
 Spitshine	Dredg
 Dirty Glass	Dropkick Murphys
+Dirty Glass (Duett)	Dropkick Murphys
 I'm Shipping Up To Boston	Dropkick Murphys
 Johnny I Hardly Knew Ya	Dropkick Murphys
 DschinghisKahn	Dschinghis Kahn
@@ -1399,6 +1412,7 @@ Return to Innocence	Enigma
 Do You Know	Enrique Iglesias
 Hero	Enrique Iglesias
 Takin' Back My Love	Enrique Iglesias feat. Ciara
+Takin' Back My Love (Duett)	Enrique Iglesias ft. Ciara
 I Like It	Enrique Iglesias ft. Pitbull
 Losing The Ground	Entwine
 May It Be	Enya
@@ -1535,10 +1549,11 @@ Pumped Up Kicks	Foster The People
 Stacy's Mom	Fountains Of Wayne
 I Can't Help Myself	Four Tops
 Uno más uno son siete	Fran Perea
-Ein bisschen Goethe, ein bisschen Bonaparte	France Gall
+Ein bisschen Goethe, ein bißchen Bonaparte	France Gall
 Raccontami	Francesco Renga
 Cuccurucucu	Franco Battiato
 Hip Teens (Don't Wear Blue Jeans)	Frank Pop Esemble
+Fly Me to the Moon	Frank Sinatra
 My Way	Frank Sinatra
 New York, New York	Frank Sinatra
 Santa Claus Is Coming To Town	Frank Sinatra
@@ -1572,7 +1587,7 @@ Killing me softly	Fugees
 Melissa	Full Metal Alchemist
 Celebration	Fun Factory
 I Wanna B With U	Fun Factory
-Saufen, Fressen und F…	Funny van Dannen
+Saufen, Fressen und F…..	Funny van Dannen
 Dead + Gone	Fury In The Slaughterhouse
 Time To Wonder	Fury In The Slaughterhouse
 Dein Herz Schlägt Schneller	Fünf Sterne deluxe
@@ -1610,7 +1625,7 @@ Cammina nel sole	Gianluca Grignani
 Destinazione Paradiso	Gianluca Grignani
 La mia storia fra le dita	Gianluca Grignani
 I will fly with you	Gigi D'agustino
-L'amour toujours	Gigi D'gostino
+L'amour toujours	Gigi D'Agostino
 L'Amore Che Non C'è	Gigi d'Alessio
 Hey Jealousy	Gin Blossoms
 Colpo di fulmine	Gin Di Tonno & Lola Ponce
@@ -1770,6 +1785,8 @@ Theme	Hero Turtles
 Diggi-Loo Diggi-Ley	Herreys
 Breaking Free (Duett)	High School Musical
 Start of Something New [VIDEO]	High School Musical
+What Time Is It? (Duett)	High School Musical 2
+Can I Have This Dance? (Duett)	High School Musical 3
 Come clean	Hilary Duff
 Wake Up	Hilary Duff
 Join me	Him
@@ -1777,6 +1794,7 @@ Cha-la head-cha-la	Hironobu Kageyama
 Cha-la head-cha-la (TV)	Hironobu Kageyama
 Cha-la head-cha-la Konata Mix	Hironobu Kageyama, Konata
 Celebrity Skin	Hole
+Malibu	Hole
 Words dont come easy	Hollies
 Kiss Kiss [VIDEO]	Holly Valance
 Lo Noto	Hombres G
@@ -1834,6 +1852,7 @@ Egao no Mahou	Ishida Youko
 Somewhere Over The Rainbow (Wonderful World)	Israel Kamakawiwo Ole
 Il Re leone	Ivana Spagna
 Doris	J Karjalainen Ja Mustat Lasit
+Bums Bums Bums	J.B.O.
 Der Spatz in der Hand	J.B.O.
 Ein guter Tag zum Sterben (terminale Version)	J.B.O.
 Ejaculation Praecox	J.B.O.
@@ -1944,7 +1963,7 @@ Ghost Rider in the Sky	Johnny Cash
 I Walk The Line	Johnny Cash
 Ring Of Fire	Johnny Cash
 Hank starb an ner Überdosis Hasch	Joint Venture
-Hai Dao (Pirate) [VIDEO]	Jolin Tsai
+Hai Dao (Pirate) [VIDEO]	Jolin
 Ai Qing 36 Ji [VIDEO]	Jolin Tsai
 Kuai You Ai [VIDEO]	Jolin Tsai
 Rewind [VIDEO]	Jolin Tsai
@@ -1992,6 +2011,7 @@ Serenata rap	Jovanotti
 Was Auch Immer	Joy Denalane
 A Dios Le Pido	Juanes
 La Camisa Negra	Juanes
+Night Crawler	Judas Priest
 You've Got Another Thing Comin'	Judas Priest
 Amazing Grace	Judy Collins
 Angel Of The Morning	Juice Newton
@@ -2068,6 +2088,7 @@ Everybody's Changing [VIDEO]	Keane
 Somewhere Only We Know	Keane
 Somwhere Only We Know [VIDEO]	Keane
 Days Go By	Keith Urban
+Acapella	Kelis
 Trick Me	Kelis
 Red High Heels	Kellie Pickler
 Beautiful Disaster	Kelly Clarkson
@@ -2104,11 +2125,11 @@ Tú volverás	Ketama
 Let It Rock (Feat. Lil Wayne) [VIDEO]	Kevin Rudolf
 Pursuit Of Happiness (Steve Aoki Remix)	Kid Cudi feat. MGMT & Ratatat
 Erase Me	Kid Cudi ft. Kanye West
-Day 'n' Nite [VIDEO]	Kid Cudi vs. Crookers
+Day `n' Nite [VIDEO]	Kid Cudi vs. Crookers
 All Summer Long	Kid Rock
 Born Free	Kid Rock
 Bra Vibrationer	Kikki Danielsson
-Vem É Dé Du Vill Ha	Kikki, Bettan och Lotta
+Vem È Dé Du Vill Ha	Kikki, Bettan och Lotta
 Ich Kann Auch Ohne Dich	Killerpilze
 Liebmichhassmich	Killerpilze
 Bette Davis Eyes	Kim Carnes
@@ -2128,17 +2149,19 @@ An der Nordseeküste (Duett)	Klaus & Klaus
 Da steht ein Pferd auf'm Flur	Klaus & Klaus
 1000 Und 1 Nacht	Klaus Lage
 Faust auf Faust	Klaus Lage
-Jezu jak się cieszę	Klaus Mitffoch
+Jezu jak siê cieszê	Klaus Mitffoch
 It's Not Over Yet	Klaxons
 Anti Country Song	Kleines Arschloch
 Femme Like You	Kmaro
 Alter Mann	Knorkator
+Die Narrenkappe	Knorkator
+der ultimative Mann	Knorkator
 Freak on a Leash	KoRn
 Here To Stay	KoRn
-Kocham Cię Jak Irlandię	Kobranocka
-Der Ewige Kreis (Backing)	König Der Löwen
-Der Ewige Kreis (Lead)	König Der Löwen
-Ich Will Jetzt Gleich König Sein	König Der Löwen
+Kocham Ciê Jak Irlandiê	Kobranocka
+Der Ewige Kreis (Backing)	Koenig Der Loewen
+Der Ewige Kreis (Lead)	Koenig Der Loewen
+Ich Will Jetzt Gleich Koenig Sein	Koenig Der Lowen
 Platforms a Plenty!	Koji Kondo & Shinobu Tanaka
 Alone I break	Korn
 Did My Time	Korn
@@ -2151,7 +2174,7 @@ I Should Be So Lucky	Kylie Minogue
 In Your Eyes	Kylie Minogue
 Chaque Seconde	Kyo
 Demon Cleaner	Kyuss
-Der ewige Kreis	König der Löwen
+Der ewige Kreis	Köenig der Löwen
 Ich will jetzt gleich König Sein	König der Löwen
 Blurry Eyes	L'Arc~en~Ciel
 Blurry Eyes (karaoke)	L'Arc~en~Ciel
@@ -2190,7 +2213,7 @@ Summerboy	Lady GaGa
 Teeth	Lady GaGa
 The Fame	Lady GaGa
 Vanity	Lady GaGa
-Telephone	Lady GaGa feat. Beyoncé
+Telephone	Lady GaGa feat. Beyonce
 Just Dance	Lady GaGa feat. Colby O'Donis
 Christmas tree	Lady GaGa feat. Space Cowboy
 Bad Romance	Lady Gaga
@@ -2244,6 +2267,7 @@ Unknown Stuntman	Lee Majors
 50/50	Lemar
 It's Not That Easy	Lemar
 Steal My Sunshine [VIDEO]	Len
+A Million And One	Lena
 Satellite	Lena Meyer-Landrut
 Dansa I Neon	Lena Philipsson
 Everything At Once	Lenka
@@ -2270,7 +2294,7 @@ First Time	Lifehouse
 Hai Un Momento Dio	Ligabue
 Ho Perso Le Parole	Ligabue
 Ho messo via	Ligabue
-Il Mio Nome È Mai Più	Ligabue
+Il Mio Nome è Mai Più	Ligabue
 Il centro del mondo	Ligabue
 Niente Paura	Ligabue
 Piccola stella senza cielo	Ligabue
@@ -2382,7 +2406,7 @@ Mirror, Mirror	M2M
 U Can't Touch This	MC Hammer
 Kids	MGMT
 Zirkus	MIA.
-Kocham Cię, Kochanie Moje	Maanam
+Kocham Ciê, Kochanie Moje	Maanam
 Can't Hold Us	Macklemore & Ryan Lewis feat. Ray Dalton
 Goleta	Mad Caddies
 Monkeys	Mad Caddies
@@ -2419,9 +2443,9 @@ Take A Bow	Madonna
 You're Not Alone	Mads Langer
 Du Schreibst Geschichte	Madsen
 Vielleicht	Madsen
-Imię Deszczu	Mafia
+Imiê Deszczu	Mafia
 För Kung Och Fosterland	Magnus Uggla
-A ja wolę moją mamę	Majka Jeżowska
+A ja wolê moj¹ mamê	Majka Jeżowska
 Dance With Somebody [VIDEO]	Mando Diao
 Down In The Past	Mando Diao
 I Wanna Be With You	Mandy Moore
@@ -2493,7 +2517,7 @@ Moves Like Jagger	Maroon 5 ft. Christina Aguilera
 If I Never See Your Face Again [VIDEO]	Maroon 5 ft. Rihanna
 This Love	Maroon5
 Dancing In The City	Marshall Hain
-Desesperada	Marta Sànchez
+Desesperada	Marta Sánchez
 Lila Wolken	Marteria ft. Yasha & Miss Platnum
 Jimmy Mack	Martha Reeves & The Vandellas
 Nowhere To Run	Martha Reeves & The Vandellas
@@ -2527,6 +2551,7 @@ Mezzo pieno o Mezzo vuoto	Max Pezzali
 Kein Schwein ruft mich an	Max Raabe
 Rain In May	Max Werner
 Close To You	Maxi Priest
+Apply Some Pressure	Maximo Park
 Apply Some Pressure	Maxïmo Park
 Hautnah	Maya Saban
 Das Alles Ändert Nichts Daran	Maya Saban Feat. Cosmo Klein
@@ -2601,6 +2626,7 @@ Whiskey in the jar	Metallica
 Enter Sandman	Metallica & Symphony
 Nothing Else Matters	Metallica & Symphony
 Shake It	Metro Station
+A Thing for me	Metronomy
 Tanz Der Moleküle	Mia
 Tanz Der Moleküle [VIDEO]	Mia
 Mad World	Michael Andrews Feat. Gary Jules
@@ -2859,6 +2885,7 @@ Where The Wild Roses Grow	Nick Cave And Kylie Minogue
 Where The Wild Roses Grow	Nick Cave and Kylie Minogue
 Far Away	Nickelback
 How You Remind Me	Nickelback
+How You Remind Me [VIDEO]	Nickelback
 Rockstar	Nickelback
 Savin' Me	Nickelback
 Too Bad	Nickelback
@@ -3056,7 +3083,7 @@ Sonnendeck	Peter Licht
 Nessaja	Peter Maffay
 So bist Du	Peter Maffay
 Und Es War Sommer	Peter Maffay
-Über sieben Brücken musst Du gehn	Peter Maffay
+Über sieben Brücken mußt Du gehn	Peter Maffay
 Flieg Ins Glück	Peter Pan
 Following The Leader	Peter Pan
 Geh'n Wir Auf Den Kriegspfad	Peter Pan
@@ -3077,6 +3104,7 @@ Downtown (Karaoke) [VIDEO]	Petula Clark
 Downtown [VIDEO]	Petula Clark
 California	Phantom Planet
 Marilyn Monroe	Pharrell Williams
+Against all odds	Phil Collins
 Another Day In Paradise [VIDEO]	Phil Collins
 Can't Stop Loving You	Phil Collins
 In The Air Tonight	Phil Collins
@@ -3122,6 +3150,7 @@ The Bitter End [VIDEO]	Placebo
 Hey There Delilah	Plain White T's
 Hey There Delilah [VIDEO]	Plain White T's
 1, 2, 3, 4	Plain White T's
+LocoRoco Title Theme	PlayStationPortable
 Late Goodbye	Poets Of The Fall
 Wenn Jetzt Sommer Wär	Pohlmann
 Every Rose Has Its Thorn	Poison
@@ -3305,6 +3334,7 @@ Cotton Eye Joe [VIDEO]	Rednex
 The Spirit Of The Hawk	Rednex
 Sell Out	Reel Big Fish
 She has a Girlfriend Now	Reel Big Fish
+Us	Regina Spektor
 Macho Macho	Reinhard Fendrich
 Über den Wolken	Reinhard Mey
 I'll be there for you	Rembrandts
@@ -3331,7 +3361,7 @@ Unholy Warcry	Rhapsody
 Hey, hey, Wickie	Rheinländer
 Wir Alle Wollen Immer Nur Das Eine	Rheinländer
 Margherita	Riccardo Cocciante
-Sarà pérche ti amo	Ricchi e Poveri
+Sará pérche ti amo	Ricchi e Poveri
 Hazard	Richard Marx
 Right Here Waiting [VIDEO]	Richard Marx
 Reality	Richard Sanderson
@@ -3353,6 +3383,7 @@ Stand Up For The Champions	Right Said Fred
 You're My Mate [VIDEO]	Right Said Fred
 Unchained Melody	Righteous Brothers
 California King Bed	Rihanna
+Disturbia (Duett)	Rihanna
 Disturbia [VIDEO]	Rihanna
 Don't stop the music [VIDEO]	Rihanna
 Pon De Replay	Rihanna
@@ -3374,6 +3405,7 @@ Aida	Rino Gaetano
 Gianna	Rino Gaetano
 Junimond	Rio Reiser
 König Von Deutschland	Rio Reiser
+König Von Deutschland	Rio Reiser
 Give It All	Rise Against
 Hero Of War	Rise Against
 Prayer of the Refugee	Rise Against
@@ -3386,7 +3418,7 @@ Advertising Space [VIDEO]	Robbie Williams
 Angels	Robbie Williams
 Better Man	Robbie Williams
 Bodies [VIDEO]	Robbie Williams
-Come Undone [VIDEO]	Robbie Williams
+Come Undone	Robbie Williams
 Eternity	Robbie Williams
 Feel [VIDEO]	Robbie Williams
 Let Me Entertain You	Robbie Williams
@@ -3524,6 +3556,7 @@ The Best Side Of Life	Sarah Connor
 I Remember Love	Sarah Dawn Finer
 Angel	Sarah McLachlan
 If you believe	Sasha
+Affirmation	Savage Garden
 I Want You	Savage Garden
 I Want You [VIDEO]	Savage Garden
 To the Moon and Back	Savage Garden
@@ -3563,6 +3596,7 @@ Ding	Seeed
 Schwinger	Seeed
 Chiquilla	Seguridad Social
 Dreaming of You	Selena
+A Year Without Rain	Selena Gomez & The Scene
 Ist Es Wichtig?	Selig
 Schau Schau	Selig
 Closing Time	Semisonic
@@ -3594,7 +3628,7 @@ Whenever Wherever [VIDEO]	Shakira
 Give It Up To Me	Shakira ft. Timbaland & Lil Wayne
 Hips don't lie [VIDEO]	Shakira ft. Wyclef
 From this moment on	Shania Twain
-It only hurts when I'm breathing	Shania Twain
+It only hurts when i'm breathing	Shania Twain
 Man I Feel Like A Woman*	Shania Twain
 She's not just a pretty face	Shania Twain
 Up!	Shania Twain
@@ -3638,6 +3672,7 @@ Don't You Forget About Me [VIDEO]	Simple Minds
 Untitled	Simple Plan
 Welcome To My Life	Simple Plan
 Your Love Is A Lie	Simple Plan
+Jet Lag (Duett)	Simple Plan ft. Natasha Bedingfield
 Say You Love Me	Simply Red
 Nothing Compares 2 U [VIDEO]	Sinead O'Connor
 Baby Got Back	Sir Mix A Lot
@@ -3646,7 +3681,7 @@ We Are Family	Sister Sledge
 We Are Family [VIDEO]	Sister Sledge
 Liebeskummer Lohnt Sich Nicht	Siw Malmkvist
 Kiss Me [VIDEO]	Sixpence None The Richer
-Obudź We Mnie Wenus	Sixteen
+Obudč We Mnie Wenus	Sixteen
 Twoja Lawa	Sixteen
 Cannabis	Ska-P
 Tio Sam	Ska-P
@@ -3654,6 +3689,7 @@ Tio Sam	Ska-P
 Awake and Alive	Skillet
 Forgiven	Skillet
 Hero	Skillet
+Hero (Duett)	Skillet
 It's Not Me It's You	Skillet
 Monster	Skillet
 Hedonism (Just Because You Feel Good)	Skunk Anansie
@@ -3737,7 +3773,7 @@ Lukk Opp Din Hjertedør	Sputnik
 Tempted	Squeeze
 Tempted [VIDEO]	Squeeze
 Gdy Zaplaczesz	Stachursky
-Zostańmy Razem	Stachursky
+Zostañmy Razem	Stachursky
 Stuck [VIDEO]	Stacie Orrico
 It's Been A While	Staind
 Outside	Staind
@@ -3844,6 +3880,7 @@ Soldier Side	System of A Down
 B.Y.O.B.	System of a Down
 Chop Suey	System of a down
 Geh Davon Aus	Söhne Mannheims
+Geh Davon Aus	Söhne Mannheims
 Und Wenn Ein Lied	Söhne Mannheims
 Und Wenn Ein Lied [VIDEO]	Söhne Mannheims
 China In Your Hand	T'Pau
@@ -3853,6 +3890,7 @@ All The Things She Said [VIDEO]	T.A.T.U.
 Live Your Life [VIDEO]	T.I. Ft. Rihanna
 Kyle Quit	TENACIOUS D
 No Scrubs [VIDEO]	TLC
+Dear friends	TRIPLANE
 Wolf Like Me	TV On The Radio
 Dynamite	Taio Cruz
 Babe *	Take That
@@ -3953,6 +3991,7 @@ Let It Be	The Beatles
 Love Me Do	The Beatles
 Michelle	The Beatles
 Nowhere Man	The Beatles
+Octopus's Garden (Duett)	The Beatles
 Penny Lane	The Beatles
 Please Please Me	The Beatles
 Sgt. Pepper's Lonely Hearts Club Band	The Beatles
@@ -4216,9 +4255,10 @@ Free Software Song	Thor
 Good Life	Three Days Grace
 I Hate Everything About You	Three Days Grace
 I Think We're Alone Now [VIDEO]	Tiffany
-Runął Już Ostatni Mur	Tilt
+Run¹ł Już Ostatni Mur	Tilt
 Nur noch kurz die Welt retten	Tim Bendzko
 F Sharp	Tim Minchin
+Aber dich gibt's nur einmal für mich	Tim Toupet
 Bobfahrerlied	Tim Toupet
 Da sprach der Scheich zum Emir	Tim Toupet
 Ein Diamant	Tim Toupet
@@ -4381,6 +4421,12 @@ Znak Pokoju	Virgin
 Mehr Als Das	Virginia Jetzt
 Fade to grey	Visage
 A Broken Man And The Dawn	Volbeat
+A Moment Forever	Volbeat
+Back To Prom	Volbeat
+Find That Soul	Volbeat
+Guitar Gangsters And Cadillac Blood	Volbeat
+I'm So Lonely I Could Cry	Volbeat
+Light A Way	Volbeat
 Making Believe	Volbeat
 Maybelenne I hofteholder	Volbeat
 Radio girl	Volbeat
